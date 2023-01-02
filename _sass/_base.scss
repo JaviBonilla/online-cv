@@ -21,7 +21,7 @@ h6 {
 a {
   color: darken($theme-color, 15%);
   &:hover {
-    text-decoration: underline;
+    // text-decoration: underline;
     color: darken($theme-color, 30%);
   }
   &:focus {
@@ -37,7 +37,7 @@ p {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
   background: $theme-color;
-  max-width: 1000px;
+  max-width: 1100px;
   margin: 0 auto;
   position: relative;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
@@ -224,9 +224,9 @@ p {
   }
 
   .publication-title {
-    font-size: 16px;
-    font-weight: 400;
-    color: $text-color;
+    font-size: 14px;
+    font-weight: 600;
+    // color: $text-color;
     margin-bottom: 1px;
   }
   .publication-authors {
