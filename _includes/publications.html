@@ -1,5 +1,6 @@
 {% assign publications = site.data.data.publications %}
 {% if publications %}
+<div id="publications-section"></div>
 <section class="section publications-section">
 
   <h2 class="section-title">
@@ -18,15 +19,17 @@
 
   {% for publication in publications.papers %}
   <div class="item">
-    {% if publication.link %}
-      <a class="publication-title" href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
-    {% else %}
-      <li>{{ publication.title }}</li>
-    {% endif %}
+    <div class="meta">
+    <div class="upper-row">
+        <a class="publication-title" href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
+        <!--<div class="time">{{ publication.time }}</div>-->
+    </div>        
     <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference | markdownify }}</div>
+    </div><!--//meta-->    
+    <div class="publication-details">{{ publication.details | markdownify }}</div>
   </div><!--//item-->
   {% endfor %}
+
 
 </section><!--//section-->
 {% endif %}
