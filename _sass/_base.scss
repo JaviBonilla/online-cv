@@ -20,12 +20,13 @@ h6 {
 
 a {
   color: darken($theme-color, 15%);
-  &:hover {
-    // text-decoration: underline;
-    color: darken($theme-color, 30%);
-  }
   &:focus {
     text-decoration: none;
+  }  
+  &:visited:hover,
+  &:hover {
+    text-decoration: underline;
+    color: darken($theme-color, 30%);
   }
 }
 
@@ -187,13 +188,18 @@ p {
     overflow: hidden;
     margin-bottom: 2px;
   }
-  .job-title,
-  .degree {
-    color: $text-color;
-    font-size: 16px;
+  .job-title{
+    font-size: 14px;
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: 500;
+    font-weight: 600;
+  }
+  .degree {
+    color: $text-color;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 600;
   }
   .time {
     position: absolute;
@@ -227,7 +233,8 @@ p {
     font-size: 14px;
     font-weight: 600;
     // color: $text-color;
-    margin-bottom: 1px;
+    margin-top: 0;
+    margin-bottom: 0;
   }
   .publication-authors {
     font-style: italic;
