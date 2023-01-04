@@ -3,121 +3,121 @@
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+      <a class="whitecolor" href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
-      <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
+      <a class="whitecolor" href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
-      <a href="">{{ sidebar.citizenship }}</a>
+      <a class="whitecolor" href="">{{ sidebar.citizenship }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.timezone %}
     <li class="timezone"><i class="fas fa-clock"></i>
-      <a href="">{{ sidebar.timezone }}</a>
+      <a class="whitecolor" href="">{{ sidebar.timezone }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.telegram %}
     <li class="telegram"><i class="fab fa-telegram"></i>
-      <a href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
+      <a class="whitecolor" href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+      <a class="whitecolor" href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">LinkedIn</a>
+      <a class="whitecolor" href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">LinkedIn</a>
     </li>
     {% endif %}
 
     {% if sidebar.xing %}
     <li class="xing"><i class="fab fa-xing"></i>
-      <a href="https://www.xing.com/profile/{{ sidebar.xing }}" target="_blank">{{ sidebar.xing }}</a>
+      <a class="whitecolor" href="https://www.xing.com/profile/{{ sidebar.xing }}" target="_blank">{{ sidebar.xing }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
-      <a href="http://github.com/{{ sidebar.github }}" target="_blank">GitHub</a>
+      <a class="whitecolor" href="http://github.com/{{ sidebar.github }}" target="_blank">GitHub</a>
     </li>
     {% endif %}
 
     {% if sidebar.gitlab %}
     <li class="gitlab"><i class="fab fa-gitlab"></i>
-      <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
+      <a class="whitecolor" href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.bitbucket %}
     <li class="bitbucket"><i class="fab fa-bitbucket"></i>
-      <a href="http://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank">{{ sidebar.bitbucket }}</a>
+      <a class="whitecolor" href="http://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank">{{ sidebar.bitbucket }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.twitter %}
     <li class="twitter"><i class="fab fa-twitter"></i>
-      <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+      <a class="whitecolor" href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
-      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
+      <a class="whitecolor" href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.codewars %}
     <li class="codewars"><i class="fas fa-code"></i>
-      <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
+      <a class="whitecolor" href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
-      <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
+      <a class="whitecolor" href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.scopus %}
     <li class="scopus"><svg height="12px" width="12px" fill="#ffffff" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg"><title>Scopus icon</title><path d="M24 19.059l-.14-1.777c-1.426.772-2.945 1.076-4.465 1.076-3.319 0-5.96-2.782-5.96-6.475 0-3.903 2.595-6.31 5.633-6.31 1.917 0 3.39.303 4.792 1.075L24 4.895c-1.286-.608-2.337-.889-4.698-.889-4.534 0-7.97 3.53-7.97 8.017 0 5.12 4.09 7.924 7.9 7.924 1.916 0 3.506-.257 4.768-.888zm-14.954-3.46c0-2.22-1.964-3.225-3.857-4.347C3.716 10.364 2.15 9.756 2.15 8.12c0-1.215.889-2.548 2.642-2.548 1.519 0 2.57.234 3.903 1.029l.117-1.847c-1.239-.514-2.127-.748-4.137-.748C1.8 4.006.047 5.876.047 8.26c0 2.384 2.103 3.413 4.02 4.581 1.426.865 2.922 1.45 2.922 2.992 0 1.496-1.333 2.571-2.922 2.571-1.566 0-2.594-.35-3.786-1.075L0 19.176c1.215.56 2.454.818 4.16.818 2.385 0 4.885-1.473 4.885-4.395z"/></svg>&nbsp;&nbsp;
-      <a href="https://www.scopus.com/authid/detail.uri?authorId={{ sidebar.scopus }}" target="_blank">Scopus</a>
+      <a class="whitecolor" href="https://www.scopus.com/authid/detail.uri?authorId={{ sidebar.scopus }}" target="_blank">Scopus</a>
     </li>
     {% endif %}
 
     {% if sidebar.orcid %}
     <li class="orcid"><i class="fab fa-orcid"></i>
-      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">ORCID</a>
+      <a class="whitecolor" href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">ORCID</a>
     </li>
     {% endif %}
 
     {% if sidebar.google %}
     <li class="google"><i class="fab fa-google"></i>
-      <a href="https://scholar.google.es/citations?user={{ sidebar.google }}" target="_blank">Google Scholar</a>
+      <a class="whitecolor" href="https://scholar.google.es/citations?user={{ sidebar.google }}" target="_blank">Google Scholar</a>
     </li>
     {% endif %}
 
     {% if sidebar.researchGate %}
     <li class="researchGate"><i class="fab fa-researchgate"></i>
-      <a href="https://scholar.google.es/citations?user={{ sidebar.researchGate }}" target="_blank">Research Gate</a>
+      <a class="whitecolor" href="https://scholar.google.es/citations?user={{ sidebar.researchGate }}" target="_blank">Research Gate</a>
     </li>
     {% endif %} 
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">CV PDF</a>
+      <a class="whitecolor" href="{{ sidebar.pdf }}" target="_blank">CV PDF</a>
     </li>
     {% endif %}
 
