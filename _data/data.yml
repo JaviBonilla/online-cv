@@ -60,6 +60,8 @@ sidebar:
   index:
     title: Index
     info:
+      - item: Research Trajectory
+        link: '#summary-section'
       - item: Education
         link: '#education-section'
       - item: Scientific Publications
@@ -68,6 +70,10 @@ sidebar:
         link: '#ip-section'
       - item: Books
         link: '#books-section'
+      - item: International Conference Proceedings
+        link: '#conf-int-section'
+      - item: National Conference Proceedings
+        link: '#conf-nat-section'
 
 career-profile:
   title: Research Trajectory
@@ -402,6 +408,289 @@ books:
       link: 'assets/docs/books/Book_Bonilla.pdf'
       details: |
         Editorial CIEMAT, ISBN: 978-84-7834-705-6.<br>Depósito Legal: M-28846-2013, NIPO: 721-13-044-9.
+
+conferences_international:
+  title: International Conference Proceedings
+  papers:
+    - title: 'Hel-IoT web server: a smart heliostat development platform'
+      link: 'assets/docs/conf_int/Hel-IoT_web_Server.pdf'
+      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla / CIEMAT
+      details: |
+        28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
+        Abstract, Poster, Albuquerque (USA), Sep 27 - 30, 2022.
+      time: 2022
+
+    - title: Assessment of the integration of a MED-TVC plant into a solar tower with Brayton cycle
+      link: 'https://www.edsoc.com/congress/laspalmas2020/program.html'
+      authors: <b>J. Bonilla</b>, P. Palenzuela, B. Ortega-Delgado, J.M. Serrano, D.C. Alarcón-Padilla / CIEMAT
+      details: |
+        Desalination for the environment: clean water and energy,<br>
+        Abstract, Poster, Las Palmas (Spain), Jun 20 - 23, 2021.
+      time: 2022
+
+    - title: 'Inductive projection planning: Putting CSP in the picture'
+      link: 'http://doi.org/10.1063/5.0085735'
+      authors: <b>J. Bonilla</b> / CIEMAT, L. Crespo / Protermosolar
+      details: |
+        26<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces),<br>
+        Regular paper in Proceedings, Oral presentation, DOI: 10.1063/5.0085735,<br> Albuquerque (USA), Online, Sep 28 - Oct 2, 2020.
+      time: 2020
+
+    - title: Optimización del desarrollo de la energia termosolar en españa en el contexto de la transición energética
+      link: 'http://doi.org/10400.9/3340'
+      authors: J. Blanco, <b>J. Bonilla</b>, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
+      details: |
+        XVII Congreso Ibérico e XIII Congreso Ibero-americano de Energia Solar (CIES),<br>
+        Regular paper in Proceedings, Oral presentation, DOI: 10400.9/3340,<br>
+        Lisboa (Portugal), Online, November, 3 - 5, 2020.
+      time: 2020
+
+    - title: Machine learning perspectives in concentrating solar thermal technology
+      link: 'https://www.eurosim.info/fileadmin/user_upload_argesim/ARGESIM_Publications_OA/Reports/arep.58.pdf'
+      authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, L. Valenzuela / CIEMAT
+      details: |
+        10<sup>th</sup> Congress of the Federation of European Simulation Societies (EUROSIM).<br>
+        Special Session on Trends and Perspectives of Machine Learning in Automation,<br>
+        Regular paper in Proceedings, Oral presentation, La Rioja (Spain), Jul 1 - 5, 2019.
+      time: 2019
+
+    - title: A software for dimensioning of small microgrids with PV-battery systems
+      link: 'http://doi.org/10.18086/swc.2019.31.05'
+      authors: J.L. Torres-Moreno / UAL, J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, A. Gímenez / UAL
+      details: |
+        ISES Solar World Congress, IEA SHC International Conference on Solar Heating and Cooling for Buildings and Industry,
+        Regular paper in Proceedings, Oral presentation, DOI: 10.18086/swc.2019.31.05.<br>
+        Santiago (Chile), Nov 4 - 7, 2019.
+      time: 2019
+
+    - title: Machine learning for solar trackers
+      link: 'http://doi.org/10.1063/1.5117524'
+      authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
+      details: |
+        24<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces),
+        Regular paper in Proceedings, Poster, DOI: 10.1063/1.5117524,
+        Casablanca (Morocco), Oct 2 - 5, 2018.
+      time: 2018
+
+    - title: Development of an open source multi-platform software tool for parameter estimation studies in FMI models
+      link: 'http://doi.org/10.3384/ecp17132683'
+      authors: <b>J. Bonilla</b>, J.A. Carballo, L. Roca / CIEMAT, M. Berenguel / UAL
+      details: |
+        12<sup>th</sup> International Modelica conference,
+        Regular paper in Proceedings, Oral presentation,<br>
+        DOI: 10.3384/ecp17132683, Prague (Czech Republic), May 15 - 17, 2017.
+      time: 2017
+
+    - title: Optimal operating conditions analysis for a double-effect absorption heat pump coupled to a multi effect distillation plant
+      link: 'https://www.desline.com/congress/TelAviv2017/program.html'
+      authors: J.A. Carballo, <b>J. Bonilla</b>, P. Palenzuela, L. Roca / CIEMAT, A. de la Calle / CSIRO
+      details: |
+        Euromed, Desalination for Clean Water and Energy: Cooperation around the World,
+        Regular paper in Proceedings, Poster,
+        Tel Aviv (Israel), May 9 - 12, 2017.
+      time: 2017
+
+    - title: 'Control strategies applied in HYSOL demonstrator: a simulation-based evaluation'
+      link: 'http://doi.org/10.1109/MED.2016.7535952'
+      authors: L. Roca, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, L. González, A.R. Rocha / COBRA
+      details: |
+        24<sup>th</sup> Mediterranean Conference on Control and Automation,
+        Regular paper in Proceedings, Oral presentation, DOI: 10.1109/MED.2016.7535952, 
+        Athens (Greece), June 21 - 24, 2016.
+      time: 2016
+
+    - title: Operation & training tool for a gas - molten salt heat recovery demonstrator facility
+      link: 'http://doi.org/10.1016/j.procs.2016.04.232'
+      authors: <b>J. Bonilla</b>, L. Roca / CIEMAT, E. Cerrajero, D. Lopez / IDIE, S. Miraval, S. Padilla / AITESA, L. Diez / SERLED, A.R. Rocha, L. González / COBRA
+      details: |
+        6<sup>th</sup> International Conference on Sustainable Energy Information Technology (SEIT-2016),
+        Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.procs.2016.04.232, 
+        Madrid (Spain), May 23 - 26, 2016.
+      time: 2016
+
+    - title: Optimal operating conditions analysis of a multi-effect distillation plant
+      link: 'https://www.deswater.com/DWT_abstracts/vol_69/69_2017_229.pdf'
+      authors: J.A. Carballo, <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, P. Palenzuela / CIEMAT, Manuel Berenguel / UAL
+      details: |
+        Desalination for the environment: clean water and energy,
+        Abstract, Poster,
+        Rome (Italy), May 22 - 26, 2016.
+      time: 2016
+
+    - title: Object-oriented modeling of a multi-pass shell-and-tube heat exchanger and its application to performance evaluation
+      link: 'http://doi.org/10.1016/j.ifacol.2015.09.166'
+      authors: <b>J. Bonilla</b>, M.M. Rodríguez, L. Roca, L. Valenzuela / CIEMAT
+      details: |
+        1<sup>st</sup> Conference on Modelling, Identification and Control of Nonlinear Systems (MICNON),
+        Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.ifacol.2015.09.166, 
+        Saint-Petersburg (Rusia), June 24 - 26, 2015.
+      time: 2015
+
+    - title: Control strategies in a thermal oil - molten salt heat exchanger
+      link: 'http://doi.org/10.1063/1.4949227'
+      authors: L. Roca, <b>J. Bonilla</b>, M.M. Rodríguez, P. Palenzuela, A. de la Calle, L. Valenzuela / CIEMAT
+      details: |
+        21<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces),
+        Regular paper in Proceedings, Poster, DOI: 10.1063/1.4949227, 
+        Cape Town (South Africa), October 13 - 16, 2015.
+      time: 2015
+
+    - title: Experimental calibration of heat transfer and thermal losses in a shell-and-tube heat exchanger
+      link: 'http://doi.org/10.3384/ecp15118873'
+      authors: <b>J. Bonilla</b>, A. de la Calle, M.M. Rodríguez, L. Roca, L. Valenzuela / CIEMAT
+      details: |
+        11<sup>th</sup> International Modelica Conference,
+        Regular paper in Proceedings, Poster, DOI: 10.3384/ecp15118873, 
+        Versailles (France), September 21 -23, 2015.
+      time: 2015
+
+    - title: A combinatorial optimization problem to control a solar reactor
+      link: 'http://doi.org/10.1016/j.egypro.2014.03.216'
+      authors: L. Roca, R. Diaz-Franco, A. de la Calle, <b>J. Bonilla</b>, L. J. Yebra, Alfonso Vidal / CIEMAT
+      details: |
+        19<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces), 
+        Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.egypro.2014.03.216, 
+        Las Vegas (USA), September 17 - 20, 2013.
+      time: 2013
+
+    - title: Object-oriented library of switching moving boundary models for two-phase flow evaporators and condensers
+      link: 'http://doi.org/10.3384/ecp1207671'
+      authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED, F.E. Cellier / ETH
+      details: |
+        9<sup>th</sup> International Modelica Conference,
+        Regular paper in Proceedings, Oral presentation, DOI: 10.3384/ecp1207671, 
+        Munich (Germany), September 3 - 5, 2012.
+      time: 20212
+
+    - title: Object-oriented modeling of switching moving boundary models for two-phase flow evaporators
+      link: 'http://doi.org/10.3182/20120215-3-AT-3016.00189'
+      authors: <b>J. Bonilla</b>, L. J. Yebra /CIEMAT, S. Dormido / UNED, F. E. Cellier / ETH
+      details: |
+        7<sup>th</sup> Vienna International Conference on Mathematical Modelling (MATHMOD),
+        Regular paper in Proceedings, Oral presentation, DOI: 10.3182/20120215-3-AT-3016.00189, 
+        Vienna (Austria), February 5 - 7, 2012.
+      time: 2012
+
+    - title: Exploiting OpenMP in the initial section of modelica models
+      link: 'http://www.ep.liu.se/ecp/056/012/ecp1105612.pdf'
+      authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED
+      details: |
+        4<sup>th</sup> International Workshop on Equation-Based Object-Oriented Modeling Languages and Tools,
+        Regular paper in Proceedings, Oral presentation,
+        Zürich (Switzerland), September 5, 2011.
+      time: 2011
+
+    - title: Real-time simulation of CESA-I central receiver solar thermal power plant
+      link: 'http://doi.org/10.3384/ecp09430062'
+      authors: <b>J. Bonilla</b>, L. Roca, L.J. Yebra / CIEMAT, S. Dormido / UNED
+      details: |
+        7<sup>th</sup> International Modelica Conference,
+        Regular paper in Proceedings, Oral presentation, DOI: 10.3384/ecp09430062, 
+        Como (Italy), September 20 - 22, 2009.
+      time: 2009
+
+    - title: Chattering in dynamic mathematical two-phase flow models
+      link: 'https://doi.org/10.23919/ECC.2009.7075015'
+      authors: <b>J. Bonilla</b>, L.J. Yebra , E. Zarza / CIEMAT, S. Dormido /UNED
+      details: |
+        European Control Conference 2009 (ECC),
+        Regular paper in Proceedings, Oral presentation, DOI: 10.23919/ECC.2009.7075015, 
+        Budapest (Hungary), August 23 - 26, 2009.
+      time: 2009
+
+    - title: Object oriented modelling and simulation of acurex solar thermal power plant
+      link: 'https://www.argesim.org/fileadmin/user_upload_argesim/ARGESIM_Publications_OA/MATHMOD_Publications_OA/MATHMOD_2009_AR34_35/full_papers/301.pdf'
+      authors: L.J. Yebra / CIEMAT, M. Berenguel / UAL, L. Roca / Aunergy Thermosolar S.L., <b>J. Bonilla</b> /CIEMAT, S. Dormido / UNED
+      details: |
+        6<sup>th</sup> Vienna International Conference on Mathematical Modelling (MATHMOD),
+        Extended Abstract and Regular paper in Proceedings, Oral presentation,
+        Vienna (Austria), February 11 - 13, 2009.
+      time: 2009
+
+    - title: Modelling and real-time simulation of heliostat fields in Central Receiver Plants
+      link: 'https://www.argesim.org/fileadmin/user_upload_argesim/ARGESIM_Publications_OA/MATHMOD_Publications_OA/MATHMOD_2009_AR34_35/full_papers/388.pdf'
+      authors: <b>J. Bonilla</b> /CIEMAT, L. Roca, J. González / Aunergy Thermosolar S.L., L.J. Yebra / CIEMAT
+      details: |
+        6<sup>th</sup> Vienna International Conference on Mathematical Modelling (MATHMOD),
+        Extended Abstract and Short paper in Proceedings, Poster,
+        Vienna (Austria), February 11 - 13, 2009.
+      time: 2009
+
+conferences_national:
+  title: National Conference Proceedings
+  papers:
+    - title: Control de un recuperador de sales en una planta termosolar híbrida
+      link: 'https://doi.org/10.17979/spudc.9788497497169.421'
+      authors: P. Otalóra / UAL, L. Roca, <b>J. Bonilla</b> / CIEMAT, J.L Gúzman / UAL
+      details: |
+        XL Jornadas de Automática 2019.
+        Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497497169.421,
+        Ferrol (Spain), September 4 - 6, 2019.
+      time: 2019
+
+    - title: Modelado y optimización para una gestión eficiente de recursos en desalación solar
+      link: 'https://intranet.ceautomatica.es/sites/default/files/upload/13/files/ProceedingsXVISimposioIC.pdf'
+      authors: J.A. Carballo,  <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL
+      details: |
+        XVI Simposio CEA de Ingeniería de Control,
+        Regular paper in Proceedings, Poster,
+        Almería (Spain), March 7 - 9, 2018.
+      time: 2018
+
+    - title: Control predictivo para satisfacer la demanda de agua en un invernadero mediante un sistema de desalación solar
+      link: 'https://www.sech.info/ACTAS/Acta%20n%C2%BA%2072.%20II%20Simposio%20nacional%20de%20Ingenier%C3%ADa%20Hort%C3%ADcola/A%CC%81rea%20Tema%CC%81tica%201.%20Automatizacio%CC%81n%20y%20Robotizacio%CC%81n/Control%20predictivo%20para%20satisfacer%20la%20demanda%20de%20agua%20en%20un%20invernadero%20mediante%20un%20sistema%20de%20desalacio%CC%81n%20solar.pdf'
+      authors: L. Roca / CIEMAT, J.A. Sanchez, F. Rodríguez / UAL, <b>J. Bonilla</b> / CIEMAT, A. de la Calle / CSIRO, M. Berenguel / UAL,
+      details: |
+        II Simposio Nacional de Ingeniería Hortícola - Automatización y TICs en Agricultura,
+        Regular paper in Proceedings, Poster,
+        Almería (Spain), February 10 - 12, 2016
+      time: 2016
+
+    - title: Inversión de la causalidad computacional en el modelado dinámico. Caso práctico de una planta de generación de hidrógeno solar
+      link: 'https://www.ehu.eus/documents/3444171/4484748/80.pdf'
+      authors: A. de la Calle, L. Roca, <b>J. Bonilla</b> / CIEMAT
+      details: |
+        XXXVI Jornadas de Automática 2015,
+        Regular paper in Proceedings, Poster,
+        Bilbao (Spain), September 2 - 4, 2015
+      time: 2015
+
+    - title: Solar desalination management to fulfill greenhouse water demand using predictive control
+      link: 'http://www.ja2014.upv.es/wp-content/uploads/papers/paper_46.pdf'
+      authors: L. Roca / CIEMAT, J.D. Álvarez, F. Rodríguez / UAL, <b>J. Bonilla</b> / CIEMAT
+      details: |
+        XXXV Jornadas de Automática 2014,
+        Regular paper in Proceedings, Poster,
+        Valencia (Spain), September 3 - 5, 2014
+      time: 2014
+
+    - title: Intercambio de modelos entre herramientas de simulación con functional mock-up interface (FMI)
+      link: 'assets/docs/conf_nat/ActasJA2013.pdf'
+      authors: <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez / US, A. de la Calle, L. Roca, L.J. Yebra / CIEMAT, F. Rodríguez / UAL
+      details: |
+        XXXIV Jornadas de Automática 2013,
+        Regular paper in Proceedings, Poster,
+        Terrassa (Spain), September 4 - 6, 2013.
+      time: 2013
+
+    - title: Modelado y simulación de un evaporador de tubos sumergidos
+      link: 'assets/docs/conf_nat/Jornadas2011.pdf'
+      authors: A. de la Calle, L. Roca, <b>J. Bonilla</b>, L.J. Yebra / CIEMAT
+      details: |
+        XXXII Jornadas de Automática 2011,
+        Regular paper in Proceedings, Poster,
+        Seville (Spain), September 7 - 9, 2011
+      time: 2011
+
+    - title: Sistema de ayuda a la toma de decisiones en la gestión del clima interior de un invernadero basado en modelos de crecimiento de cultivos de tomate
+      link: 'assets/docs/conf_nat/simosi.pdf'
+      authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, F. Rodríguez / UAL, Armando Ramírez / UACH
+      details: |
+        II Congreso Español de Informática (CEDI),
+        I Simposio en Modelado y Simulación de Sístemas Dinámicos (SIMOSI),
+        Regular paper in Proceedings, Oral presentation,
+        Zaragoza (Spain), September 11 - 14, 2007.
+      time: 2007
 
 # skills:
 #   title: Skills &amp; Proficiency
