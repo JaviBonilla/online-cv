@@ -131,6 +131,7 @@ p {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
       margin-bottom: 0px;
+      float: right;
     }
   }
   .languages-container {
@@ -199,13 +200,14 @@ p {
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: 600;
+    font-weight: 500;
   }
   .time {
     position: absolute;
     right: 0;
     top: 0;
     color: $text-grey;
+    font-weight: 600;
   }
   .company,
   .university {
@@ -283,3 +285,14 @@ p {
     color: $heart;
   }
 }
+
+.wordwrap { 
+  margin-right: 40px;
+  overflow: hidden;
+}
+
+.wordwrap-long { 
+  margin-right: 140px;
+  overflow: hidden;
+}
+
