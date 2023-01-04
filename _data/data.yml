@@ -74,6 +74,12 @@ sidebar:
         link: '#conf-int-section'
       - item: National Conference Proceedings
         link: '#conf-nat-section'
+      - item: Invited Presentations
+        link: '#presentations-section'
+      - item: International Doctoral Colloquiums
+        link: '#colloquiums-section'
+      - item: Supervision of Ph.D. Students
+        link: '#phd-dissertations-section'
 
 career-profile:
   title: Research Trajectory
@@ -691,6 +697,83 @@ conferences_national:
         Regular paper in Proceedings, Oral presentation,
         Zaragoza (Spain), September 11 - 14, 2007.
       time: 2007
+
+presentations:
+  title: Invited Presentations
+  papers:
+    - title: The potential of concentrating solar power in portugal using inductive projection planning
+      link: 'https://www.youtube.com/watch?v=4-b-JOInwZc'
+      authors: J. Blanco, <b>J. Bonilla</b> / CIEMAT, G. Martín / Protermosolar
+      details: |
+        How CSP can improve Frequency Stability of the Power Grid, ATA insights,
+        Oral presentation, online, January 27, 2022.
+      time: 2022
+
+    - title: Optimization of CSP development in spain using inductive projection planning tool based on artificial intelligence
+      link: 'https://www.youtube.com/watch?v=MGq3CDDLiSw'
+      authors: J. Blanco, <b>J. Bonilla</b>, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
+      details: |
+        CSP4Climate, The Cyprus Institute,
+        Oral presentation, online, December 15 - 17, 2020
+      time: 2020
+
+    - title: Herramienta para optimizar el mix eléctrico aplicando técnicas de inteligencia artificial
+      link: 'http://www.solarconcentra.org/wp-content/uploads/2020/02/Genera-2020-Bonilla.pdf'
+      authors: <b>J. Bonilla</b> / CIEMAT
+      details: |
+        Feria Internacional de Energía y Medioambiente (GENERA),
+        Oral presentation, Madrid (Spain), Feb 5 - 7, 2020
+      time: 2020
+
+    - title: Modelado y simulación de plantas termosolares
+      link: 'assets/docs/invited/JI.pdf'
+      authors: <b>J. Bonilla</b> / CIEMAT
+      details: |
+        Jornadas de Informática 2014, University of Almería,
+        Oral presentation, Almería (Spain), March 3, 2014
+      time: 2014
+
+    - title: Modelado y simulación de plantas termosolares
+      link: 'assets/docs/invited/JJAA.pdf'
+      authors: <b>J. Bonilla</b> / CIEMAT
+      details: |
+        XXXI Jornadas de Automática 2010, Modeling and Simulation Group,
+        Oral presentation, Jaén (Spain), September 8, 2010
+      time: 2010
+
+colloquiums:
+  title: International Doctoral Colloquiums
+  papers:
+    - title: Chattering problem in dynamic mathematical two-phase flow models
+      link: 'https://www.sollab.eu/doctoralcolloquium5/index.php?page=Program'
+      authors: <b>J. Bonilla</b> / CIEMAT
+      details: |
+        5<sup>th</sup> Sollab Doctoral Colloquium on Solar Concentrating Technologies,
+        Abstract, Oral presentation and Poster, Cologne, Germany, June 23 - 26, 2009
+      time: 2009
+    - title: Chattering problem in dynamic mathematical two-phase flow models
+      link: 'https://www.sollab.eu/doctoralcolloquium4/index.php?page=5'
+      authors: <b>J. Bonilla</b> / CIEMAT
+      details: |
+        4<sup>th</sup> Sollab Doctoral Colloquium on Solar Concentrating Technologies,
+        Abstract and Oral presentation, Tabernas, Almería (Spain), September 10 - 12, 2008
+      time: 2008
+
+phd_dissertations:
+  title: Supervision of Ph.D. Students
+  papers:
+    - title: Modelado y optimización para una gestión eficiente de recursos en tecnlogía termosolar
+      link: 'assets/docs/phds/tesis_doc_autorizacion_directores_signed.pdf'
+      authors: Jose Antonio Carballo, University of Almería (UAL)
+      details: |
+        Supervisors: <b>J. Bonilla</b> / CIEMAT and M. Berenguel / UAL
+      time: 2018
+    - title: Contribuciones al modelado dinámico de procesos termoquímicos en instalaciones termosolares
+      link: 'assets/docs/phds/codirector_UNED.pdf'
+      authors: Alberto de la Calle Alonso, National Distance Learning University (UNED)
+      details: |
+        Supervisors: L. Roca, <b>J. Bonilla</b> / CIEMAT and S. Dormido / UNED
+      time: 2015
 
 # skills:
 #   title: Skills &amp; Proficiency
