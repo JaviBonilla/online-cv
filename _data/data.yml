@@ -125,6 +125,8 @@ education:
       link_tooltip: 'Certificate'
       link2: 'assets/docs/education/ExpIng.pdf'
       link2_tooltip: 'Academic record'
+      link3: 'assets/docs/education/CertIng.pdf'
+      link3_tooltip: 'Qualifications framework'
 
     - degree: Bachelor in Computer Systems Engineering
       university: University of Almería
@@ -137,6 +139,8 @@ education:
       link_tooltip: 'Certificate'
       link2: 'assets/docs/education/ExpSis.pdf'
       link2_tooltip: 'Academic record'
+      link3: 'assets/docs/education/CertSis.pdf'
+      link3_tooltip: 'Qualifications framework'
 
 # experiences:
 #   title: Experiences
