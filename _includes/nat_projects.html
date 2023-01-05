@@ -1,0 +1,35 @@
+{% assign publications = site.data.data.nat_projects %}
+{% if publications %}
+<div id="nat-projects-section"></div>
+<section class="section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-users-gear fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ publications.title }}
+  </h2>
+
+  {% if publications.intro %}
+  <div class="intro">
+    {{ publications.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in publications.papers %}
+  <div class="item">
+    <div class="meta">
+    <div class="upper-row">
+        <div class="wordwrap-dates"><a class="publication-title" href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></div>
+        <div class="time">{{ publication.time }}</div>
+    </div>        
+    <div class="publication-authors">{{ publication.authors }}</div>
+    </div><!--//meta-->    
+    <div class="publication-details">{{ publication.details | markdownify }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+
+</section><!--//section-->
+{% endif %}

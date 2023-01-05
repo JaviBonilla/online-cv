@@ -13,7 +13,7 @@ sidebar:
 
   # Sidebar links
   email: javier.bonilla@psa.es
-  phone: 649 13 02 95
+  phone: # 649 13 02 95
   timezone:
   citizenship:
   website: #do not add http://
@@ -80,6 +80,16 @@ sidebar:
         link: '#colloquiums-section'
       - item: Supervision of Ph.D. Students
         link: '#phd-dissertations-section'
+      - item: Supervision of Final Grade Projects
+        link: '#grade-projects-section'
+      - item: International Research Projects
+        link: '#int-projects-section'
+      - item: National Research Projects
+        link: '#nat-projects-section'
+      - item: Membership to Research Groups
+        link: '#research-groups-section'
+      - item: Prizes, Acknowledgments and Fellowships
+        link: '#prizes-section'
 
 career-profile:
   title: Research Trajectory
@@ -749,14 +759,14 @@ colloquiums:
   title: International Doctoral Colloquiums
   papers:
     - title: Chattering problem in dynamic mathematical two-phase flow models
-      link: 'https://www.sollab.eu/doctoralcolloquium5/index.php?page=Program'
+      link: 'assets/docs/colloquiums/5sollab.pdf'
       authors: <b>J. Bonilla</b> / CIEMAT
       details: |
         5<sup>th</sup> Sollab Doctoral Colloquium on Solar Concentrating Technologies,
-        Abstract, Oral presentation and Poster, Cologne, Germany, June 23 - 26, 2009
+        Abstract, Oral presentation and Poster, Cologne, Germany, June 22 - 24, 2009
       time: 2009
     - title: Chattering problem in dynamic mathematical two-phase flow models
-      link: 'https://www.sollab.eu/doctoralcolloquium4/index.php?page=5'
+      link: 'assets/docs/colloquiums/4sollab.pdf'
       authors: <b>J. Bonilla</b> / CIEMAT
       details: |
         4<sup>th</sup> Sollab Doctoral Colloquium on Solar Concentrating Technologies,
@@ -778,6 +788,163 @@ phd_dissertations:
       details: |
         Supervisors: L. Roca, <b>J. Bonilla</b> / CIEMAT and S. Dormido / UNED
       time: 2015
+
+grade_projects:
+  title: Supervision of Final Grade Projects
+  papers:
+    - title: Desarrollo de una herramienta software para simulación y control del demostrador de una planta termosolar híbrida de energías renovables
+      link: ''
+      authors: José Martín de Dios, University of Almería (UAL)
+      details: |
+        Supervisors: J.D. Álvarez / UAL and <b>J. Bonilla</b> / CIEMAT
+      time: 2016
+
+int_projects:
+  title: International Research Projects
+  papers:
+    - title: Expansion, improvement, renovation and remodelling of Plataforma Solar de Almería (PSA) (SolarNOVA II)
+      link: ''
+      details: |
+        European Regional Development Fund (ERDF) and Spanish funds, ICTS-2017-03-CIEMAT-04, Team member, budget: 11,996,375 €<br>
+        [SolarNOVA website](https://www.psa.es/es/feder/solarnova.php){:target="_blank"}
+      time: 2018 - 2023
+
+    - title: Solving water issues for CSP plants (SOLWARIS)
+      link: 'assets/docs/projects_int/SOLWATT_DoW.pdf'
+      details: |
+        Horizon 2020, European Commission, grant agreement no 792103, Research team member, buget: 10,812,504 €<br>
+        [SOLWARIS website](https://solwaris.eu){:target="_blank"}
+      time: 2018 - 2022
+
+    - title: Innovative configuration for a fully renewable hybrid CSP plant (HYSOL)
+      link: 'assets/docs/projects_int/HYSOL.pdf'
+      details: |
+        EU Seventh Framework Programme for Research (FP7-Energy), European Commission, grant agreement n° 308912, Research team member, budget: 9,275,982 €<br>
+        [HYSOL website](https://cordis.europa.eu/project/id/308912){:target="_blank"}
+      time: 2013 - 2016
+
+    - title: Solar facilities for the european research area (SFERA)
+      link: 'assets/docs/projects_int/Sfera-R12-2.pdf'
+      details: |
+        EU Seventh Framework Programme for Research (FP7-Infrastructures), European Commission, grant agreement n° 228296, Work team member, budget: 9,042,935 €<br>
+        [SFERA website](https://cordis.europa.eu/project/id/228296){:target="_blank"}
+      time: 2009 - 2013
+
+nat_projects:
+  title: National Research Projects
+  papers:
+    - title: More efficient heliostat fields for solar tower plants (HELIOSUN)
+      link: 'assets/docs/projects_nat/HELIOSUN.pdf'
+      details: |
+        Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126805OB-100, Work team member,
+        budget: 145,200 €
+      time: 2022 - 2025
+
+    - title: Hybrid cooling solutions for water saving in solar thermal applications (SOLHYCOOL)
+      link: 'assets/docs/projects_nat/SOLHYCOOL.pdf'
+      details: |
+        Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126452OA-I00, 
+        Work team member, budget: 78,650 €
+      time: 2022 - 2025
+
+    - title: Solar thermal solutions for integration in industrial processes (SOLTERMIN)
+      link: 'assets/docs/projects_nat/SOLTERMIN.pdf'
+      details: |
+        Spanish National Programme for Research Aimed at the Challenges of Society, Ministry of Science and Innovation, ENE2017-83973-R, Work team member, budget: 278,300 €<br>
+        [SOLTERMIN website](https://www.psa.es/es/unidades/ufl/proyectos/soltermin.php){:target="_blank"}
+      time: 2018 - 2022
+
+    - title: Control and energy management strategies in production environments with support of renewable energy (ENERPRO)
+      link: 'assets/docs/projects_nat/ENERPRO.pdf'
+      authors:
+      details: |
+        Spanish National Programme for Research Aimed at the Challenges of Society, Ministry of Science and Innovation, DPI2014-56364-C2-1-R, Work team member, budget: 131,200 €<br>
+        [ENERPRO website](https://arm.ual.es/arm-group/projects/enerpro/){:target="_blank"}
+      time: 2015 - 2018
+
+    - title: Controlling the growth of crops under glass by optimizing sustainability, economic and energy efficiency criteria (CONTROLCROP)
+      link: 'assets/docs/projects_nat/CONTROLCROP.pdf'
+      authors:
+      details: |
+        Proyecto de investigación de Excelencia financiado por la Consejería de Innovación Ciencia y Empresa, Junta de Andalucía, P10-TEP-6174, Work team member, budget: 145,005 €<br>
+        [CONTROLCROP website](https://arm.ual.es/arm-group/projects/2011-controlcrop/){:target="_blank"}
+      time: 2011 - 2015
+
+    - title: Predictive control techniques for efficient management of renewable energy microgrids (POWER)
+      link: 'assets/docs/projects_nat/POWER.pdf'
+      authors:
+      details: |
+        Programa nacional de proyectos de investigación fundamental, subprograma de proyectos de investigación fundamental no orientada, Ministry of Science and Innovation, DPI2010-21589-C05-04, Work team member, budget: 105,270 €<br>
+        [POWER website](https://arm.ual.es/arm-group/projects/2011-power/){:target="_blank"}
+      time: 2011 - 2014
+
+    - title: Hybridization of renewable technologies in a power generation plant (HIBIOSOLEO)
+      link: 'assets/docs/projects_nat/HIBIOSOLEO.pdf'
+      authors:
+      details: |
+        INNPACTO 2010, National Program for Public-Private Cooperation, Ministry of Science and Innovation, IPT-440000-2010-004, Work team member, budget: 4,270,000 €<br>
+        [HIBIOSOLEO website](https://sites.google.com/view/guillermosanmiguel/research/key-finalised-projects/hibiosoleo){:target="_blank"}
+      time: 2011 - 2013
+
+research_groups:
+  title: Membership to Research Groups
+  papers:
+    - title: Solar Thermal Applications
+      link: 'https://www.psa.es/en/units/sta/personal.php'
+      details: |
+        Plataforma Solar de Almería (PSA), Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain
+      time: 2007 - Now
+
+    - title: Automatic control, Robotics and Mechatronic (ARM) Research Group
+      link: 'https://arm.ual.es/arm-group/people/javier-bonilla-cruz/'
+      details: |
+        Department of Computer Sciences, University of Almería
+      time: 2007 - Now
+
+    - title: Modeling and Control Unit
+      link: 'https://ciesol.com/modelado-y-control/personal-modelado-y-control/'
+      details: |
+        Centro de Investigación en Energía Solar (CIESOL), Joint Institute UAL – PSA.CIEMAT
+      time: 2007 - Now
+
+prizes:
+  title: Prizes, Acknowledgments and Fellowships
+  papers:
+    - title: Ph.D. dissertation extraordinary prize in Engineerring
+      link: 'assets/docs/prizes/PhD_dissertation_extraordinary_prize_in_Engineering.pdf'
+      details: |
+        Modeling of Two-Phase Flow Evaporators for Parabolic-Trough Solar Thermal Power Plants, University of Almería (UAL), <b>J. Bonilla</b>, Supervisors: L.J. Yebra and S. Dormido
+      time: 2016
+
+    - title: Supervisor of Ph.D. dissertation with an extraordinary prize
+      link: 'assets/docs/prizes/codirector.pdf'
+      details: |
+        Contribuciones al modelado dinámico de procesos termoquímicos en instalaciones termosolares, National Distance Learning University (UNED), A. de la Calle, Supervisors: L. Roca, <b>J. Bonilla</b> and S. Dormido
+      time: 2016
+
+    - title: Best paper award given by sociedad española de agroingeniería
+      link: 'assets/docs/prizes/'
+      details: |
+        Control predictivo para satisfacer la demanda de agua en un invernadero mediante un sistema de desalación solar, II Simposio Nacional de Ingeniería Hortícola - Automatización y TICs en Agricultura
+      time: 2016
+
+    - title: Best paper in modeling and simulation
+      link: 'assets/docs/prizes/FMI.pdf'
+      details: |
+        Intercambio de Modelos entre Herramientas de Simulación con Functional Mock-up Interface (FMI), XXXIV Jornadas de Automática 2013, Comité Español de Automática (CEA)
+      time: 2013
+
+    - title: Ph.D. scholarship
+      link: 'assets/docs/prizes/phd.pdf'
+      details: |
+        Plataforma Solar de Almería, Energy Deparment, CIEMAT, Spain
+      time: 2007 - 2009
+
+    - title: Undergraduated scholarship
+      link: 'assets/docs/prizes/scholarship.pdf'
+      details: |
+        University of Almería - Plataforma Solar de Almería agreement, Spain
+      time: 2004
 
 # skills:
 #   title: Skills &amp; Proficiency
