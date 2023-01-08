@@ -251,6 +251,19 @@ p {
       margin-bottom: 15px;
     }
   }
+
+  .item-title {
+    font-size: 14px;
+    font-weight: 600;
+    // color: $text-color;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .item-authors {
+    font-style: italic;
+    color: $text-grey;
+    margin-bottom: 1px;
+  }
 }
 
 .skillset {

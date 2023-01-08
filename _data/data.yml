@@ -242,7 +242,7 @@ education:
 
 publications:
   title: Scientific Publications
-  papers:
+  items:
     - title: Dynamic modeling of a multi-effect vertical falling-film evaporator for water reuse in CSP plants
       link: 'http://doi.org/10.1016/j.desal.2022.115623'
       authors: B. Ortega-Delgado, P. Palenzuela, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, L. Roca, D.C. Alarcón-Padilla / CIEMAT
@@ -407,33 +407,34 @@ publications:
 
 intellectual:
   title: Intellectual Property
-  info:
-    - role: Artificial intelligence software tool for the optimization of the electricity mix
-      time: 2021
-      company: <b>J. Bonilla</b>
+  items:
+    - title: Artificial intelligence software tool for the optimization of the electricity mix
+      authors: <b>J. Bonilla</b>
       link: 'assets/docs/ip/ip.pdf'
       details: |
         Unidad de Propiedad Industrial y Creación de Empresas de Base Tecnológica, Oficina de Transferencia de Tecnología del CIEMAT, no M-000601/2021, July 20, 2021.
+      time: 2021
 
 books:
   title: Books
-  info:
-    - role: Modelado y simulación dinámica de procesos termoquímicos en instalaciones termosolares
-      time: 2015
-      company: A. de la Calle, L. Roca, <b>J. Bonilla</b>, S. Dormido
+  items:
+    - title: Modelado y simulación dinámica de procesos termoquímicos en instalaciones termosolares
+      authors: A. de la Calle, L. Roca, <b>J. Bonilla</b>, S. Dormido
       link: 'assets/docs/books/Book_delaCalle.pdf'
       details: |
         Editorial CIEMAT, ISBN: 978-84-7834-743-8.<br>Depósito Legal: M-32433-2015, NIPO: 721-15-053-4.
-    - role: Modeling and simulation of two-phase flow evaporators for parabolic-trough solar thermal power plants
-      time: 2013
-      company: <b>J. Bonilla</b>, L. J. Yebra, S. Dormido, E. Zarza
+      time: 2015
+
+    - title: Modeling and simulation of two-phase flow evaporators for parabolic-trough solar thermal power plants
+      authors: <b>J. Bonilla</b>, L. J. Yebra, S. Dormido, E. Zarza
       link: 'assets/docs/books/Book_Bonilla.pdf'
       details: |
         Editorial CIEMAT, ISBN: 978-84-7834-705-6.<br>Depósito Legal: M-28846-2013, NIPO: 721-13-044-9.
+      time: 2013
 
 conferences_international:
   title: International Conference Proceedings
-  papers:
+  items:
     - title: 'Hel-IoT web server: a smart heliostat development platform'
       link: 'assets/docs/conf_int/Hel-IoT_web_Server.pdf'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla / CIEMAT
@@ -640,7 +641,7 @@ conferences_international:
 
 conferences_national:
   title: National Conference Proceedings
-  papers:
+  items:
     - title: Control de un recuperador de sales en una planta termosolar híbrida
       link: 'https://doi.org/10.17979/spudc.9788497497169.421'
       authors: P. Otalóra / UAL, L. Roca, <b>J. Bonilla</b> / CIEMAT, J.L Gúzman / UAL
@@ -716,7 +717,7 @@ conferences_national:
 
 presentations:
   title: Invited Presentations
-  papers:
+  items:
     - title: The potential of concentrating solar power in portugal using inductive projection planning
       link: 'https://www.youtube.com/watch?v=4-b-JOInwZc'
       authors: J. Blanco, <b>J. Bonilla</b> / CIEMAT, G. Martín / Protermosolar
@@ -759,7 +760,7 @@ presentations:
 
 colloquiums:
   title: International Doctoral Colloquiums
-  papers:
+  items:
     - title: Chattering problem in dynamic mathematical two-phase flow models
       link: 'assets/docs/colloquiums/5sollab.pdf'
       authors: <b>J. Bonilla</b> / CIEMAT
@@ -777,7 +778,7 @@ colloquiums:
 
 phd_dissertations:
   title: Supervision of Ph.D. Students
-  papers:
+  items:
     - title: Modelado y optimización para una gestión eficiente de recursos en tecnlogía termosolar
       link: 'assets/docs/phds/tesis_doc_autorizacion_directores_signed.pdf'
       authors: Jose Antonio Carballo, University of Almería (UAL)
@@ -793,7 +794,7 @@ phd_dissertations:
 
 grade_projects:
   title: Supervision of Final Grade Projects
-  papers:
+  items:
     - title: Desarrollo de una herramienta software para simulación y control del demostrador de una planta termosolar híbrida de energías renovables
       link: ''
       authors: José Martín de Dios, University of Almería (UAL)
@@ -803,7 +804,7 @@ grade_projects:
 
 int_projects:
   title: International Research Projects
-  papers:
+  items:
     - title: Expansion, improvement, renovation and remodelling of Plataforma Solar de Almería (PSA) (SolarNOVA II)
       link: ''
       details: |
@@ -834,7 +835,7 @@ int_projects:
 
 nat_projects:
   title: National Research Projects
-  papers:
+  items:
     - title: More efficient heliostat fields for solar tower plants (HELIOSUN)
       link: 'assets/docs/projects_nat/HELIOSUN.pdf'
       details: |
@@ -890,7 +891,7 @@ nat_projects:
 
 research_groups:
   title: Membership to Research Groups
-  papers:
+  items:
     - title: Solar Thermal Applications
       link: 'https://www.psa.es/en/units/sta/personal.php'
       details: |
@@ -911,7 +912,7 @@ research_groups:
 
 prizes:
   title: Prizes, Acknowledgments and Fellowships
-  papers:
+  items:
     - title: Ph.D. dissertation extraordinary prize in Engineerring
       link: 'assets/docs/prizes/PhD_dissertation_extraordinary_prize_in_Engineering.pdf'
       details: |
@@ -950,7 +951,7 @@ prizes:
 
 outreach:
   title: Outreach Activities
-  papers:
+  items:
     - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
       link: 'assets/docs/outreach/SOLpréndete.pdf'
       details: |

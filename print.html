@@ -3,17 +3,36 @@ layout: print
 permalink: /print
 ---
 
-
 {% include career-profile.html %}
 
 {% unless site.data.data.sidebar.education %}
   {% include education.html %}
 {% endunless %}
 
-{% include experiences.html %}
+{% include section.html data=site.data.data.publications id='publications-section' icon='fa-file-alt' wordwrap='wordwrap' %}
 
-{% include projects.html %}
+{% include section.html data=site.data.data.intellectual id='ip-section' icon='fa-lightbulb' wordwrap='wordwrap' %}
 
-{% include publications.html %}
+{% include section.html data=site.data.data.books id='books-section' icon='fa-book' wordwrap='wordwrap' %}
 
-{% include skills.html %}
+{% include section.html data=site.data.data.conferences_international id='conf-int-section' icon='fa-users' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.conferences_national id='conf-nat-section' icon='fa-users' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.presentations id='presentations-section' icon='fa-person-chalkboard' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.colloquiums id='colloquiums-section' icon='fa-school' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.phd_dissertations id='phd-dissertations-section' icon='fa-user-graduate' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.grade_projects id='grade-projects-section' icon='fa-user-graduate' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.int_projects id='int-projects-section' icon='fa-users-gear' wordwrap='wordwrap-dates' %}
+
+{% include section.html data=site.data.data.nat_projects id='nat-projects-section' icon='fa-users-gear' wordwrap='wordwrap-dates' %}
+
+{% include section.html data=site.data.data.research_groups id='research-groups-section' icon='fa-people-group' wordwrap='wordwrap-dates' %}
+
+{% include section.html data=site.data.data.prizes id='prizes-section' icon='fa-award' wordwrap='wordwrap-dates' %}
+
+{% include section.html data=site.data.data.outreach id='outreach-section' icon='fa-newspaper' wordwrap='wordwrap-dates' %}
