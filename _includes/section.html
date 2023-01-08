@@ -21,7 +21,13 @@
   <div class="item">
     <div class="meta">
     <div class="upper-row">
-        <div class="{{include.wordwrap}}"><a class="item-title" href="{{ item.link }}" target="_blank">{{ item.title }}</a></div>
+        <div class="{{include.wordwrap}}">
+          {% if item.link %}
+            <a class="item-title" href="{{ item.link }}" target="_blank">{{ item.title }}</a>
+          {% else %}
+            <span class="item-title {{include.wordwrap}}">{{ item.title }}</span>
+          {% endif %}
+        </div>
         <div class="time">{{ item.time }}</div>
     </div>        
     <div class="item-authors">{{ item.authors }}</div>
