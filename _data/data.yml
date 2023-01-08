@@ -92,6 +92,14 @@ sidebar:
         link: '#prizes-section'
       - item: Outreach Activities
         link: '#outreach-section'
+      - item: Work Experience
+        link: '#experience-section'
+      - item: Scientific Software
+        link: '#software-section'
+      - item: Peer-review Activities
+        link: '#review-section'
+      - item: Continuing Education
+        link: '#continuing-section'
 
 career-profile:
   title: Research Trajectory
@@ -1028,27 +1036,271 @@ outreach:
         Montajes e Instalaciones, Year no 39, No 437, March 2009, pages 90-95, ISSN: 0210-184X
       time: 2016
 
-# skills:
-#   title: Skills &amp; Proficiency
+experience:
+  title: Work Experience
+  items:
+    - title: 'Postdoctoral researcher - SolarNOVA II project'
+      link: 'assets/docs/experience/SOLARNOVA.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2018 - 2023
 
-#   toolset:
-#     - name: Python & Django
-#       level: 98%
+    - title: 'Postdoctoral researcher - ENERPRO project'
+      link: 'assets/docs/experience/EFFERDESAL.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2016 - 2017
 
-#     - name: Javascript & jQuery
-#       level: 98%
+    - title: 'Postdoctoral researcher - HYSOL project'
+      link: 'assets/docs/experience/HYSOL.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2013 - 2016
 
-#     - name: Angular
-#       level: 98%
+    - title: 'University graduate researcher - HIBIOSOLEO project'
+      link: 'assets/docs/experience/CertificadoHIBIOSOLEO.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2011 - 2013
 
-#     - name: HTML5 & CSS
-#       level: 95%
+    - title: 'University graduate researcher - Economy and employment stimulation plan (Plan E)'
+      link: 'assets/docs/experience/CertificadoPlanE.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2009 - 2011
 
-#     - name: Ruby on Rails
-#       level: 85%
+    - title: 'University graduate researcher - Work-experience contract'
+      link: 'assets/docs/experience/CertificadoPracticas.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2009 - 2009
 
-#     - name: Sketch & Photoshop
-#       level: 60%
+    - title: 'University graduate researcher in training - Ph.D. Scholarship'
+      link: 'assets/docs/prizes/phd.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2007 - 2009
+
+    - title: 'Analyst - programmer'
+      link: 'assets/docs/experience/analyst_programmer.pdf'
+      details: |
+        Grupo J. Carrión, Asetir S.L., Volvo Industrial vehicles dealer (Veinsur), Huercal de Almería, (Almería)
+      time: 2004 - 2007
+
+    - title: 'Company scholarship, UAL - PSA agreement 2004'
+      link: 'assets/docs/prizes/scholarship.pdf'
+      details: |
+        Reorganization of the Direct Steam Generation (DISS) in parabolic troughs project database, Plataforma Solar de Almería
+      time: 2004
+
+software:
+  title: Scientific Software
+  items:
+    - title: 'CSP Data'
+      authors: <b>J. Bonilla</b>
+      link: 'https://cspdata.com'
+      details: |
+        Web app with a map, table and downloable data with filtering capabilities about all commercial concentrating solar thermal power plant around the world
+
+    - title: 'Electricity mix optimization'
+      authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla
+      link: 'http://mixspain.psa.es'
+      details: |
+        Spanish mix optimizations for 2030, 2040 and 2050 applying Artificial Intelligence
+
+    - title: 'Parabolic trough collector (PTC) power plant performance'
+      authors: <b>J. Bonilla</b>, E. Zarza
+      link: 'https://ptc-performance.web.app'
+      details: |
+        Web app to estimate the performance of a 50 MW PTC power plant with 8 hours of thermal storage in different locations around the world
+
+    - title: 'Surf - Simulator builder'
+      authors: <b>J. Bonilla</b>
+      link: 'https://javier_bonilla.gitlab.io/surf-simulator'
+      details: |
+        A toolchain for building powerful multi-platform simulators of FMI-compliant models in an easy and convenient way.
+
+        Developed simulators:
+
+        - [Small Parabolic Trough Field](https://javier_bonilla.gitlab.io/surf-simulator/projects/NEP/){:target="_blank"}
+        - [Thermal Energy Storage Tank](https://javier_bonilla.gitlab.io/surf-simulator/projects/TES-tank-simulator/){:target="_blank"}
+        - [Thermodynamic Properties of Solar Fluids](https://javier_bonilla.gitlab.io/surf-simulator/projects/SolarThermoPro/){:target="_blank"}
+        - [Big Parabolic Trough Collector](https://javier_bonilla.gitlab.io/surf-simulator/projects/EuroTrough/){:target="_blank"}
+        - [Heat Transfer Basics](https://javier_bonilla.gitlab.io/surf-simulator/projects/Heat-transfer-basics/){:target="_blank"}
+
+    - title: 'Optifmus - Optimization of functional mock-up units (FMUs)'
+      authors: <b>J. Bonilla</b>
+      link: 'https://gitlab.com/javier_bonilla/Optifmus/'
+      details: |
+        Open source multi-platform software tool for optimization studies in FMI-compliant models applying genetic algorithms
+
+review:
+  title: Peer-review Activities
+  items:
+    - title: 'Regular reviews for scientific journals'
+      link: 'https://www.webofscience.com/wos/author/record/B-7912-2011'
+      details: |
+        Solar Energy, Renewable Energy, Energy, Energies, Applied Thermal Engineering, International Journal of Heat and Mass Transfer, etc.
+      time: 2012 - Now
+
+    - title: 'Regular reviews for scientific conferences'
+      link: 'https://www.webofscience.com/wos/author/record/B-7912-2011'
+      details: |
+        International Renewable Energy Congress (IREC), International Conference on Sustainable Energy Information Technology, European Control Conference (ECC), Annual Conference of the IEEE Industrial Electronics Society (IECON), International Conference on Mathematical Modelling (MATHMOD), etc.
+      time: 2012 - Now
+
+continuing:
+  title: Continuing Education
+  items:
+    - title: 'Neural networks applied to scientific and technical problems'
+      link: 'assets/docs/continuing/'
+      details: |
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 50 hours. Almería, October 4 - November 5, 2021.
+      time: 2021
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2020
+
+    - title: 'Jornada sobre Transición del sector eléctrico español hacia un mercado mayoritariamente renovable en 2030'
+      link: 'assets/docs/continuing/Transición.pdf'
+      details: |
+        Máster Unversitario en Energía Solar, Universidad of Almería, Almería, Presential, course, 5 hours, 16 de mayo de 2019.
+      time: 2019
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2019
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2018
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2018
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2017
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2017
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2016
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2016
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2012
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2012
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2011
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2009
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2009
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2009
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2008
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2008
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2008
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2007
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2007
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2007
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2007
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2004
+
+    - title: ''
+      link: 'assets/docs/continuing/'
+      details: |
+
+      time: 2000
 
 footer: >
   <i class="fa-regular fa-copyright"></i> 2023 - Javier Bonilla</a>
