@@ -90,6 +90,8 @@ sidebar:
         link: '#research-groups-section'
       - item: Prizes, Acknowledgments and Fellowships
         link: '#prizes-section'
+      - item: Outreach Activities
+        link: '#outreach-section'
 
 career-profile:
   title: Research Trajectory
@@ -945,6 +947,70 @@ prizes:
       details: |
         University of Almería - Plataforma Solar de Almería agreement, Spain
       time: 2004
+
+outreach:
+  title: Outreach Activities
+  papers:
+    - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
+      link: 'assets/docs/outreach/SOLpréndete.pdf'
+      details: |
+        Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-21-16905, Work team member, July 2022 - July 2023
+      time: 2022 - 2023
+
+    - title: 'Heliostato inteligente'
+      link: 'assets/docs/outreach/2022.pdf'
+      details: |
+        European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 30, 2022
+      time: 2022
+
+    - title: 'Inteligencia artificial y energía solar'
+      link: 'assets/docs/outreach/focosur.jpg'
+      details: |
+        Foco Sur - Actualidad, Economía y Cultura de Almería, no 262, December 2019
+      time: 2019
+
+    - title: 'Blog Posts about Programming, Machine Learning, Embedded Devices & Solar Energy'
+      link: 'assets/docs/outreach/'
+      details: |
+        - [Weather data: Solar, Temperature & Wind in Python](https://mechatronicsblog.com/weather-data-solar-temperature-wind-in-python/){:target="_blank"}<br>
+        - [Machine Learning: Image Classification with Qt & TensorFlow](https://blog.felgo.com/cross-platform-development/machine-learning-add-image-classification-for-ios-and-android-with-qt-and-tensorflow){:target="_blank"}<br>
+        - [Machine Learning on Desktop, iOS and Android with Tensorflow, Qt and Felgo](https://mechatronicsblog.com/machine-learning-on-desktop-ios-and-android-with-tensorflow-qt-and-v-play/){:target="_blank"}<br>
+        - [Tensorflow Lite integration with Qt and Felgo for machine learning apps on iOS and Android](https://mechatronicsblog.com/machine-learning-on-desktop-ios-and-android-with-tensorflow-qt-and-v-play/){:target="_blank"}<br>
+        - [An Introductory Guide to ESP8266, ESP-XX modules and NodeMCU pinout](https://mechatronicsblog.com/an-introductory-guide-to-esp8266-esp-xx-modules-and-nodemcu/){:target="_blank"}<br>
+        - [ESP8266 NodeMCU programming: First Steps](https://mechatronicsblog.com/nodemcu-programming-first-steps/){:target="_blank"}<br>
+        - [Basic ESP8266 NodeMCU tutorial: Breadboard, Pinout and Dimmable LED with PWM](https://mechatronicsblog.com/nodemcu-programming-first-steps/){:target="_blank"}<br>
+        - [Getting started with ESP8266 NodeMCU remote control from Desktop, iOS and Android](https://mechatronicsblog.com/getting-started-with-esp8266-nodemcu-remote-control-from-custom-apps-on-desktop-ios-and-android/){:target="_blank"}<br>
+        - [ESP8266 NodeMCU RGB LED Remote Control](https://mechatronicsblog.com/esp8266-nodemcu-rgb-led-remote-control/){:target="_blank"}<br>
+        - [Raspberry Pi, TensorFlow Lite and Qt/QML: object detection example](https://mechatronicsblog.com/raspberry-pi-tensorflow-lite-and-qt-qml-object-detection-example/){:target="_blank"}<br>
+        - [Coral USB Accelerator, TensorFlow Lite C++ API & Raspberry Pi for TPU object detection](https://mechatronicsblog.com/coral-usb-accelerator-tensorflow-lite-c-api-raspberry-pi-for-edge-tpu-object-detection/){:target="_blank"}<br>
+        - [Raspberry Pi, TensorFlow Lite and Qt/QML: image segmentation example](https://mechatronicsblog.com/coral-usb-accelerator-tensorflow-lite-c-api-raspberry-pi-for-edge-tpu-object-detection/){:target="_blank"}<br>
+        - [Cross-compile and deploy Qt 5.12 for Raspberry Pi](https://mechatronicsblog.com/cross-compile-and-deploy-qt-5-12-for-raspberry-pi/){:target="_blank"}<br>
+        - [ESP8266 NodeMCU pinout for Arduino IDE](https://mechatronicsblog.com/esp8266-nodemcu-pinout-for-arduino-ide/){:target="_blank"}<br>
+      time: 2019 - Now
+
+    - title: 'Heliostato inteligente'
+      link: 'assets/docs/outreach/2019.pdf'
+      details: |
+        European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 27, 2019
+      time: 2019
+
+    - title: 'Modelado y control de sistemas de concentración de energía solar'
+      link: 'assets/docs/outreach/2018.pdf'
+      details: |
+        European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 28, 2018
+      time: 2018
+
+    - title: 'Modelado y control de sistemas de concentración de energía solar'
+      link: 'assets/docs/outreach/2017.pdf'
+      details: |
+        European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 29, 2017
+      time: 2017
+
+    - title: 'Modelado, simulación y control de sistemas solares'
+      link: 'assets/docs/outreach/2016.pdf'
+      details: |
+        European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 30, 2016
+      time: 2016
 
 # skills:
 #   title: Skills &amp; Proficiency
