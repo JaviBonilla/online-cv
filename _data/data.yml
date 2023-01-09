@@ -93,8 +93,7 @@ sidebar:
       - item: Membership to Scientific Committees
         link: '#committees-section'
       - item: Membership to Strategic Research Lines
-        link: '#lines-section'        
-
+        link: '#lines-section'
 
 career-profile:
   title: Research Trajectory
@@ -697,7 +696,7 @@ phd_dissertations:
   title: Supervision of Ph.D. Students
   items:
     - title: Modelado y optimización para una gestión eficiente de recursos en tecnlogía termosolar
-      link: 'assets/docs/phds/tesis_doc_autorizacion_directores_signed.pdf'
+      link: 'assets/docs/phds/thesis.pdf'
       authors: Jose Antonio Carballo, University of Almería (UAL)
       details: |
         Supervisors: <b>J. Bonilla</b> / CIEMAT and M. Berenguel / UAL
@@ -713,7 +712,7 @@ grade_projects:
   title: Supervision of Final Grade Projects
   items:
     - title: Desarrollo de una herramienta software para simulación y control del demostrador de una planta termosolar híbrida de energías renovables
-      link: ''
+      link: 'assets/docs/grade_projects/tfggmd.pdf'
       authors: José Martín de Dios, University of Almería (UAL)
       details: |
         Supervisors: J.D. Álvarez / UAL and <b>J. Bonilla</b> / CIEMAT
@@ -1230,7 +1229,7 @@ stays:
       link: 'assets/docs/stays/UNED.pdf'
       details: |
         National Distance Learning University (UNED), Department of Computer Science and Automation, Supervisor: Prof Dr. Sebastián Dormido, 1 month, Madrid (Spain), Mar 1 - 31, 2010
-      time: 2010  
+      time: 2010
 
 host:
   title: Host of Facility Access Activities
@@ -1357,7 +1356,7 @@ entrepreneurship:
         Fomento de la Innovación a través de Programa de Aceleración de Proyectos Innovadores desarrollados por Entidades Públicas, Madrid City Council.
 
         - **Participants**: **J. Bonilla**, J.A. Carballo / CIEMAT
-        - **Idea**: Smart Heliostat.        
+        - **Idea**: Smart Heliostat.
       time: 2022
 
 transfer:
@@ -1383,14 +1382,14 @@ committees:
     - title: 'II Simposion Nacional de Ingeniería Hortícola (SNIH)'
       link: 'assets/docs/committees/SNIH16-organización.pdf'
       details: |
-         Automatización y tecnologias de la información y comunicaciones (TICs) en la agricultura, University of Almería, February 10 - 12, 2016.
-      time: 2016      
+        Automatización y tecnologias de la información y comunicaciones (TICs) en la agricultura, University of Almería, February 10 - 12, 2016.
+      time: 2016
 
     - title: 'International Renewable Energy Congress (IREC)'
       link: 'https://irec-conference.com/committees/'
       details: |
-         IEEE Power & Energy Society, International program committee member
-      time: 2015 - Now      
+        IEEE Power & Energy Society, International program committee member
+      time: 2015 - Now
 
 lines:
   title: Membership to Strategic Research Lines
@@ -1405,7 +1404,7 @@ lines:
       link: 'assets/docs/research_lines/PSA Description and Action Plan 2021-2025.pdf'
       details: |
         Strategic Research Line, CIEMAT, April 2021
-      time: 2021 - 2025      
+      time: 2021 - 2025
 
 footer: >
   <i class="fa-regular fa-copyright"></i> 2023 - Javier Bonilla</a>
