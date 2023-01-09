@@ -33,30 +33,6 @@ sidebar:
   researchgate: Javier-Bonilla
   pdf: 'assets/docs/cv/CV, Bonilla Cruz Javier.pdf'
 
-  # languages:
-  #  title: Languages
-  #  info:
-  #    - idiom: English
-  #      level: Native
-  #
-  #    - idiom: French
-  #      level: Professional
-  #
-  #    - idiom: Spanish
-  #      level: Professional
-
-  # interests:
-  #  title: Interests
-  #  info:
-  #    - item: Climbing
-  #      link:
-  #
-  #    - item: Snowboarding
-  #      link:
-  #
-  #    - item: Cooking
-  #      link:
-
   index:
     title: Index
     info:
@@ -100,15 +76,34 @@ sidebar:
         link: '#review-section'
       - item: Continuing Education
         link: '#continuing-section'
+      - item: Predoctoral Stays
+        link: '#stays-section'
+      - item: Host of Facility Access Activities
+        link: '#host-section'
+      - item: Contributions to Scientific Software
+        link: '#oss-section'
+      - item: Main International Collaborations
+        link: '#collaborations-section'
+      - item: Languages
+        link: '#languages-section'
+      - item: Entrepreneurship
+        link: '#entrepreneurship-section'
+      - item: Technology Transfer
+        link: '#transfer-section'
+      - item: Membership to Scientific Committees
+        link: '#committees-section'
+      - item: Membership to Strategic Research Lines
+        link: '#lines-section'        
+
 
 career-profile:
   title: Research Trajectory
   summary: |
-    I'm driven by applying automation (modeling, simulation, control and artificial intelligence) to optimize concentrating solar thermal processes with the aim of reducing costs, improving efficiency and minimizing the use of energy and water. 
+    I'm driven by applying automation (**modeling**, **simulation**, **automatic control** and **artificial intelligence**) to **optimize** concentrating **solar thermal** processes with the aim of **reducing costs**, **improving efficiency** and **minimizing** the use of **energy** and **water**. 
 
-    In my PhD, I worked on the dynamic modeling of two-phase flow evaporators for direct steam generation in parabolic trough solar thermal power plants. In the scope of several international projects, I worked on the modeling and control of a Heat Recovery System (HRS) in an innovative design for the coupling of a biogas turbine with a solar power plant. I've been also involved in the recovery of wasted thermal energy from a solar power plant to produce water in a distillation facility to reduce the fresh water consumption. I worked in several national projects, modeling parabolic trough collectors, heat exchangers, thermal energy storage systems, and coupling a solar tower power plant, a gas turbine and a solar distillation facility.
+    In my PhD, I worked on the **dynamic modeling** of two-phase flow evaporators for direct steam generation in **parabolic trough** solar thermal power plants. In the scope of several international projects, I worked on the **modeling** and **control** of a **Heat Recovery System** (HRS) in an innovative design for the **coupling** of a **biogas turbine** with a solar power plant. I've been also involved in the **recovery of wasted thermal energy** from a solar power plant to **produce water** in a distillation facility to reduce the fresh water consumption. I worked in several national projects, **modeling** parabolic trough collectors, **heat exchangers**, thermal **energy storage** systems, and coupling a solar tower power plant, a gas turbine and a solar distillation facility.
 
-    Currently, I'm motivated by applying artificial intelligence in solar thermal power plants, since they exhibit a low degree of intelligence and autonomy in general, with new ideas like a software tool for electricity mix optimization based on artificial intelligence, and a smart solar tracker based on machine learning and computer vision.
+    Currently, I'm motivated by applying **artificial intelligence** in solar thermal power plants, since they exhibit a low degree of intelligence and autonomy in general, with new ideas like a software tool for **electricity mix optimization** based on artificial intelligence, and a **smart solar tracker** based on **machine learning** and **computer vision**.
 education:
   title: Education
   info:
@@ -161,92 +156,6 @@ education:
       link2_tooltip: 'Academic record'
       link3: 'assets/docs/education/CertSis.pdf'
       link3_tooltip: 'Qualifications framework'
-
-# experiences:
-#   title: Experiences
-#   info:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
-#           - Bullet point
-#           - Bullet point
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-# projects:
-#   title: Projects
-#   intro: >
-#     You can list your side projects in this
-#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   assignments:
-#     - title: Velocity
-#       link: '#hook'
-#       tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
-
-#     - title: DevStudio
-#       link: '#'
-#       tagline: 'A responsive website template designed to help web developers/designers market their services.'
-
-#     - title: Tempo
-#       link: '#'
-#       tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
-
-#     - title: Atom
-#       link: '#'
-#       tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
-
-#     - title: Delta
-#       link: '#'
-#       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
-
-# oss:
-#   title: OSS Contributions
-#   intro: >
-#     You can list your open source software contributions in this
-#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   contributions:
-#     - title: Tempo
-#       link: '#'
-#       tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
-
-#     - title: Atom
-#       link: '#'
-#       tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
-
-#     - title: Delta
-#       link: '#'
-#       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
 
 publications:
   title: Scientific Publications
@@ -418,7 +327,7 @@ intellectual:
   items:
     - title: Artificial intelligence software tool for the optimization of the electricity mix
       authors: <b>J. Bonilla</b>
-      link: 'assets/docs/ip/ip.pdf'
+      link: 'assets/docs/ip/04. Resoluc Favorable - MIX ELECTRICO.pdf'
       details: |
         Unidad de Propiedad Industrial y Creación de Empresas de Base Tecnológica, Oficina de Transferencia de Tecnología del CIEMAT, no M-000601/2021, July 20, 2021.
       time: 2021
@@ -660,7 +569,7 @@ conferences_national:
       time: 2019
 
     - title: Modelado y optimización para una gestión eficiente de recursos en desalación solar
-      link: 'https://intranet.ceautomatica.es/sites/default/files/upload/13/files/ProceedingsXVISimposioIC.pdf'
+      link: 'assets/docs/conf_nat/CEA.pdf'
       authors: J.A. Carballo,  <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL
       details: |
         XVI Simposio CEA de Ingeniería de Control,
@@ -934,7 +843,7 @@ prizes:
       time: 2016
 
     - title: Best paper award given by sociedad española de agroingeniería
-      link: 'assets/docs/prizes/'
+      link: 'assets/docs/prizes/SNIH16.pdf'
       details: |
         Control predictivo para satisfacer la demanda de agua en un invernadero mediante un sistema de desalación solar, II Simposio Nacional de Ingeniería Hortícola - Automatización y TICs en Agricultura
       time: 2016
@@ -1152,16 +1061,22 @@ review:
 continuing:
   title: Continuing Education
   items:
+    - title: 'La transición energética - La energía solar en el sistema eléctrico español'
+      link: 'assets/docs/continuing/IEEE vTools Reservation Confirmation.pdf'
+      details: |
+        IEEE Power & Energy Society (PES), Webinar 11, Spain Section Chapter, PE31, 3 hours, May 19, 2022.
+      time: 2022
+
     - title: 'Neural networks applied to scientific and technical problems'
-      link: 'assets/docs/continuing/'
+      link: 'assets/docs/continuing/NN.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 50 hours. Almería, October 4 - November 5, 2021.
       time: 2021
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Introduction to applied supervised machine learning'
+      link: 'assets/docs/continuing/ML.pdf'
       details: |
-
+        Dr. Antonio Jesús Fernández (Universidad de Extremadura), Universidad of Almería, Online, course, 10 hours. Almería, May 26 - 28, 2020
       time: 2020
 
     - title: 'Jornada sobre Transición del sector eléctrico español hacia un mercado mayoritariamente renovable en 2030'
@@ -1170,137 +1085,327 @@ continuing:
         Máster Unversitario en Energía Solar, Universidad of Almería, Almería, Presential, course, 5 hours, 16 de mayo de 2019.
       time: 2019
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Practical introduction to quantum computing'
+      link: 'assets/docs/continuing/Curso computación cuántica.pdf'
       details: |
-
+        Dr. Elías Fernández-Combarro Álvarez (Universidad de Oviedo), Universidad of Almería, Presential, course, 10 hours. Almería, October 1 - 2, 2019
       time: 2019
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Industry 4.0'
+      link: 'assets/docs/continuing/2018.pdf'
       details: |
-
+        Dr. Ramón Vilanova (Universidad Autónoma de Barcelona), Universidad of Almería, Presential, course, 10 hours. Almería, November 14 - 15, 2018
       time: 2018
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Advanced control techniques for process control'
+      link: 'assets/docs/continuing/2018.pdf'
       details: |
-
+        Dr. Antonio Visioli (University of Brescia), Universidad of Almería, Presential, course, 10 hours. Almería, November 25 - 26, 2018
       time: 2018
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Programming of GPU cards with CUDA'
+      link: 'assets/docs/continuing/CUDA.pdf'
       details: |
-
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy, Industry and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 15 hours. Almería, October 16 - 20, 2017
       time: 2017
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Introduction to acceleration and parallelization of scientific code'
+      link: 'assets/docs/continuing/Paralelización.pdf'
       details: |
-
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy, Industry and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 12 hours. Almería, October 9 - 12, 2017
       time: 2017
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Mathematica and SystemModeler'
+      link: 'assets/docs/continuing/Mathematica.pdf'
       details: |
-
+        Wolfram Research, Universidad of Almería, Presential, course, 8 hours. Almería, May 16 - 17, 2016
       time: 2016
 
-    - title: ''
+    - title: 'Technical data with DIAdem and LabVIEW'
       link: 'assets/docs/continuing/'
       details: |
-
+        National Instrument, Universidad of Almería, Presential, technical workshop, 3 hours. Almería, February 11, 2016
       time: 2016
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Optimization techniques applied to multi-objetive problems: Evolutionary Algorithms'
+      link: 'assets/docs/continuing/Curso Algoritmos Evolutivos.pdf'
       details: |
-
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 12 hours. Almería, October 2 - 10, 2012
       time: 2012
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Introduction to Python programming'
+      link: 'assets/docs/continuing/Curso Python.pdf'
       details: |
-
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 12 hours. Almería, June 25 - July 6, 2012
       time: 2012
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Introduction to the MPI and OpenMP programming models in the Euler supercomputer'
+      link: 'assets/docs/continuing/Curso MPI OpenMP.pdf'
       details: |
-
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, course, 10 hours. Almería, June 13 - 17, 2011
       time: 2011
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Engineering equation solver, CIESOL'
+      link: 'assets/docs/continuing/EES.pdf'
       details: |
-
+        Centro Mixto UAL-PSA.CIEMAT, conducted by Plataforma Solar de Almería (PSA), Presential, seminar, 16 hours. Almería, December 1 - 2, 2009
       time: 2009
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Efficient presentations'
+      link: 'assets/docs/continuing/PE.pdf'
       details: |
-
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 20 hours. Almería, November 23 - December 18, 2009
       time: 2009
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Educational technology: Remote virtual laboratories, interactive tools and Microsoft collaborative technologies'
+      link: 'assets/docs/continuing/TE.pdf'
       details: |
-
+        University of Almería, coducted by Prof. Dr. Manuel Berenguel Soria, Vicar (Almería), Presential, course, 25 hours. Vicar (Almería), July 13 - 16, 2009
       time: 2009
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Occupational health & safety management systems at the Plataforma Solar de Almería'
+      link: 'assets/docs/continuing/Riesgos Laborales 09.pdf'
       details: |
-
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, Almería, Online, course, 9.5 hours. Almería, October 27 - 31, 2008
       time: 2008
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Identification of dynamic systems'
+      link: 'assets/docs/continuing/ID.pdf'
       details: |
-
+        University of Almería, conducted by Prof. Dr. Daniel E. Rivera, Arizona State University (EEUU), Almeria, Presential, course, 15 hours. Almeria, September 8 - 10, 2008
       time: 2008
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'The influence of IT in the learning process: a practical point of view'
+      link: 'assets/docs/continuing/IN.pdf'
       details: |
-
+        University of Almería, coducted by Prof. Dr. Manuel Berenguel Soria, Vicar (Almería), Pressential, course, 25 hours. Vicar (Almería), July 16 - 18, 2008
       time: 2008
 
-    - title: ''
+    - title: 'Introduction to LabView'
       link: 'assets/docs/continuing/'
       details: |
-
+        CIESOL, Centro Mixto UAL-PSA.CIEMAT, University of Almería, coducted by National Instruments, Almería, Seminar. Almería, October 30, 2007
       time: 2007
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Process control: application in the Matlab-Simulink environment'
+      link: 'assets/docs/continuing/CP.pdf'
       details: |
-
+        National Distance Learning University (UNED), coducted by Prof. Dr. Sebastián Dormido Bencomo, El Barco de Ávila (Ávila), Presential, course, 35 hours. El Barco de Ávila (Ávila), July 16 - 20, 2007
       time: 2007
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Modelica and OpenModelica'
+      link: 'assets/docs/continuing/MO.pdf'
       details: |
-
+        National Distance Learning University (UNED), Departamento de Informática y Automática, conducted by Prof. Dr. Peter Fritzson, Linköping University (Sweden), Madrid, Presential, course, 25 hours. Madrid, March 26 - 28, 2007
       time: 2007
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'LaTeX: a scientific editing platform'
+      link: 'assets/docs/continuing/LATEX.pdf'
       details: |
-
+        University of Almería, Enseñanzas propias, Almería, Presential, course, 40 hours. Almería, March 8 - 30, 2007
       time: 2007
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Programming languages: Java and Visual Basic'
+      link: 'assets/docs/continuing/LP.pdf'
       details: |
-
+        The Andalusian Government, Employment and technological development regional Ministry, Info-Studio Academy, Almería, occupational formation course, 400 hours. Almería, January 8 - May 3, 2004
       time: 2004
 
-    - title: ''
-      link: 'assets/docs/continuing/'
+    - title: 'Legal and technical issues of security on the Internet. An approach to safe e-commerce'
+      link: 'assets/docs/continuing/AT.pdf'
       details: |
-
+        International university of Andalusia, University of Almería, Almería, Presential, course, 30 hours. Almería, July 24 - 28, 2000
       time: 2000
+
+stays:
+  title: Predoctoral Stays
+  items:
+    - title: 'Object-oriented modeling and simulation of complex physical systems'
+      link: 'assets/docs/stays/ETH.pdf'
+      details: |
+        ETH Zurich, Department of Computer Science, Supervisor: Prof Dr. François E. Cellier, 3 months, Zurich (Switzerland), Sep 3 - Dec 3, 2011
+      time: 2011
+
+    - title: 'Modeling of two-phase flow evaporators for parabolic-trough solar thermal power plants'
+      link: 'assets/docs/stays/UNED.pdf'
+      details: |
+        National Distance Learning University (UNED), Department of Computer Science and Automation, Supervisor: Prof Dr. Sebastián Dormido, 1 month, Madrid (Spain), Mar 1 - 31, 2010
+      time: 2010  
+
+host:
+  title: Host of Facility Access Activities
+  items:
+    - title: 'SFERA-II: Transnational access activities'
+      link: 'assets/docs/host/periodic2-sferaii-core-of-the-report.pdf'
+      details: |
+        Access to Plataforma Solar de Almería (PSA) facilities. Collaboration for the experimental validation of a Modelica-based dynamic parabolic trough collector model, A. Desideri, R. Dickes, S. Quoilin / University of Liege (Belgium), 3 weeks, Jun 27 - Jul 8, 2016
+      time: 2016
+
+oss:
+  title: Contributions to Scientific Open Source Software
+  items:
+    - title: 'SolarPILOT and CoPylot'
+      link: 'https://github.com/NREL/SolarPILOT'
+      details: |
+        Solar Power tower Integrated Layout and Optimization Tool (SolarPILOT) and library to access all capabilities seamlessly through Python (CoPylot), National Renewable Energy Laboratory (NREL) (USA).
+
+        - <b>Contribution</b>: code to read SolarPILOT (spt) files and import them in CoPylot.
+      time: 2022
+
+    - title: 'Fluter web ChartJS'
+      link: 'https://github.com/vramosx/flutter_web_chartjs'
+      details: |
+        Charting components for Flutter Web, Victor Ramos / Fliper (Brazil).
+
+        - <b>Contribution</b>: linear, logarithm and time axes for charts.
+      time: 2020
+
+    - title: 'ThermoCycle library'
+      link: 'http://thermocycle.squoilin.eu/'
+      details: |
+        A Modelica library for the simulation of thermodynamic systems, University of Liège (Belgium) and DTU Mechanical Engineering (Denmark).
+
+        - <b>Contribution</b>: improvements to the solar collector models.
+      time: 2018
+
+collaborations:
+  title: Main International Collaborations
+  items:
+    - title: 'Machine learning for solar thermal systems'
+      details: |
+        Pete Warden & Aakanksha Chowdhery. TensorFlow Mobile/Embedded Team, Google Brain, USA
+      time: 2018 - Now
+
+    - title: 'New design methods for heat exchangers'
+      details: |
+        Reza Zarghami, Ahad Mohammadi & Shahab Golshan. Process Design and Simulation Research Centre, School of Chemical Engineering, College of Engineering, University of Tehran, Iran.
+
+        *Related publications*:
+        - [A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm](http://doi.org/10.1016/j.applthermaleng.2018.04.028){:target="_blank"}
+      time: 2018
+
+    - title: 'Dynamic modeling, validation and optimization of solar thermal systems'
+      details: |
+        Sylvain Quoilin, Adriano Desideri & Rémi Dickes. Aerospace and Mechanical Engineering Department, University of Liege, Belgium.
+
+        *Related publications*:
+        - [Steady-state and dynamic validation of a parabolic trough collector model using the ThermoCycle Modelica library](http://doi.org/10.1016/j.solener.2018.08.026){:target="_blank"}
+      time: 2016 - 2018
+
+    - title: 'Modeling, optimization and control of solar thermal systems'
+      details: |
+        Alberto de la Calle. Solar Energy System Group, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia.
+
+        *Related publications*:
+        - [Optimal operation of solar thermal desalination systems coupled to double-effect absorption heat pumps](http://doi.org/10.1016/j.enconman.2020.112705){:target="_blank"}
+        - [Design and experimental validation of a computational effective dynamic thermal energy storage tank model](http://doi.org/10.1016/j.energy.2017.11.017){:target="_blank"}
+        - [Optimal operating conditions analysis for a multi-effect distillation plant according to energetic and exergetic criteria](http://doi.org/10.1016/j.desal.2017.12.013){:target="_blank"}
+        - [Optimal operating conditions analysis of a multi-effect distillation plant](http://doi.org/10.5004/dwt.2017.0703){:target="_blank"}
+        - [Study on shell-and-tube heat exchanger models with different degree of complexity for process simulation and control design](http://doi.org/10.1016/j.applthermaleng.2017.06.129){:target="_blank"}
+        - [Modelo dinámico de un recuperador de gases - sales fundidas para una planta termosolar híbrida de energías renovables](http://doi.org/10.1016/j.riai.2016.11.003){:target="_blank"}
+        - [Dynamic modeling and simulation of a double-effect absorption heat pump](http://doi.org/10.1016/j.ijrefrig.2016.07.018){:target="_blank"}
+        - [Predictive control applied to a solar desalination plant connected to a greenhouse with daily variation of irrigation water demand](http://doi.org/10.3390/en9030194){:target="_blank"}
+      time: 2016 - Now
+
+    - title: 'Object-oriented modeling and simulation of complex physical systems'
+      details: |
+        François E. Cellier. Department of Computer Science, ETH Zurich, Switzerland.
+
+        *Related publications*:
+        - [Switching moving boundary models for two-phase flow evaporators and condensers](http://doi.org/10.1016/j.cnsns.2014.06.035){:target="_blank"}
+        - [Object-oriented library of switching moving boundary models for two-phase flow evaporators and condensers](http://doi.org/10.3384/ecp1207671){:target="_blank"}
+        - [Object-oriented modeling of switching moving boundary models for two-phase flow evaporators](http://doi.org/10.3182/20120215-3-AT-3016.00189){:target="_blank"}
+      time: 2011 - 2015
+
+languages:
+  title: Languages
+  intro: |
+    - **English**: Advanced C1 level
+    - **Spanish**: Native
+    <br><br>
+  items:
+    - title: 'Certificado de nivel avanzado en el idioma inglés'
+      link: 'assets/docs/languages/EOI2.pdf'
+      details: |
+        Escuela Oficial de Idiomas, Consejería de Educación de la Junta de Andalucía, July 2015
+      time: 2015
+
+    - title: 'Certificate in Advanced English (CAE)'
+      link: 'assets/docs/languages/CAE.pdf'
+      details: |
+        University of Cambridge, ESOL Examinations, Effective Operational Proficiency Level, General English, Level C1 of CEFR. Grade: C, Score: 69/100, June 2010
+      time: 2010
+
+    - title: 'Advanced English I'
+      link: 'assets/docs/languages/IA.pdf'
+      details: |
+        Andalusian Entrepreneur Network Foundation (CEA), financed by the Andalusian Government and the European Social Fund, online course, 50 hours. Almería, July 2 - 17, 2010
+      time: 2010
+
+    - title: 'First Certificate in English (FCE)'
+      link: 'assets/docs/languages/FCE.pdf'
+      details: |
+        University of Cambridge, ESOL Examinations, Vantage Level, General English, Level B2 of CEFR (The Common European Framework of Reference). Grade: B, Score: 75/100, June 2009
+      time: 2009
+
+entrepreneurship:
+  title: Entrepreneurship
+  items:
+    - title: 'CIEMAT Emprende'
+      link: 'assets/docs/entrepreneurship/FORMULARIO Presentación de ideas-CIEMAT Emprende - Heliot.pdf'
+      details: |
+        Fomento de la Innovación a través de Programa de Aceleración de Proyectos Innovadores desarrollados por Entidades Públicas, Madrid City Council.
+
+        - **Participants**: **J. Bonilla**, J.A. Carballo / CIEMAT
+        - **Idea**: Smart Heliostat.        
+      time: 2022
+
+transfer:
+  title: Technology Transfer
+  items:
+    - title: 'Research study - The potential until 2030 of concentrating solar power in Portugal using inductive projection planning'
+      link: 'assets/docs/transfer/The potential until 2030 of Concentrating Solar Power in Portugal using Inductive Projection Planning.pdf'
+      details: |
+        - **Authors**: **J. Bonilla** / CIEMAT, G. Martín / Protermosolar.
+        - **Client**: European Solar Thermal Electricity Association (ESTELA).
+        - **Description**: Portugal electricity mix optimization for 2030 using the developed software tool based on artificial intelligence. Collaboration with Associação Portuguesa de Energias Renováveis (APREN) to establish the assumptions and goals considered in this study.
+      time: 2021
+
+committees:
+  title: Membership to Scientific Committees
+  items:
+    - title: 'Joint Programme (tJP) on Digitalisation for Energy (DfE)'
+      link: 'https://www.eera-set.eu/component/projects/projects.html?id=183'
+      details: |
+        The European Energy Research Alliance (EERA), Subprogram 2: Data Science & Artificial Intelligence
+      time: 2021 - Now
+
+    - title: 'II Simposion Nacional de Ingeniería Hortícola (SNIH)'
+      link: 'assets/docs/committees/SNIH16-organización.pdf'
+      details: |
+         Automatización y tecnologias de la información y comunicaciones (TICs) en la agricultura, University of Almería, February 10 - 12, 2016.
+      time: 2016      
+
+    - title: 'International Renewable Energy Congress (IREC)'
+      link: 'https://irec-conference.com/committees/'
+      details: |
+         IEEE Power & Energy Society, International program committee member
+      time: 2015 - Now      
+
+lines:
+  title: Membership to Strategic Research Lines
+  items:
+    - title: 'Analysis of sustainable energy systems'
+      link: 'assets/docs/research_lines/Research line Sustainable Energy Systems Analysis_final version.pdf'
+      details: |
+        Strategic Research Line, CIEMAT, April 2021
+      time: 2021 - 2025
+
+    - title: 'Plataforma Solar de Almería (PSA)'
+      link: 'assets/docs/research_lines/PSA Description and Action Plan 2021-2025.pdf'
+      details: |
+        Strategic Research Line, CIEMAT, April 2021
+      time: 2021 - 2025      
 
 footer: >
   <i class="fa-regular fa-copyright"></i> 2023 - Javier Bonilla</a>
