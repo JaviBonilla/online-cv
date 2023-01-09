@@ -1,7 +1,8 @@
 version: '3.8'
 services:
   jekyll:
-    image: jekyll/jekyll:3.8
+    image: jekyll/jekyll:4.2.2
+    # Update gems: bundle update
     command: jekyll serve --force_polling
     ports:
       - 4000:4000
