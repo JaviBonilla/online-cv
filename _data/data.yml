@@ -385,7 +385,7 @@ conferences_international:
       time: 2020
 
     - title: Machine learning perspectives in concentrating solar thermal technology
-      link: 'https://www.eurosim.info/fileadmin/user_upload_argesim/ARGESIM_Publications_OA/Reports/arep.58.pdf'
+      link: 'assets/docs/conf_int/EUROSIM_2019.pdf'
       authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, L. Valenzuela / CIEMAT
       details: |
         10<sup>th</sup> Congress of the Federation of European Simulation Societies (EUROSIM).<br>
@@ -448,7 +448,7 @@ conferences_international:
       time: 2016
 
     - title: Optimal operating conditions analysis of a multi-effect distillation plant
-      link: 'https://www.deswater.com/DWT_abstracts/vol_69/69_2017_229.pdf'
+      link: 'assets/docs/conf_int/EDS_2016.pdf'
       authors: J.A. Carballo, <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, P. Palenzuela / CIEMAT, Manuel Berenguel / UAL
       details: |
         Desalination for the environment: clean water and energy,
@@ -511,7 +511,7 @@ conferences_international:
       time: 2012
 
     - title: Exploiting OpenMP in the initial section of modelica models
-      link: 'http://www.ep.liu.se/ecp/056/012/ecp1105612.pdf'
+      link: 'assets/docs/conf_int/EOOLT_2011.pdf'
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED
       details: |
         4<sup>th</sup> International Workshop on Equation-Based Object-Oriented Modeling Languages and Tools,
@@ -538,7 +538,7 @@ conferences_international:
       time: 2009
 
     - title: Object oriented modelling and simulation of acurex solar thermal power plant
-      link: 'https://www.argesim.org/fileadmin/user_upload_argesim/ARGESIM_Publications_OA/MATHMOD_Publications_OA/MATHMOD_2009_AR34_35/full_papers/301.pdf'
+      link: 'assets/docs/conf_int/MathMod_2009_301.pdf'
       authors: L.J. Yebra / CIEMAT, M. Berenguel / UAL, L. Roca / Aunergy Thermosolar S.L., <b>J. Bonilla</b> /CIEMAT, S. Dormido / UNED
       details: |
         6<sup>th</sup> Vienna International Conference on Mathematical Modelling (MATHMOD),
@@ -547,7 +547,7 @@ conferences_international:
       time: 2009
 
     - title: Modelling and real-time simulation of heliostat fields in Central Receiver Plants
-      link: 'https://www.argesim.org/fileadmin/user_upload_argesim/ARGESIM_Publications_OA/MATHMOD_Publications_OA/MATHMOD_2009_AR34_35/full_papers/388.pdf'
+      link: 'assets/docs/conf_int/MathMod_2009_388.pdf'
       authors: <b>J. Bonilla</b> /CIEMAT, L. Roca, J. González / Aunergy Thermosolar S.L., L.J. Yebra / CIEMAT
       details: |
         6<sup>th</sup> Vienna International Conference on Mathematical Modelling (MATHMOD),
@@ -577,7 +577,7 @@ conferences_national:
       time: 2018
 
     - title: Control predictivo para satisfacer la demanda de agua en un invernadero mediante un sistema de desalación solar
-      link: 'https://www.sech.info/ACTAS/Acta%20n%C2%BA%2072.%20II%20Simposio%20nacional%20de%20Ingenier%C3%ADa%20Hort%C3%ADcola/A%CC%81rea%20Tema%CC%81tica%201.%20Automatizacio%CC%81n%20y%20Robotizacio%CC%81n/Control%20predictivo%20para%20satisfacer%20la%20demanda%20de%20agua%20en%20un%20invernadero%20mediante%20un%20sistema%20de%20desalacio%CC%81n%20solar.pdf'
+      link: 'assets/docs/conf_nat/SNIH_2016.pdf'
       authors: L. Roca / CIEMAT, J.A. Sanchez, F. Rodríguez / UAL, <b>J. Bonilla</b> / CIEMAT, A. de la Calle / CSIRO, M. Berenguel / UAL,
       details: |
         II Simposio Nacional de Ingeniería Hortícola - Automatización y TICs en Agricultura,
@@ -586,7 +586,7 @@ conferences_national:
       time: 2016
 
     - title: Inversión de la causalidad computacional en el modelado dinámico. Caso práctico de una planta de generación de hidrógeno solar
-      link: 'https://www.ehu.eus/documents/3444171/4484748/80.pdf'
+      link: 'assets/docs/conf_nat/JA_2015.pdf'
       authors: A. de la Calle, L. Roca, <b>J. Bonilla</b> / CIEMAT
       details: |
         XXXVI Jornadas de Automática 2015,
@@ -595,7 +595,7 @@ conferences_national:
       time: 2015
 
     - title: Solar desalination management to fulfill greenhouse water demand using predictive control
-      link: 'http://www.ja2014.upv.es/wp-content/uploads/papers/paper_46.pdf'
+      link: 'assets/docs/conf_nat/JA_2014.pdf'
       authors: L. Roca / CIEMAT, J.D. Álvarez, F. Rodríguez / UAL, <b>J. Bonilla</b> / CIEMAT
       details: |
         XXXV Jornadas de Automática 2014,
@@ -604,7 +604,7 @@ conferences_national:
       time: 2014
 
     - title: Intercambio de modelos entre herramientas de simulación con functional mock-up interface (FMI)
-      link: 'assets/docs/conf_nat/ActasJA2013.pdf'
+      link: 'assets/docs/conf_nat/JA_2013.pdf'
       authors: <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez / US, A. de la Calle, L. Roca, L.J. Yebra / CIEMAT, F. Rodríguez / UAL
       details: |
         XXXIV Jornadas de Automática 2013,
@@ -613,7 +613,7 @@ conferences_national:
       time: 2013
 
     - title: Modelado y simulación de un evaporador de tubos sumergidos
-      link: 'assets/docs/conf_nat/Jornadas2011.pdf'
+      link: 'assets/docs/conf_nat/JA_2011.pdf'
       authors: A. de la Calle, L. Roca, <b>J. Bonilla</b>, L.J. Yebra / CIEMAT
       details: |
         XXXII Jornadas de Automática 2011,
@@ -622,7 +622,7 @@ conferences_national:
       time: 2011
 
     - title: Sistema de ayuda a la toma de decisiones en la gestión del clima interior de un invernadero basado en modelos de crecimiento de cultivos de tomate
-      link: 'assets/docs/conf_nat/simosi.pdf'
+      link: 'assets/docs/conf_nat/SIMOSI_2007.pdf'
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, F. Rodríguez / UAL, Armando Ramírez / UACH
       details: |
         II Congreso Español de Informática (CEDI),
@@ -651,7 +651,7 @@ presentations:
       time: 2020
 
     - title: Herramienta para optimizar el mix eléctrico aplicando técnicas de inteligencia artificial
-      link: 'http://www.solarconcentra.org/wp-content/uploads/2020/02/Genera-2020-Bonilla.pdf'
+      link: 'http://www.solarconcentra.org/presentaciones-feria-genera2020/'
       authors: <b>J. Bonilla</b> / CIEMAT
       details: |
         Feria Internacional de Energía y Medioambiente (GENERA),
