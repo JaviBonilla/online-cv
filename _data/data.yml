@@ -39,7 +39,7 @@ sidebar:
       - item: Research Trajectory
         link: '#summary-section'
       - item: Latest Developments
-        link: '#latest-section'        
+        link: '#latest-section'
       - item: Education
         link: '#education-section'
       - item: Overview
@@ -946,7 +946,7 @@ outreach:
       link: 'assets/docs/outreach/montajes_e_instalaciones.pdf'
       details: |
         Montajes e Instalaciones, Year no 39, No 437, March 2009, pages 90-95, ISSN: 0210-184X
-      time: 2016
+      time: 2009
 
 experience:
   title: Work Experience
