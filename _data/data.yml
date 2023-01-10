@@ -40,6 +40,8 @@ sidebar:
         link: '#summary-section'
       - item: Education
         link: '#education-section'
+      - item: Overview
+        link: '#overview-section'
       - item: Scientific Publications
         link: '#publications-section'
       - item: Intellectual Property
