@@ -757,28 +757,28 @@ nat_projects:
   title: National Research Projects
   items:
     - title: More efficient heliostat fields for solar tower plants (HELIOSUN)
-      link: 'assets/docs/projects_nat/HELIOSUN.pdf'
+      link: 'assets/docs/projects_nat/HELIOSUN_certificate.pdf'
       details: |
         Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126805OB-100, Work team member,
         budget: 145,200 €
       time: 2022 - 2025
 
     - title: Hybrid cooling solutions for water saving in solar thermal applications (SOLHYCOOL)
-      link: 'assets/docs/projects_nat/SOLHYCOOL.pdf'
+      link: 'assets/docs/projects_nat/SOLHYCOOL_certificate.pdf'
       details: |
         Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126452OA-I00, 
         Work team member, budget: 78,650 €
       time: 2022 - 2025
 
     - title: Solar thermal solutions for integration in industrial processes (SOLTERMIN)
-      link: 'assets/docs/projects_nat/SOLTERMIN.pdf'
+      link: 'assets/docs/projects_nat/SOLTERMIN_certificate.pdf'
       details: |
         Spanish National Programme for Research Aimed at the Challenges of Society, Ministry of Science and Innovation, ENE2017-83973-R, Work team member, budget: 278,300 €<br>
         [SOLTERMIN website](https://www.psa.es/es/unidades/ufl/proyectos/soltermin.php){:target="_blank"}
       time: 2018 - 2022
 
     - title: Control and energy management strategies in production environments with support of renewable energy (ENERPRO)
-      link: 'assets/docs/projects_nat/ENERPRO.pdf'
+      link: 'assets/docs/projects_nat/ENERPRO_certificate.pdf'
       authors:
       details: |
         Spanish National Programme for Research Aimed at the Challenges of Society, Ministry of Science and Innovation, DPI2014-56364-C2-1-R, Work team member, budget: 131,200 €<br>
@@ -873,7 +873,7 @@ outreach:
   title: Outreach Activities
   items:
     - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
-      link: 'assets/docs/outreach/SOLpréndete.pdf'
+      link: 'assets/docs/projects_nat/SOLPRENDETE_certificate.pdf'
       details: |
         Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-21-16905, Work team member, July 2022 - July 2023
       time: 2022 - 2023
@@ -964,7 +964,7 @@ experience:
       time: 2016 - 2017
 
     - title: 'Postdoctoral researcher - HYSOL project'
-      link: 'assets/docs/experience/HYSOL.pdf'
+      link: 'assets/docs/experience/HYSOL_certificate.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2013 - 2016
