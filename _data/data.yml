@@ -726,7 +726,7 @@ int_projects:
   title: International Research Projects
   items:
     - title: Expansion, improvement, renovation and remodelling of Plataforma Solar de Almería (PSA) (SolarNOVA II)
-      link: ''
+      link: 'assets/docs/experience/SOLARNOVA.pdf'
       details: |
         European Regional Development Fund (ERDF) and Spanish funds, ICTS-2017-03-CIEMAT-04, Team member, budget: 11,996,375 €<br>
         [SolarNOVA website](https://www.psa.es/es/feder/solarnova.php){:target="_blank"}
@@ -740,7 +740,7 @@ int_projects:
       time: 2018 - 2022
 
     - title: Innovative configuration for a fully renewable hybrid CSP plant (HYSOL)
-      link: 'assets/docs/projects_int/HYSOL.pdf'
+      link: 'assets/docs/projects_int/HYSOL_certificate.pdf'
       details: |
         EU Seventh Framework Programme for Research (FP7-Energy), European Commission, grant agreement n° 308912, Research team member, budget: 9,275,982 €<br>
         [HYSOL website](https://cordis.europa.eu/project/id/308912){:target="_blank"}
@@ -914,13 +914,13 @@ outreach:
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 27, 2019
       time: 2019
 
-    - title: 'Modelado y control de sistemas de concentración de energía solar'
+    - title: 'Modelado y control de sistemas de concentración solar'
       link: 'assets/docs/outreach/2018.pdf'
       details: |
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 28, 2018
       time: 2018
 
-    - title: 'Modelado y control de sistemas de concentración de energía solar'
+    - title: 'Modelado, simulación y control de sistemas solares'
       link: 'assets/docs/outreach/2017.pdf'
       details: |
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 29, 2017
@@ -1118,17 +1118,23 @@ continuing:
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy, Industry and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 12 hours. Almería, October 9 - 12, 2017
       time: 2017
 
+    - title: 'Confort y Edificación Sostenible, una respuesta desde la Automática y las Micro-Redes Energéticas'
+      link: 'assets/docs/continuing/Pita_2016.pdf'
+      details: |
+        Parque Científico-Tecnológico de Almería (PITA), Presential, course, 5 hours. Almería, Oct 20, 2016
+      time: 2016
+
     - title: 'Mathematica and SystemModeler'
       link: 'assets/docs/continuing/Mathematica.pdf'
       details: |
         Wolfram Research, Universidad of Almería, Presential, course, 8 hours. Almería, May 16 - 17, 2016
       time: 2016
 
-    - title: 'Technical data with DIAdem and LabVIEW'
-      link: 'assets/docs/continuing/'
-      details: |
-        National Instrument, Universidad of Almería, Presential, technical workshop, 3 hours. Almería, February 11, 2016
-      time: 2016
+    # - title: 'Technical data with DIAdem and LabVIEW'
+    #  link: 'assets/docs/continuing/'
+    #  details: |
+    #    National Instrument, Universidad of Almería, Presential, technical workshop, 3 hours. Almería, February 11, 2016
+    #  time: 2016
 
     - title: 'Optimization techniques applied to multi-objetive problems: Evolutionary Algorithms'
       link: 'assets/docs/continuing/Curso Algoritmos Evolutivos.pdf'
@@ -1184,11 +1190,11 @@ continuing:
         University of Almería, coducted by Prof. Dr. Manuel Berenguel Soria, Vicar (Almería), Pressential, course, 25 hours. Vicar (Almería), July 16 - 18, 2008
       time: 2008
 
-    - title: 'Introduction to LabView'
-      link: 'assets/docs/continuing/'
-      details: |
-        CIESOL, Centro Mixto UAL-PSA.CIEMAT, University of Almería, coducted by National Instruments, Almería, Seminar. Almería, October 30, 2007
-      time: 2007
+    # - title: 'Introduction to LabView'
+    #  link: 'assets/docs/continuing/'
+    #  details: |
+    #    CIESOL, Centro Mixto UAL-PSA.CIEMAT, University of Almería, coducted by National Instruments, Almería, Seminar. Almería, October 30, 2007
+    #  time: 2007
 
     - title: 'Process control: application in the Matlab-Simulink environment'
       link: 'assets/docs/continuing/CP.pdf'
@@ -1378,7 +1384,8 @@ committees:
   title: Membership to Scientific Committees
   items:
     - title: 'Joint Programme (tJP) on Digitalisation for Energy (DfE)'
-      link: 'https://www.eera-set.eu/component/projects/projects.html?id=183'
+      link: 'assets/docs/committees/dfe_certificate.pdf'
+      # link: 'https://www.eera-set.eu/component/projects/projects.html?id=183'
       details: |
         The European Energy Research Alliance (EERA), Subprogram 2: Data Science & Artificial Intelligence
       time: 2021 - Now
