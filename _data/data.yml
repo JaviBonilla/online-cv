@@ -830,6 +830,12 @@ nat_projects:
         Work team member, budget: 78,650 €
       time: 2022 - 2025
 
+    - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
+      link: 'assets/docs/projects_nat/SOLPRENDETE_certificate.pdf'
+      details: |
+        Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-21-16905, Work team member, budget: 15.000 €
+      time: 2022 - 2023      
+
     - title: Solar thermal solutions for integration in industrial processes (SOLTERMIN)
       link: 'assets/docs/projects_nat/SOLTERMIN_certificate.pdf'
       details: |
@@ -932,12 +938,6 @@ prizes:
 outreach:
   title: Outreach Activities
   items:
-    - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
-      link: 'assets/docs/projects_nat/SOLPRENDETE_certificate.pdf'
-      details: |
-        Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-21-16905, Work team member, July 2022 - July 2023
-      time: 2022 - 2023
-
     - title: 'Heliostato inteligente'
       link: 'assets/docs/outreach/2022.pdf'
       details: |
