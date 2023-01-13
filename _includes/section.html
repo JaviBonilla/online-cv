@@ -19,8 +19,20 @@
   {% endif %}
 
   {% for item in data.items %}
-  <div class="item">
+  <div class="item" style="padding-bottom: 10px;">
     <div class="meta">
+      <div class="container">
+        <div class="row">
+        {% if item.img %}
+          <div class="col-2 d-flex align-items-center justify-content-center" style="padding: 0 !important;">
+            <div><a href="{{ item.link }}" title="{{ item.img_title }}" target="_blank"><img class="image rounded img-fluid" src="{{ item.img }}" alt="Journal image"></a></div>
+          </div>
+        {% endif %}
+    {% if item.img %}
+      <div class= "col-10">
+    {% else %}
+      <div class= "col-12">
+    {% endif %}
     <div class="upper-row">
         <div class="{{include.wordwrap}}">
           {% if item.link %}
@@ -30,10 +42,13 @@
           {% endif %}
         </div>
         <div class="time">{{ item.time }}</div>
-    </div>        
-    <div class="item-authors">{{ item.authors }}</div>
+        <div class="item-authors">{{ item.authors }}</div>
+        <div class="item-details" style="margin-bottom: -20px">{{ item.details | markdownify }}</div>
+      </div>
+    </div>
+    </div>
+    </div>
     </div><!--//meta-->    
-    <div class="item-details">{{ item.details | markdownify }}</div>
   </div><!--//item-->
   {% endfor %}
 
