@@ -25,7 +25,11 @@
         <div class="row">
         {% if item.img %}
           <div class="col-2 d-flex align-items-center justify-content-center" style="padding: 0 !important;">
-            <div><a href="{{ item.link }}" title="{{ item.img_title }}" target="_blank"><img class="image rounded img-fluid" src="{{ item.img }}" alt="Journal image"></a></div>
+            <div>
+              <a href="{{ item.link }}" title="{{ item.img_title }}" target="_blank">
+                <img class="image rounded img-fluid" src="{{ item.img }}" alt="Journal image">
+              </a>
+            </div>
           </div>
         {% endif %}
     {% if item.img %}

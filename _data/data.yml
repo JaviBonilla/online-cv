@@ -80,7 +80,7 @@ sidebar:
       - header: '<br><font color="#FCF3CF">Dirección de tesis doctorales o de maestría, así como de tesinas</font>'
         item: Direction of Ph.D. Students
         link: '#phd-dissertations-section'
-      - item: Direction of Final Grade Projects
+      - item: Direction of Final Degree Projects
         link: '#grade-projects-section'
       - header: '<br><font color="#FCF3CF">Tutoría de becarios/as del Programa de Formación de Personal Investigador o de otros programas de formación similares</font>'
         item: Staff Supervision
@@ -140,7 +140,7 @@ career-profile:
   summary: |
     I'm driven by applying automation (**modeling**, **simulation**, **automatic control** and **artificial intelligence**) to **optimize** concentrating **solar thermal** processes with the aim of **reducing costs**, **improving efficiency** and **minimizing** the use of **energy** and **water**. 
 
-    In my PhD, I worked on the **dynamic modeling** of two-phase flow evaporators for direct steam generation in **parabolic trough** solar thermal power plants. In the scope of several international projects, I worked on the **modeling** and **control** of a **Heat Recovery System** (HRS) in an innovative design for the **coupling** of a **biogas turbine** with a solar power plant. I've been also involved in the **recovery of wasted thermal energy** from a solar power plant to **produce water** in a distillation facility to reduce the fresh water consumption. I worked in several national projects, **modeling** parabolic trough collectors, **heat exchangers**, thermal **energy storage** systems, and coupling a solar tower power plant, a gas turbine and a solar distillation facility.
+    In my Ph.D., I worked on the **dynamic modeling** of two-phase flow evaporators for direct steam generation in **parabolic trough** solar thermal power plants. In the scope of several international projects, I worked on the **modeling** and **control** of a **Heat Recovery System** (HRS) in an innovative design for the **coupling** of a **biogas turbine** with a solar power plant. I've been also involved in the **recovery of wasted thermal energy** from a solar power plant to **produce water** in a distillation facility to reduce the fresh water consumption. I worked in several national projects, **modeling** parabolic trough collectors, **heat exchangers**, thermal **energy storage** systems, and coupling a solar tower power plant, a gas turbine and a solar distillation facility.
 
     Currently, I'm motivated by applying **artificial intelligence** in solar thermal power plants, since they exhibit a low degree of intelligence and autonomy in general, with new ideas like a [**software tool**](http://mixspain.psa.es){:target="_blank"} for **electricity mix optimization** based on artificial intelligence, and a **smart solar tracker** based on **machine learning** and **computer vision**.
 education:
@@ -351,7 +351,7 @@ publications:
       img: 'assets/images/journals/desalination.gif'
       img_title: 'Desalination'      
 
-    - title: 'Dynamic modeling of the first cell of a solar-assisted multi-effect distillation plant'
+    - title: 'Dynamic modeling and performance of the first cell of a multi-effect distillation plant'
       link: 'http://doi.org/10.1016/j.applthermaleng.2014.05.035'
       authors: A. de la Calle, <b>J. Bonilla</b>, L. Roca / CIEMAT, P. Palenzuela / UTA
       details: 'Applied Thermal Engineering, Volume 70, Issue 1, pages 410-420, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2014.05.035, 2015.<br>**JIF**: 2.739 (2014),<br>**Q1** - Engineering, mechanical (8/130, 94.23% percentile)'
@@ -424,8 +424,7 @@ intellectual:
       details: |
         Unidad de Propiedad Industrial y Creación de Empresas de Base Tecnológica, Oficina de Transferencia de Tecnología del CIEMAT, no M-000601/2021, July 20, 2021.
       time: 2021
-      # img: 'assets/images/thumbs/pi.png'
-      # img_title: 'Intellectual Property'
+      img: 'assets/docs/ip/04. Resoluc Favorable - MIX ELECTRICO.png'
 
 books:
   title: Books
@@ -784,6 +783,7 @@ colloquiums:
         5<sup>th</sup> Sollab Doctoral Colloquium on Solar Concentrating Technologies,
         Abstract, Oral presentation and Poster, Cologne, Germany, June 22 - 24, 2009
       time: 2009
+      img: 'assets/docs/colloquiums/5sollab.png'
     - title: Chattering problem in dynamic mathematical two-phase flow models
       link: 'assets/docs/colloquiums/4sollab.pdf'
       authors: <b>J. Bonilla</b> / CIEMAT
@@ -791,6 +791,7 @@ colloquiums:
         4<sup>th</sup> Sollab Doctoral Colloquium on Solar Concentrating Technologies,
         Abstract and Oral presentation, Tabernas, Almería (Spain), September 10 - 12, 2008
       time: 2008
+      img: 'assets/docs/colloquiums/4sollab.png'
 
 phd_dissertations:
   title: Direction of Ph.D. Students
@@ -799,24 +800,30 @@ phd_dissertations:
       link: 'assets/docs/phds/DTE_BONILLA CRUZ JAVIER.report.pdf'
       authors: Jose Antonio Carballo, University of Almería (UAL)
       details: |
-        Directors: <b>J. Bonilla</b> / CIEMAT and M. Berenguel / UAL
+        Directors: <b>J. Bonilla</b> / CIEMAT and M. Berenguel / UAL<br> 
+        <a href="assets/docs/phds/thesis.pdf" target="_blank">Ph.D. thesis</a>
       time: 2018
+      img: 'assets/docs/phds/thesis.png'
     - title: Contribuciones al modelado dinámico de procesos termoquímicos en instalaciones termosolares
       link: 'assets/docs/phds/codirector_UNED.pdf'
       authors: Alberto de la Calle Alonso, National Distance Learning University (UNED)
       details: |
-        Directors: L. Roca, <b>J. Bonilla</b> / CIEMAT and S. Dormido / UNED
+        Directors: L. Roca, <b>J. Bonilla</b> / CIEMAT and S. Dormido / UNED<br>
+        <a href="assets/docs/phds/TesisAlberto_Color.pdf" target="_blank">Ph.D. thesis</a>
       time: 2015
+      img: 'assets/docs/phds/TesisAlberto_Color.png'
 
 grade_projects:
-  title: Direction of Final Grade Projects
+  title: Direction of Final Degree Projects
   items:
     - title: Desarrollo de una herramienta software para simulación y control del demostrador de una planta termosolar híbrida de energías renovables
       link: 'assets/docs/grade_projects/DPF_BONILLA CRUZ, JAVIER.pdf'
       authors: José Martín de Dios, University of Almería (UAL)
       details: |
-        Directors: J.D. Álvarez / UAL and <b>J. Bonilla</b> / CIEMAT
+        Directors: J.D. Álvarez / UAL and <b>J. Bonilla</b> / CIEMAT<br>
+        <a href="assets/docs/grade_projects/tfggmd.pdf" target="_blank">Final degree project</a>
       time: 2016
+      img: 'assets/docs/grade_projects/tfggmd.png'
 
 supervision:
   title: Staff Supervision
@@ -1125,6 +1132,7 @@ research_contracts:
       details: |
         Contrato de prestanción de servicios para la realización de trabajos de investigación entre la Asociación Española para la Promoción de la Industria Termosolar (PROTERMOSOLAR) y Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
       time: 2021
+      img: 'assets/docs/contracts/Protermosolar.png'
 
 software:
   title: Scientific Software
@@ -1579,12 +1587,13 @@ entrepreneurship:
         - **Participants**: **J. Bonilla**, J.A. Carballo / CIEMAT
         - **Idea**: Smart Heliostat.
       time: 2022
+      img: 'assets/docs/entrepreneurship/FORMULARIO Presentación de ideas-CIEMAT Emprende - Heliot.png'
 
 transfer:
   title: Research Studies
   items:
     - title: 'The potential until 2030 of concentrating solar power in Portugal using inductive projection planning'
-      link: 'assets/docs/transfer/The potential until 2030 of Concentrating Solar Power in Portugal using Inductive Projection Planning.pdf'
+      link: 'assets/docs/transfer/PortugalMixStudy.pdf'
       details: |
         - **Authors**: **J. Bonilla** / CIEMAT, G. Martín / Protermosolar.
         - **Client**: European Solar Thermal Electricity Association (ESTELA).
