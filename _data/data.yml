@@ -106,11 +106,15 @@ sidebar:
         link: '#software-section'
       - item: Contributions to Scientific Software
         link: '#oss-section'        
+      - item: New methods
+        link: '#new-methods-section'
       - header: '<br><font color="#FCF3CF">Diseño, construcción y experimentación de prototipos y plantas piloto</font>'
         item: Host of Facility Access Activities
         link: '#host-section'
       - item: Prototypes and Pilot Plants
         link: '#prototypes-section'
+      - item: Experimental Campaigns
+        link: '#experimental-section'        
       - header: '<br><font color="#FCF3CF">Actividades de divulgación de la ciencia</font>'        
         item: Outreach Activities
         link: '#outreach-section'      
@@ -1072,7 +1076,7 @@ experience:
       time: 2016 - 2017
 
     - title: 'Postdoctoral researcher - HYSOL project'
-      link: 'assets/docs/experience/HYSOL_certificate.pdf'
+      link: 'assets/docs/experience/HYSOL.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2013 - 2016
@@ -1137,6 +1141,12 @@ software:
       details: |
         Spanish mix optimizations for 2030, 2040 and 2050 applying Artificial Intelligence
 
+    - title: 'Hel-IoT web server: a smart heliostat development platform'
+      link: 'assets/docs/conf_int/Hel-IoT_web_Server.pdf'
+      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla / CIEMAT
+      details: |
+        28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces), Albuquerque (USA), Sep 27 - 30, 2022. 
+
     - title: 'Parabolic trough collector (PTC) power plant performance'
       authors: <b>J. Bonilla</b>, E. Zarza
       link: 'https://ptc-performance.web.app'
@@ -1162,6 +1172,60 @@ software:
       link: 'https://gitlab.com/javier_bonilla/Optifmus/'
       details: |
         Open source multi-platform software tool for optimization studies in FMI-compliant models applying genetic algorithms
+
+oss:
+  title: Contributions to Scientific Open Source Software
+  items:
+    - title: 'SolarPILOT and CoPylot'
+      link: 'https://github.com/NREL/SolarPILOT'
+      details: |
+        Solar Power tower Integrated Layout and Optimization Tool (SolarPILOT) and library to access all capabilities seamlessly through Python (CoPylot), National Renewable Energy Laboratory (NREL) (USA).
+
+        - <b>Contribution</b>: code to read SolarPILOT (spt) files and import them in CoPylot.
+      time: 2022
+
+    - title: 'Fluter web ChartJS'
+      link: 'https://github.com/vramosx/flutter_web_chartjs'
+      details: |
+        Charting components for Flutter Web, Victor Ramos / Fliper (Brazil).
+
+        - <b>Contribution</b>: linear, logarithm and time axes for charts.
+      time: 2020
+
+    - title: 'ThermoCycle library'
+      link: 'http://thermocycle.squoilin.eu/'
+      details: |
+        A Modelica library for the simulation of thermodynamic systems, University of Liège (Belgium) and DTU Mechanical Engineering (Denmark).
+
+        - <b>Contribution</b>: improvements to the solar collector models.
+      time: 2018
+
+new_methods:
+  title: New methods
+  items: 
+    - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
+      link: 'http://doi.org/10.1016/j.energy.2021.122437'
+      authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
+      details: 'Energy, Volume 239, Part E, 122437, ISSN: 0360-5442. DOI: 10.1016/j.energy.2021.122437, 2021.<br>**JIF**: 8.857 (2021),<br>**Q1** - Thermodynamics (3/63, 96.03% percentile)'
+      time: 2021
+      img: 'assets/images/journals/energy.gif'
+      img_title: 'Energy'
+
+    - title: 'New approach for solar tracking systems based on computer vision, low cost hardware and deep learning'
+      link: 'http://doi.org/10.1016/j.renene.2018.08.101'
+      authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
+      details: 'Renewable Energy, Volume 133, pages 1158-1166, ISSN: 0960-1481. DOI: 10.1016/j.renene.2018.08.101, 2019.<br>**JIF**: 6.274 (2019),<br>**Q1** - Energy & fuels (19/112, 83.48% percentile)'
+      time: 2019
+      img: 'assets/images/journals/renewableEnergy.gif'
+      imag_title: 'Renewable Energy'
+
+    - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
+      link: 'http://doi.org/10.1016/j.applthermaleng.2018.04.028'
+      authors: A. Mohammadi / UT, <b>J. Bonilla</b> / CIEMAT, R. Zarghami, S. Golshan / UT
+      details: 'Applied Thermal Engineering, Volume 137, pages 808-821, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.04.028, 2018.<br>**JIF**: 4.026 (2018),<br>**Q1** - Engineering, mechanical (13/129, 90.31% percentile)'
+      time: 2018
+      img: 'assets/images/journals/appliedThermal.gif'
+      img_title: 'Applied Thermal Engineering'
 
 review:
   title: Peer-review Activities
@@ -1382,34 +1446,47 @@ prototypes:
       details: 'Renewable Energy, Volume 149, pages 682-690, ISSN: 0960-1481. DOI: 10.1016/j.renene.2019.12.075, 2020.<br>**JIF**: 8.001 (2020),<br>**Q1** - Energy & fuels (16/144, 86.40% percentile)'
       time: 2020
       img: 'assets/images/journals/renewableEnergy.gif'
-      img_title: 'Renewable Energy'       
+      img_title: 'Renewable Energy' 
 
-oss:
-  title: Contributions to Scientific Open Source Software
+experimental:
+  title: Experimental Campaigns
   items:
-    - title: 'SolarPILOT and CoPylot'
-      link: 'https://github.com/NREL/SolarPILOT'
+
+    - title: CESA-1 solar tower power plant
+      link: 'http://doi.org/10.1016/j.renene.2018.08.101'
+      authors: Singular scientific and technical infrastructure, Plataforma Solar de Almería (ICTS - PSA)
       details: |
-        Solar Power tower Integrated Layout and Optimization Tool (SolarPILOT) and library to access all capabilities seamlessly through Python (CoPylot), National Renewable Energy Laboratory (NREL) (USA).
+        Experimental campaign to develop a new tracking strategy based on artificial intelligence and computer vision
+      time: 2018 - Now
 
-        - <b>Contribution</b>: code to read SolarPILOT (spt) files and import them in CoPylot.
-      time: 2022
-
-    - title: 'Fluter web ChartJS'
-      link: 'https://github.com/vramosx/flutter_web_chartjs'
+    - title: NEP PolyTrough 1200 solar field
+      link: 'http://doi.org/10.1016/j.applthermaleng.2018.11.093'
+      authors: Singular scientific and technical infrastructure, Plataforma Solar de Almería (ICTS - PSA)
       details: |
-        Charting components for Flutter Web, Victor Ramos / Fliper (Brazil).
+        Experimental campaign for the validation of small parabolic trough collector models     
+      time: 2019
 
-        - <b>Contribution</b>: linear, logarithm and time axes for charts.
-      time: 2020
-
-    - title: 'ThermoCycle library'
-      link: 'http://thermocycle.squoilin.eu/'
+    - title: AQUASOL Plant
+      link: http://doi.org/10.1016/j.enconman.2020.112705
+      authors: Singular scientific and technical infrastructure, Plataforma Solar de Almería (ICTS - PSA)
       details: |
-        A Modelica library for the simulation of thermodynamic systems, University of Liège (Belgium) and DTU Mechanical Engineering (Denmark).
+        Experimental campaign to validate a steam generator model and the coupling of the elements of the AQUSOL plant
+      time: 2018 - 2019          
 
-        - <b>Contribution</b>: improvements to the solar collector models.
-      time: 2018
+    - title: Heat Transfer Fluid (HTF) test loop
+      link: 'http://doi.org/10.1016/j.solener.2018.08.026'
+      authors: "SFERA-II: Transnational access activities"
+      details: |
+        Experimental campaign for the validation of big parabolic trough collector models     
+      time: 2016      
+
+    - title: Molten Salt Test Loop for Thermal Energy Systems (MOSA)
+      link: 'http://doi.org/10.1016/j.energy.2017.11.017'
+      authors: HYSOL project
+      details: |
+        Experimental campaign for the validation of heat exchanger and molten salt thermal storage system models       
+      time: 2016
+    
 
 collaborations:
   title: Main International Collaborations
