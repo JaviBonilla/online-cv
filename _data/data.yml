@@ -61,7 +61,7 @@ sidebar:
         item: Books
         link: '#books-section'        
       - header: '<br><font color="#FCF3CF">Redacción de artículos publicados en revistas científicas</font>'
-        item: Overview
+        item: Scientific Production Overview
         link: '#overview-section'
       - item: Scientific Publications
         link: '#publications-section'
@@ -78,12 +78,13 @@ sidebar:
         item: Entrepreneurship
         link: '#entrepreneurship-section'
       - header: '<br><font color="#FCF3CF">Dirección de tesis doctorales o de maestría, así como de tesinas</font>'
-        item: Supervision of Ph.D. Students
+        item: Direction of Ph.D. Students
         link: '#phd-dissertations-section'
-      - item: Supervision of Final Grade Projects
+      - item: Direction of Final Grade Projects
         link: '#grade-projects-section'
       - header: '<br><font color="#FCF3CF">Tutoría de becarios/as del Programa de Formación de Personal Investigador o de otros programas de formación similares</font>'
-        item: ''
+        item: Staff Supervision
+        link: '#supervision-section'
       # - header: '<br><font color="#FCF3CF">Desarrollo de actividades que den lugar a la obtención de patentes</font>'
       #  item: ''
       - header: '<br><font color="#FCF3CF">Experiencia en centros de investigación nacionales o extranjeros</font>'
@@ -431,8 +432,8 @@ books:
       details: |
         Editorial CIEMAT, ISBN: 978-84-7834-743-8.<br>Depósito Legal: M-32433-2015, NIPO: 721-15-053-4.
       time: 2015
-      # img: 'assets/images/thumbs/bookAlberto.png'
-      # img_title: 'Book'
+      img: 'assets/images/thumbs/bookAlberto.png'
+      img_title: 'Book'
 
     - title: Modeling and simulation of two-phase flow evaporators for parabolic-trough solar thermal power plants
       authors: <b>J. Bonilla</b>, L. J. Yebra, S. Dormido, E. Zarza
@@ -440,8 +441,8 @@ books:
       details: |
         Editorial CIEMAT, ISBN: 978-84-7834-705-6.<br>Depósito Legal: M-28846-2013, NIPO: 721-13-044-9.
       time: 2013
-      # img: 'assets/images/thumbs/bookBonilla.png'
-      # img_title: 'Book'
+      img: 'assets/images/thumbs/bookBonilla.png'
+      img_title: 'Book'
 
 conferences_international:
   title: International Conference Proceedings
@@ -788,30 +789,46 @@ colloquiums:
       time: 2008
 
 phd_dissertations:
-  title: Supervision of Ph.D. Students
+  title: Direction of Ph.D. Students
   items:
     - title: Modelado y optimización para una gestión eficiente de recursos en tecnlogía termosolar
-      link: 'assets/docs/phds/thesis.pdf'
+      link: 'assets/docs/phds/DTE_BONILLA CRUZ JAVIER.report.pdf'
       authors: Jose Antonio Carballo, University of Almería (UAL)
       details: |
-        Supervisors: <b>J. Bonilla</b> / CIEMAT and M. Berenguel / UAL
+        Directors: <b>J. Bonilla</b> / CIEMAT and M. Berenguel / UAL
       time: 2018
     - title: Contribuciones al modelado dinámico de procesos termoquímicos en instalaciones termosolares
       link: 'assets/docs/phds/codirector_UNED.pdf'
       authors: Alberto de la Calle Alonso, National Distance Learning University (UNED)
       details: |
-        Supervisors: L. Roca, <b>J. Bonilla</b> / CIEMAT and S. Dormido / UNED
+        Directors: L. Roca, <b>J. Bonilla</b> / CIEMAT and S. Dormido / UNED
       time: 2015
 
 grade_projects:
-  title: Supervision of Final Grade Projects
+  title: Direction of Final Grade Projects
   items:
     - title: Desarrollo de una herramienta software para simulación y control del demostrador de una planta termosolar híbrida de energías renovables
-      link: 'assets/docs/grade_projects/tfggmd.pdf'
+      link: 'assets/docs/grade_projects/DPF_BONILLA CRUZ, JAVIER.pdf'
       authors: José Martín de Dios, University of Almería (UAL)
       details: |
-        Supervisors: J.D. Álvarez / UAL and <b>J. Bonilla</b> / CIEMAT
+        Directors: J.D. Álvarez / UAL and <b>J. Bonilla</b> / CIEMAT
       time: 2016
+
+supervision:
+  title: Staff Supervision
+  items:
+    - title: Company tutor
+      link: 'assets/docs/supervision/DPTDPI_BONILLA CRUZ, JAVIER.pdf'
+      authors: Álvaro Martínez Fernández
+      details: |
+        Curricular Practices, code 356971, University of Almería (UAL)
+      time: 2022 - Now
+    - title: Director of research plan
+      link: 'assets/docs/supervision/DPTDPI_BONILLA CRUZ, JAVIER.pdf'
+      authors: Jose Antonio Carballo
+      details: |
+        Ph.D. in Computer Science, University of Almería (UAL)
+      time: 2015 - 2018  
 
 int_projects:
   title: International Research Projects
@@ -933,13 +950,13 @@ prizes:
     - title: Ph.D. dissertation extraordinary prize in Engineerring
       link: 'assets/docs/prizes/PhD_dissertation_extraordinary_prize_in_Engineering.pdf'
       details: |
-        Modeling of Two-Phase Flow Evaporators for Parabolic-Trough Solar Thermal Power Plants, University of Almería (UAL), <b>J. Bonilla</b>, Supervisors: L.J. Yebra and S. Dormido
+        Modeling of Two-Phase Flow Evaporators for Parabolic-Trough Solar Thermal Power Plants, University of Almería (UAL), <b>J. Bonilla</b>, Director: L.J. Yebra and S. Dormido
       time: 2016
 
-    - title: Supervisor of Ph.D. dissertation with an extraordinary prize
+    - title: Director of Ph.D. dissertation with an extraordinary prize
       link: 'assets/docs/prizes/codirector.pdf'
       details: |
-        Contribuciones al modelado dinámico de procesos termoquímicos en instalaciones termosolares, National Distance Learning University (UNED), A. de la Calle, Supervisors: L. Roca, <b>J. Bonilla</b> and S. Dormido
+        Contribuciones al modelado dinámico de procesos termoquímicos en instalaciones termosolares, National Distance Learning University (UNED), A. de la Calle, Director: L. Roca, <b>J. Bonilla</b> and S. Dormido
       time: 2016
 
     - title: Best paper award given by sociedad española de agroingeniería
@@ -1102,7 +1119,7 @@ research_contracts:
     - title: Simulación para la Optimización del Mix Eléctrico Portugués en 2030
       link: 'assets/docs/contracts/Protermosolar.pdf'
       details: |
-        Contrato de prestanción de servicios para la realización de trabajos de investigación entre la Asociación Española para la Promoción de la Industria Termosolar (PROTERMOSOLAR) y Cientro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+        Contrato de prestanción de servicios para la realización de trabajos de investigación entre la Asociación Española para la Promoción de la Industria Termosolar (PROTERMOSOLAR) y Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
       time: 2021
 
 software:
