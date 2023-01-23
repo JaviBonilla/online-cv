@@ -54,6 +54,8 @@ sidebar:
       - header: '<br><font color="#FCF3CF">Contribuciones científicas o tecnológicas realizadas, valorando la calidad y repercusión de los trabajos originales de investigación publicados o de las patentes licenciadas o internacionalizadas PCT</font>'
         item: Intellectual Property
         link: '#ip-section'
+      - item: Innovative scientific contributions
+        link: '#new-methods-section'        
       - header: '<br><font color="#FCF3CF">Experiencia postdoctoral no inferior a 3 años en centros públicos o privados de I+D+i, empresas, o universidades españolas o extranjeras</font>'
         item: Work Experience
         link: '#experience-section'     
@@ -106,7 +108,7 @@ sidebar:
         link: '#software-section'
       - item: Contributions to Scientific Software
         link: '#oss-section'        
-      - item: New methods
+      - item: Innovative scientific contributions
         link: '#new-methods-section'
       - header: '<br><font color="#FCF3CF">Diseño, construcción y experimentación de prototipos y plantas piloto</font>'
         item: Host of Facility Access Activities
@@ -1312,7 +1314,7 @@ oss:
       img: 'assets/docs/oss/logo_thermocycle.gif'
 
 new_methods:
-  title: New methods
+  title: Innovative scientific contributions
   items: 
     - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
       link: 'http://doi.org/10.1016/j.energy.2021.122437'
@@ -1330,6 +1332,16 @@ new_methods:
       img: 'assets/images/journals/renewableEnergy.gif'
       imag_title: 'Renewable Energy'
 
+    - title: A software for dimensioning of small microgrids with PV-battery systems
+      link: 'http://doi.org/10.18086/swc.2019.31.05'
+      authors: J.L. Torres-Moreno / UAL, J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, A. Gímenez / UAL
+      details: |
+        ISES Solar World Congress, IEA SHC International Conference on Solar Heating and Cooling for Buildings and Industry,
+        Regular paper in Proceedings, Oral presentation, DOI: 10.18086/swc.2019.31.05.<br>
+        Santiago (Chile), Nov 4 - 7, 2019.
+      time: 2019
+      img: 'assets/docs/conf_int/dimensioning.png'      
+
     - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
       link: 'http://doi.org/10.1016/j.applthermaleng.2018.04.028'
       authors: A. Mohammadi / UT, <b>J. Bonilla</b> / CIEMAT, R. Zarghami, S. Golshan / UT
@@ -1337,6 +1349,14 @@ new_methods:
       time: 2018
       img: 'assets/images/journals/appliedThermal.gif'
       img_title: 'Applied Thermal Engineering'
+
+    - title: 'Switching moving boundary models for two-phase flow evaporators and condensers'
+      link: 'http://doi.org/10.1016/j.cnsns.2014.06.035'
+      authors: <b>J. Bonilla</b> / CIEMAT, S. Dormido / UNED, F.E. Cellier / ETH
+      details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.23% percentile)'
+      time: 2015
+      img: 'assets/images/journals/cnsns.gif'
+      img_title: 'Communications in Nonlinear Science and Numerical Simulation'      
 
 review:
   title: Peer-review Activities
