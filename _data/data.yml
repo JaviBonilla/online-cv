@@ -866,12 +866,12 @@ supervision:
   title: Staff Supervision
   items:
     - title: Company tutor
-      link: 'assets/docs/supervision/DPTDPI_BONILLA CRUZ, JAVIER.pdf'
+      link: 'assets/docs/supervision/cp_alvaro.pdf'
       authors: Álvaro Martínez Fernández
       details: |
         Curricular Practices, code 356971, University of Almería (UAL)
       time: 2022 - Now
-      img: 'assets/docs/supervision/DPTDPI_BONILLA CRUZ, JAVIER.png'
+      img: 'assets/docs/supervision/cp_alvaro.png'
 
     - title: Director of research plan
       link: 'assets/docs/supervision/DPTDPI_BONILLA CRUZ, JAVIER.pdf'
@@ -1246,7 +1246,14 @@ software:
       link: 'https://ptc-performance.web.app'
       details: |
         Web app to estimate the performance of a 50 MW PTC power plant with 8 hours of thermal storage in different locations around the world
-      img: 'assets/docs/software/performance.png'                
+      img: 'assets/docs/software/performance.png'
+
+    - title: 'Solar tower, gas turbine and MED-TVC simulator'
+      authors: <b>J. Bonilla</b>, P. Palenzuela, B. Ortega-Delgado, J.M. Serrano, J. Fernández-Reche, D.C. Alarcón-Padilla
+      link: 'assets/docs/software/EDS_2022_poster.pdf'
+      details: |
+        Web app for the integration of a thermal seawater desalination system, based on Multi-Effect Distillation technology with Thermal Vapor Compression (MED-TVC), into a high-temperature power cycle (air Brayton cycle) and high-temperature Concentrating Solar Power (CSP) technology, Central Receiver Solar (CRS) tower system.
+      img: 'assets/docs/software/soltermin.png'
 
     - title: 'Surf - Simulator builder'
       authors: <b>J. Bonilla</b>
