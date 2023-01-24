@@ -1215,9 +1215,15 @@ research_contracts:
     - title: Simulación para la Optimización del Mix Eléctrico Portugués en 2030
       link: 'assets/docs/contracts/Protermosolar.pdf'
       details: |
-        Contrato de prestanción de servicios para la realización de trabajos de investigación entre la Asociación Española para la Promoción de la Industria Termosolar (PROTERMOSOLAR) y Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+        Contrato de prestanción de servicios para la realización de trabajos de investigación entre la Asociación Española para la Promoción de la Industria Termosolar (PROTERMOSOLAR) y Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Budget:  5,000 €.
       time: 2021
       img: 'assets/docs/contracts/Protermosolar.png'
+    - title: Diseño de modelos y estrategias de simulación, control, ensayo y monitorización del lazo Senertrough
+      link: 'assets/docs/contracts/cobra.pdf'
+      details: |
+        Contrato de transferencia de investigación para Cobra instalaciones y servicios S.A. Modelo y simulador de planta de captadores cilindroprabólico de la planta Andasol. Validación con datos de campañas experimentales. Budget:  337,982 €.
+      time: 2007
+      img: 'assets/docs/contracts/cobra.png'      
 
 software:
   title: Scientific Software
