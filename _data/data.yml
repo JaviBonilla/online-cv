@@ -46,7 +46,7 @@ sidebar:
         item: International Research Projects
         link: '#int-projects-section'
       - item: National Research Projects
-        link: '#nat-projects-section'      
+        link: '#nat-projects-section'
       - item: Work Experience
         link: '#experience-section'
       - item: Research Contracts
@@ -55,13 +55,13 @@ sidebar:
         item: Intellectual Property
         link: '#ip-section'
       - item: Innovative scientific contributions
-        link: '#new-methods-section'        
+        link: '#new-methods-section'
       - header: '<br><font color="#FCF3CF">Experiencia postdoctoral no inferior a 3 años en centros públicos o privados de I+D+i, empresas, o universidades españolas o extranjeras</font>'
         item: Work Experience
-        link: '#experience-section'     
+        link: '#experience-section'
       - header: '<br><font color="#FCF3CF">Redacción y publicación de libros o capítulos de libros que sean resultado de un trabajo científico</font>'
         item: Books
-        link: '#books-section'        
+        link: '#books-section'
       - header: '<br><font color="#FCF3CF">Redacción de artículos publicados en revistas científicas</font>'
         item: Scientific Production Overview
         link: '#overview-section'
@@ -95,7 +95,7 @@ sidebar:
       - item: Membership to Research Groups
         link: '#research-groups-section'
       - item: Research Stays
-        link: '#stays-section'   
+        link: '#stays-section'
       - header: '<br><font color="#F7DC6F">Sección C</font><br><br><font color="#FCF3CF">Participación en trabajos e informes de asesoramiento científico</font>'
         item: Research Studies
         link: '#transfer-section'
@@ -103,11 +103,11 @@ sidebar:
       #  item: ''
       # - header: '<br><font color="#FCF3CF">Estudios astrofísicos, geológicos, hidrológicos, oceanográficos, energéticos, medioambientales, biosanitarios o de cualquier otra disciplina científica realizados con fines de investigación</font>'
       #  item: ''
-      - header: '<br><font color="#FCF3CF">Estudio y desarrollo de nuevos procesos, sistemas o métodos</font>'        
+      - header: '<br><font color="#FCF3CF">Estudio y desarrollo de nuevos procesos, sistemas o métodos</font>'
         item: Scientific Software
         link: '#software-section'
       - item: Contributions to Scientific Software
-        link: '#oss-section'        
+        link: '#oss-section'
       - item: Innovative scientific contributions
         link: '#new-methods-section'
       - header: '<br><font color="#FCF3CF">Diseño, construcción y experimentación de prototipos y plantas piloto</font>'
@@ -116,18 +116,18 @@ sidebar:
       - item: Prototypes and Pilot Plants
         link: '#prototypes-section'
       - item: Experimental Campaigns
-        link: '#experimental-section'        
-      - header: '<br><font color="#FCF3CF">Actividades de divulgación de la ciencia</font>'        
+        link: '#experimental-section'
+      - header: '<br><font color="#FCF3CF">Actividades de divulgación de la ciencia</font>'
         item: Outreach Activities
-        link: '#outreach-section'      
+        link: '#outreach-section'
       - header: '<br><font color="#FCF3CF">Participación en actividades de gestión científica</font>'
         item: Membership to Scientific Committees
         link: '#committees-section'
       - item: Membership to Strategic Research Lines
-        link: '#lines-section'        
+        link: '#lines-section'
       - item: Peer-review Activities
-        link: '#review-section'        
-      - header: '<br><font color="#FCF3CF">Cualquier otro mérito que alegue el aspirante relacionado con la especialidad objeto de la convocatoria</font>'        
+        link: '#review-section'
+      - header: '<br><font color="#FCF3CF">Cualquier otro mérito que alegue el aspirante relacionado con la especialidad objeto de la convocatoria</font>'
         item: Prizes, Acknowledgments and Fellowships
         link: '#prizes-section'
       - item: Continuing Education
@@ -162,10 +162,10 @@ education:
     - degree: Master in Advanced Computer Science
       university: University of Almería
       time: 2007 - 2008
-      info: "Official Postgraduate Program, Escuela Superior de Ingeniería (ESI), Computing Department. **Grade**: 3.54/4."
+      info: 'Official Postgraduate Program, Escuela Superior de Ingeniería (ESI), Computing Department. **Grade**: 3.54/4.'
       details: |
-          - **Project**: Approaches to the chattering problem in dynamic mathematical two-phase flow models
-          - **Grade**: honours.
+        - **Project**: Approaches to the chattering problem in dynamic mathematical two-phase flow models
+        - **Grade**: honours.
       link: 'assets/docs/education/TituloMaster.pdf'
       link_tooltip: 'Certificate'
       link2: 'assets/docs/education/ExpMaster.pdf'
@@ -175,7 +175,7 @@ education:
     - degree: Master in Computer Engineering
       university: University of Almería
       time: 2001 - 2004
-      info: "Official Postgraduate Program, Plan 1999, Escuela Superior de Ingeniería (ESI), Computing Department. **Grade**: 2.54/4."
+      info: 'Official Postgraduate Program, Plan 1999, Escuela Superior de Ingeniería (ESI), Computing Department. **Grade**: 2.54/4.'
       details: |
         - **Project**: Decision making software for the climate conditions of tomato crops in greenhouses
         - **Grade**: honours.
@@ -190,7 +190,7 @@ education:
     - degree: Bachelor in Computer Systems Engineering
       university: University of Almería
       time: 1998 - 2001
-      info: "Official Program, Plan 1995, Escuela Superior de Ingeniería (ESI), Computing Department. **Grade**: 2.56/4."
+      info: 'Official Program, Plan 1995, Escuela Superior de Ingeniería (ESI), Computing Department. **Grade**: 2.56/4.'
       link: 'assets/docs/education/TituloSis.pdf'
       link_tooltip: 'Certificate'
       link2: 'assets/docs/education/ExpSis.pdf'
@@ -304,7 +304,7 @@ publications:
       details: 'Applied Thermal Engineering, Volume 124, pages 1425-1440, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2017.06.129, 2017.<br>**JIF**: 3.771 (2017),<br>**Q1** - Engineering, mechanical (12/128, 91.02% percentile)'
       time: 2017
       img: 'assets/images/journals/appliedThermal.gif'
-      img_title: 'Applied Thermal Engineering'  
+      img_title: 'Applied Thermal Engineering'
 
     - title: 'Optimal operating conditions analysis of a multi-effect distillation plant'
       link: 'http://doi.org/10.5004/dwt.2017.0703'
@@ -352,7 +352,7 @@ publications:
       details: 'Desalination, Volume 357, pages 65-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2014.11.008, 2015.<br>**JIF**: 4.412 (2015),<br>**Q1** - Water resources (2/85, 98.24% percentile)'
       time: 2015
       img: 'assets/images/journals/desalination.gif'
-      img_title: 'Desalination'      
+      img_title: 'Desalination'
 
     - title: 'Dynamic modeling and performance of the first cell of a multi-effect distillation plant'
       link: 'http://doi.org/10.1016/j.applthermaleng.2014.05.035'
@@ -360,7 +360,7 @@ publications:
       details: 'Applied Thermal Engineering, Volume 70, Issue 1, pages 410-420, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2014.05.035, 2015.<br>**JIF**: 2.739 (2014),<br>**Q1** - Engineering, mechanical (8/130, 94.23% percentile)'
       time: 2015
       img: 'assets/images/journals/appliedThermal.gif'
-      img_title: 'Applied Thermal Engineering'  
+      img_title: 'Applied Thermal Engineering'
 
     - title: 'A control based on a Knapsack problem for solar hydrogen production'
       link: 'http://doi.org/10.1002/oca.2118'
@@ -376,7 +376,7 @@ publications:
       details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 479-495, ISSN: 1099-1514. DOI: 10.1002/oca.2116, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.39% percentile)'
       time: 2014
       img: 'assets/images/journals/oca.jpg'
-      img_title: 'Optimal Control, Applications and Methods'      
+      img_title: 'Optimal Control, Applications and Methods'
 
     - title: 'Chattering in dynamic mathematical two-phase flow models'
       link: 'http://doi.org/10.1016/j.apm.2011.08.013'
@@ -384,7 +384,7 @@ publications:
       details: 'Applied Mathematical Modelling, Volume 36, Issue 5, pages 2067-2081, ISSN: 0307-904X. DOI: 10.1016/j.apm.2011.08.013, 2012.<br>**JIF**: 1.706 (2012),<br>**Q1** - Engineering, multidisciplinary (11/90, 88.33% percentile)'
       time: 2012
       img: 'assets/images/journals/amm.png'
-      img_title: 'Applied Mathematical Modelling'      
+      img_title: 'Applied Mathematical Modelling'
 
     - title: 'Parabolic-trough solar thermal power plant simulation scheme, multi-objective genetic algorithm calibration and validation'
       link: 'http://doi.org/10.1016/j.solener.2011.10.025'
@@ -392,7 +392,7 @@ publications:
       details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
       time: 2012
       img: 'assets/images/journals/solarEnergy.gif'
-      img_title: 'Solar Energy'      
+      img_title: 'Solar Energy'
 
     - title: 'A heuristic method to minimise the chattering problem in dynamic mathematical two-phase flow models'
       link: 'http://doi.org/10.1016/j.mcm.2011.04.026'
@@ -941,7 +941,7 @@ nat_projects:
       link: 'assets/docs/projects_nat/SOLPRENDETE_certificate.pdf'
       details: |
         Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-21-16905, Work team member, budget: 15.000 €
-      time: 2022 - 2023      
+      time: 2022 - 2023
       img: 'assets/docs/projects_nat/SOLPRENDETE_certificate.png'
 
     - title: Solar thermal solutions for integration in industrial processes (SOLTERMIN)
@@ -1133,7 +1133,7 @@ outreach:
       time: 2016 - Now
       img: 'assets/docs/outreach/news.png'
       img_style: 'border: 0px; margin-top: 30px;'
-      img_position: 'align-items-top'      
+      img_position: 'align-items-top'
 
     - title: 'Control y operación automático de plantas termosolares'
       authors: J. González / Aunergy, M. Berenguel / UAL, M. Romero, L.J. Yebra, D. Martínez, A. Valverde, L. Roca, <b>J. Bonilla</b>, E. Zarza / CIEMAT
@@ -1223,7 +1223,7 @@ research_contracts:
       details: |
         Contrato de transferencia de investigación para Cobra instalaciones y servicios S.A. Modelo y simulador de planta de captadores cilindroprabólico de la planta Andasol. Validación con datos de campañas experimentales. Budget:  337,982 €.
       time: 2007
-      img: 'assets/docs/contracts/cobra.png'      
+      img: 'assets/docs/contracts/cobra.png'
 
 software:
   title: Scientific Software
@@ -1240,14 +1240,14 @@ software:
       link: 'http://mixspain.psa.es'
       details: |
         Spanish mix optimizations for 2030, 2040 and 2050 applying Artificial Intelligence
-      img: 'assets/docs/software/mix.png'        
+      img: 'assets/docs/software/mix.png'
 
     - title: 'Hel-IoT web server: a smart heliostat development platform'
       link: 'assets/docs/conf_int/Hel-IoT_web_Server.pdf'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla / CIEMAT
       details: |
-        28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces), Albuquerque (USA), Sep 27 - 30, 2022. 
-      img: 'assets/docs/software/heliot.png'                
+        28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces), Albuquerque (USA), Sep 27 - 30, 2022.
+      img: 'assets/docs/software/heliot.png'
 
     - title: 'Parabolic trough collector (PTC) power plant performance'
       authors: <b>J. Bonilla</b>, E. Zarza
@@ -1276,9 +1276,9 @@ software:
         - [Thermodynamic Properties of Solar Fluids](https://javier_bonilla.gitlab.io/surf-simulator/projects/SolarThermoPro/){:target="_blank"}
         - [Big Parabolic Trough Collector](https://javier_bonilla.gitlab.io/surf-simulator/projects/EuroTrough/){:target="_blank"}
         - [Heat Transfer Basics](https://javier_bonilla.gitlab.io/surf-simulator/projects/Heat-transfer-basics/){:target="_blank"}
-      img: 'assets/docs/software/surf.png'            
+      img: 'assets/docs/software/surf.png'
       img_style: 'margin-top: 20px;'
-      img_position: 'align-items-top'    
+      img_position: 'align-items-top'
 
     - title: 'Optifmus - Optimization of functional mock-up units (FMUs)'
       authors: <b>J. Bonilla</b>
@@ -1286,8 +1286,6 @@ software:
       details: |
         Open source multi-platform software tool for optimization studies in FMI-compliant models applying genetic algorithms
       img: 'assets/docs/software/optifmus.png'
-      
-      
 
 oss:
   title: Contributions to Scientific Open Source Software
@@ -1321,7 +1319,7 @@ oss:
 
 new_methods:
   title: Innovative scientific contributions
-  items: 
+  items:
     - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
       link: 'http://doi.org/10.1016/j.energy.2021.122437'
       authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
@@ -1346,7 +1344,7 @@ new_methods:
         Regular paper in Proceedings, Oral presentation, DOI: 10.18086/swc.2019.31.05.<br>
         Santiago (Chile), Nov 4 - 7, 2019.
       time: 2019
-      img: 'assets/docs/conf_int/dimensioning.png'      
+      img: 'assets/docs/conf_int/dimensioning.png'
 
     - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
       link: 'http://doi.org/10.1016/j.applthermaleng.2018.04.028'
@@ -1362,7 +1360,7 @@ new_methods:
       details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.23% percentile)'
       time: 2015
       img: 'assets/images/journals/cnsns.gif'
-      img_title: 'Communications in Nonlinear Science and Numerical Simulation'      
+      img_title: 'Communications in Nonlinear Science and Numerical Simulation'
 
 review:
   title: Peer-review Activities
@@ -1608,7 +1606,7 @@ prototypes:
       details: |
         Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126805OB-100, Work team member,
         budget: 145,200 €
-      time: 2022 - 2025     
+      time: 2022 - 2025
       img: 'assets/docs/projects_nat/HELIOSUN_certificate.png'
 
     - title: 'Solar tower power mockup for the assessment of advanced control techniques'
@@ -1617,12 +1615,11 @@ prototypes:
       details: 'Renewable Energy, Volume 149, pages 682-690, ISSN: 0960-1481. DOI: 10.1016/j.renene.2019.12.075, 2020.<br>**JIF**: 8.001 (2020),<br>**Q1** - Energy & fuels (16/144, 86.40% percentile)'
       time: 2020
       img: 'assets/images/journals/renewableEnergy.gif'
-      img_title: 'Renewable Energy' 
+      img_title: 'Renewable Energy'
 
 experimental:
   title: Experimental Campaigns
   items:
-
     - title: CESA-1 solar tower power plant
       link: 'http://doi.org/10.1016/j.renene.2018.08.101'
       authors: Singular scientific and technical infrastructure, Plataforma Solar de Almería (ICTS - PSA)
@@ -1635,7 +1632,7 @@ experimental:
       link: 'http://doi.org/10.1016/j.applthermaleng.2018.11.093'
       authors: Singular scientific and technical infrastructure, Plataforma Solar de Almería (ICTS - PSA)
       details: |
-        Experimental campaign for the validation of small parabolic trough collector models     
+        Experimental campaign for the validation of small parabolic trough collector models
       time: 2019
       img: 'assets/docs/campaigns/nep.jpg'
 
@@ -1643,26 +1640,25 @@ experimental:
       link: http://doi.org/10.1016/j.enconman.2020.112705
       authors: Singular scientific and technical infrastructure, Plataforma Solar de Almería (ICTS - PSA)
       details: |
-        Experimental campaign to validate a steam generator model and the coupling of the elements of the AQUSOL plant
-      time: 2018 - 2019 
-      img: 'assets/docs/campaigns/aquasol.jpg'         
+        Experimental campaign to validate a steam generator model and the coupling of the elements of the AQUASOL plant
+      time: 2018 - 2019
+      img: 'assets/docs/campaigns/aquasol.jpg'
 
     - title: Heat Transfer Fluid (HTF) test loop
       link: 'http://doi.org/10.1016/j.solener.2018.08.026'
-      authors: "SFERA-II: Transnational access activities"
+      authors: 'SFERA-II: Transnational access activities'
       details: |
-        Experimental campaign for the validation of big parabolic trough collector models     
+        Experimental campaign for the validation of parabolic trough collector models
       time: 2016
-      img: 'assets/docs/campaigns/htf.jpg'               
+      img: 'assets/docs/campaigns/htf.jpg'
 
     - title: Molten Salt Test Loop for Thermal Energy Systems (MOSA)
       link: 'http://doi.org/10.1016/j.energy.2017.11.017'
       authors: HYSOL project
       details: |
-        Experimental campaign for the validation of heat exchanger and molten salt thermal storage system models       
+        Experimental campaign for the validation of heat exchanger and molten salt thermal storage system models
       time: 2016
-      img: 'assets/docs/campaigns/mosa.jpg'               
-    
+      img: 'assets/docs/campaigns/mosa.jpg'
 
 collaborations:
   title: Main International Collaborations
@@ -1683,7 +1679,7 @@ collaborations:
       time: 2018
       img: 'assets/docs/colaborations/teheran.png'
       img_style: 'border: 0px; margin-top: 5px;'
-      img_position: 'align-items-top'       
+      img_position: 'align-items-top'
 
     - title: 'Dynamic modeling, validation and optimization of solar thermal systems'
       details: |
@@ -1694,7 +1690,7 @@ collaborations:
       time: 2016 - 2018
       img: 'assets/docs/colaborations/ule.png'
       img_style: 'border: 0px; margin-top: 5px;'
-      img_position: 'align-items-top'         
+      img_position: 'align-items-top'
 
     - title: 'Modeling, optimization and control of solar thermal systems'
       details: |
@@ -1712,7 +1708,7 @@ collaborations:
       time: 2016 - Now
       img: 'assets/docs/colaborations/csiro.jpeg'
       img_style: 'border: 0px; margin-top: 5px;'
-      img_position: 'align-items-top'       
+      img_position: 'align-items-top'
 
     - title: 'Object-oriented modeling and simulation of complex physical systems'
       details: |
@@ -1725,7 +1721,7 @@ collaborations:
       time: 2011 - 2015
       img: 'assets/docs/colaborations/eth.png'
       img_style: 'border: 0px; margin-top: 5px;'
-      img_position: 'align-items-top'             
+      img_position: 'align-items-top'
 
 languages:
   title: Languages
