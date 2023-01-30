@@ -1146,6 +1146,21 @@ outreach:
 experience:
   title: Work Experience
   items:
+
+    - title: 'Work trajectory document - Historial de vida laboral'
+      link: 'assets/docs/experience/vida_laboral.pdf'
+      details: |
+        Tesorería General de Seguridad Social, Ministerio de Inclusión, Seguridad Social y Migraciones, Gobierno de España
+      time: 2004 - Now
+      img: 'assets/docs/experience/vida_laboral.png'
+
+    - title: 'Attestation of functions - Certificado de funciones'
+      link: 'assets/docs/experience/functions_certificate.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2023
+      img: 'assets/docs/experience/functions_certificate.png'      
+
     - title: 'Postdoctoral researcher - SolarNOVA II project'
       link: 'assets/docs/experience/SOLARNOVA.pdf'
       details: |
