@@ -1413,6 +1413,13 @@ continuing:
       time: 2021
       img: 'assets/docs/continuing/NN.png'
 
+    - title: 'Design thinking and creativity techniques'
+      link: 'assets/docs/continuing/courses.pdf'
+      details: |
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 5 hours. Almería, May 24 - 25, 2021.
+      time: 2021
+      img: 'assets/docs/continuing/courses.png'      
+
     - title: 'Introduction to applied supervised machine learning'
       link: 'assets/docs/continuing/ML.pdf'
       details: |
