@@ -767,6 +767,15 @@ conferences_national:
 presentations:
   title: Invited Presentations
   items:
+
+    - title: Assessment of the integration of a MED-TVC plant into a solar tower with Brayton cycle
+      link: 'assets/docs/invited/E4W_Workshop.pdf'
+      authors: <b>J. Bonilla</b>, P. Palenzuela, B. Ortega-Delgado, J.M. Serrano, D.C. Alarcón-Padilla / CIEMAT,
+      details: |
+        Workshop on Renewable Energies and Energy Efficiency in water treatments, EERES4WATER Project, September 26, 2022.
+      time: 2022
+      img: 'assets/docs/invited/E4W_Workshop.png'
+
     - title: The potential of concentrating solar power in portugal using inductive projection planning
       link: 'https://www.youtube.com/watch?v=4-b-JOInwZc'
       authors: J. Blanco, <b>J. Bonilla</b> / CIEMAT, G. Martín / Protermosolar
@@ -1147,19 +1156,26 @@ experience:
   title: Work Experience
   items:
 
-    - title: 'Work trajectory document - Historial de vida laboral'
+    - title: 'Work trajectory document - Informe de vida laboral'
       link: 'assets/docs/experience/vida_laboral.pdf'
       details: |
         Tesorería General de Seguridad Social, Ministerio de Inclusión, Seguridad Social y Migraciones, Gobierno de España
       time: 2004 - Now
       img: 'assets/docs/experience/vida_laboral.png'
 
+    - title: 'Attestation of positions - Certificado de puestos de trabajo'
+      link: 'assets/docs/experience/positions_CIEMAT.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2023
+      img: 'assets/docs/experience/positions_CIEMAT.png'      
+
     - title: 'Attestation of functions - Certificado de funciones'
       link: 'assets/docs/experience/functions_certificate.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2023
-      img: 'assets/docs/experience/functions_certificate.png'      
+      img: 'assets/docs/experience/functions_certificate.png'
 
     - title: 'Postdoctoral researcher - SolarNOVA II project'
       link: 'assets/docs/experience/SOLARNOVA.pdf'
