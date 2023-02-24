@@ -1069,6 +1069,14 @@ prizes:
 outreach:
   title: Outreach Activities
   items:
+
+    - title: 'Energía Solar Térmica e Inteligencia Artificial'
+      link: 'assets/docs/outreach/IES_Cerro_Milano_2023.pdf'
+      details: |
+        SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual, 4º ESO  science, humanities and social sciencie students, IES Cerro Milano, Almería (Spain), February 22, 2023
+      time: 2023
+      img: 'assets/docs/outreach/IES_Cerro_Milano_2023.png'
+
     - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
       link: 'assets/docs/outreach/2022.pdf'
       details: |
