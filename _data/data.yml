@@ -1375,16 +1375,6 @@ new_methods:
       img: 'assets/images/journals/renewableEnergy.gif'
       imag_title: 'Renewable Energy'
 
-    - title: A software for dimensioning of small microgrids with PV-battery systems
-      link: 'http://doi.org/10.18086/swc.2019.31.05'
-      authors: J.L. Torres-Moreno / UAL, J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, A. Gímenez / UAL
-      details: |
-        ISES Solar World Congress, IEA SHC International Conference on Solar Heating and Cooling for Buildings and Industry,
-        Regular paper in Proceedings, Oral presentation, DOI: 10.18086/swc.2019.31.05.<br>
-        Santiago (Chile), Nov 4 - 7, 2019.
-      time: 2019
-      img: 'assets/docs/conf_int/dimensioning.png'
-
     - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
       link: 'http://doi.org/10.1016/j.applthermaleng.2018.04.028'
       authors: A. Mohammadi / UT, <b>J. Bonilla</b> / CIEMAT, R. Zarghami, S. Golshan / UT
@@ -1400,6 +1390,14 @@ new_methods:
       time: 2015
       img: 'assets/images/journals/cnsns.gif'
       img_title: 'Communications in Nonlinear Science and Numerical Simulation'
+
+    - title: 'Parabolic-trough solar thermal power plant simulation scheme, multi-objective genetic algorithm calibration and validation'
+      link: 'http://doi.org/10.1016/j.solener.2011.10.025'
+      authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT,S. Dormido / UNED, E. Zarza / CIEMAT
+      details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
+      time: 2012
+      img: 'assets/images/journals/solarEnergy.gif'
+      img_title: 'Solar Energy'      
 
 review:
   title: Peer-review Activities
