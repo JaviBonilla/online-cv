@@ -1271,7 +1271,7 @@ software:
       authors: <b>J. Bonilla</b>
       link: 'https://cspdata.com'
       details: |
-        Web app with a map, table and downloable data with filtering capabilities about all commercial concentrating solar thermal power plant around the world
+        Detailed information with filtering and exporting capabilities about all commercial concentrating solar thermal power plants around the world
       img: 'assets/docs/software/cspdata.png'
 
     - title: 'Electricity mix optimization'
