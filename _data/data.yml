@@ -453,6 +453,16 @@ books:
 conferences_international:
   title: International Conference Proceedings
   items:
+    - title: 'On the use of artificial neural networks for automatic heliostat aiming'
+      link: 'assets/docs/conf_int/IWANN_2023.pdf'
+      authors: J.A. Carballo / CIEMAT, N.C. Cruz / UAL, <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez and M. Berenguel / UAL
+      details: |
+        Regular paper in Proceedings, Oral presentation<br>
+        17<sup>th</sup> International Work-Conference on Artificial Neural Networks (IWANN)<br>
+        Ponta Delgada, Azores (Portugal), Jun 19 - 21, 2023
+      time: 2023
+      img: 'assets/docs/conf_int/IWANN_2023.png'
+
     - title: 'Hel-IoT web server: a smart heliostat development platform'
       link: 'assets/docs/conf_int/Hel-IoT_web_Server.pdf'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla / CIEMAT
