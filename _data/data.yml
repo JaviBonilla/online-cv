@@ -453,6 +453,16 @@ books:
 conferences_international:
   title: International Conference Proceedings
   items:
+    - title: 'Strategies for enhancing the use of solar energy in utility-scale desalination plants'
+      link: 'assets/docs/conf_int/IDA_2023.pdf'
+      authors: G. Zaragoza, D.C. Alarcón-Padilla, <b>J. Bonilla</b>, P. Palenzuela / CIEMAT
+      details: |
+        Regular paper in Proceedings, Oral presentation<br>
+        The International Association Desalination (IDA) Seville summit on Water and Climate Change, 
+        Seville (Spain), Oct 1 - 18, 2023
+      time: 2023
+      img: 'assets/docs/conf_int/IDA_2023.png'
+
     - title: 'On the use of artificial neural networks for automatic heliostat aiming'
       link: 'assets/docs/conf_int/IWANN_2023.pdf'
       authors: J.A. Carballo / CIEMAT, N.C. Cruz / UAL, <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez and M. Berenguel / UAL
