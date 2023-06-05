@@ -42,7 +42,7 @@ sidebar:
         link: '#latest-section'
       - item: Education
         link: '#education-section'
-      - header: '<br><font color="#F7DC6F">Sección A</font><br><br><font color="#FCF3CF">Participación y/o gestión en proyectos o contratos de I+D+i</font>'
+      - # header: '<br><font color="#F7DC6F">Sección A</font><br><br><font color="#FCF3CF">Participación y/o gestión en proyectos o contratos de I+D+i</font>'
         item: International Research Projects
         link: '#int-projects-section'
       - item: National Research Projects
@@ -51,23 +51,23 @@ sidebar:
         link: '#experience-section'
       - item: Research Contracts
         link: '#research-contracts-section'
-      - header: '<br><font color="#FCF3CF">Contribuciones científicas o tecnológicas realizadas, valorando la calidad y repercusión de los trabajos originales de investigación publicados o de las patentes licenciadas o internacionalizadas PCT</font>'
+      - # header: '<br><font color="#FCF3CF">Contribuciones científicas o tecnológicas realizadas, valorando la calidad y repercusión de los trabajos originales de investigación publicados o de las patentes licenciadas o internacionalizadas PCT</font>'
         item: Intellectual Property
         link: '#ip-section'
       - item: Innovative scientific contributions
         link: '#new-methods-section'
-      - header: '<br><font color="#FCF3CF">Experiencia postdoctoral no inferior a 3 años en centros públicos o privados de I+D+i, empresas, o universidades españolas o extranjeras</font>'
+      - # header: '<br><font color="#FCF3CF">Experiencia postdoctoral no inferior a 3 años en centros públicos o privados de I+D+i, empresas, o universidades españolas o extranjeras</font>'
         item: Work Experience
         link: '#experience-section'
-      - header: '<br><font color="#FCF3CF">Redacción y publicación de libros o capítulos de libros que sean resultado de un trabajo científico</font>'
+      - # header: '<br><font color="#FCF3CF">Redacción y publicación de libros o capítulos de libros que sean resultado de un trabajo científico</font>'
         item: Books
         link: '#books-section'
-      - header: '<br><font color="#FCF3CF">Redacción de artículos publicados en revistas científicas</font>'
+      - # header: '<br><font color="#FCF3CF">Redacción de artículos publicados en revistas científicas</font>'
         item: Scientific Production Overview
         link: '#overview-section'
       - item: Scientific Publications
         link: '#publications-section'
-      - header: '<br><font color="#F7DC6F">Sección B</font><br><br><font color="#FCF3CF">Comunicaciones, ponencias o paneles aceptados en congresos o reuniones científicas nacionales o internacionales</font>'
+      - # header: '<br><font color="#F7DC6F">Sección B</font><br><br><font color="#FCF3CF">Comunicaciones, ponencias o paneles aceptados en congresos o reuniones científicas nacionales o internacionales</font>'
         item: International Conference Proceedings
         link: '#conf-int-section'
       - item: National Conference Proceedings
@@ -76,58 +76,58 @@ sidebar:
         link: '#presentations-section'
       - item: International Doctoral Colloquiums
         link: '#colloquiums-section'
-      - header: '<br><font color="#FCF3CF">Elaboración de informes científicos sobre los resultados de una investigación o con contenido novedoso</font>'
+      - # header: '<br><font color="#FCF3CF">Elaboración de informes científicos sobre los resultados de una investigación o con contenido novedoso</font>'
         item: Entrepreneurship
         link: '#entrepreneurship-section'
-      - header: '<br><font color="#FCF3CF">Dirección de tesis doctorales o de maestría, así como de tesinas</font>'
+      - # header: '<br><font color="#FCF3CF">Dirección de tesis doctorales o de maestría, así como de tesinas</font>'
         item: Direction of Ph.D. Students
         link: '#phd-dissertations-section'
       - item: Direction of Final Degree Projects
         link: '#grade-projects-section'
-      - header: '<br><font color="#FCF3CF">Tutoría de becarios/as del Programa de Formación de Personal Investigador o de otros programas de formación similares</font>'
+      - # header: '<br><font color="#FCF3CF">Tutoría de becarios/as del Programa de Formación de Personal Investigador o de otros programas de formación similares</font>'
         item: Staff Supervision
         link: '#supervision-section'
       # - header: '<br><font color="#FCF3CF">Desarrollo de actividades que den lugar a la obtención de patentes</font>'
       #  item: ''
-      - header: '<br><font color="#FCF3CF">Experiencia en centros de investigación nacionales o extranjeros</font>'
+      - # header: '<br><font color="#FCF3CF">Experiencia en centros de investigación nacionales o extranjeros</font>'
         item: Work Experience
         link: '#experience-section'
       - item: Membership to Research Groups
         link: '#research-groups-section'
       - item: Research Stays
         link: '#stays-section'
-      - header: '<br><font color="#F7DC6F">Sección C</font><br><br><font color="#FCF3CF">Participación en trabajos e informes de asesoramiento científico</font>'
+      - # header: '<br><font color="#F7DC6F">Sección C</font><br><br><font color="#FCF3CF">Participación en trabajos e informes de asesoramiento científico</font>'
         item: Research Studies
         link: '#transfer-section'
       # - header: '<br><font color="#FCF3CF">Participación en la implantación de sistemas de calidad en organizaciones</font>'
       #  item: ''
       # - header: '<br><font color="#FCF3CF">Estudios astrofísicos, geológicos, hidrológicos, oceanográficos, energéticos, medioambientales, biosanitarios o de cualquier otra disciplina científica realizados con fines de investigación</font>'
       #  item: ''
-      - header: '<br><font color="#FCF3CF">Estudio y desarrollo de nuevos procesos, sistemas o métodos</font>'
+      - # header: '<br><font color="#FCF3CF">Estudio y desarrollo de nuevos procesos, sistemas o métodos</font>'
         item: Scientific Software
         link: '#software-section'
       - item: Contributions to Scientific Software
         link: '#oss-section'
       - item: Innovative scientific contributions
         link: '#new-methods-section'
-      - header: '<br><font color="#FCF3CF">Diseño, construcción y experimentación de prototipos y plantas piloto</font>'
+      - # header: '<br><font color="#FCF3CF">Diseño, construcción y experimentación de prototipos y plantas piloto</font>'
         item: Host of Facility Access Activities
         link: '#host-section'
       - item: Prototypes and Pilot Plants
         link: '#prototypes-section'
       - item: Experimental Campaigns
         link: '#experimental-section'
-      - header: '<br><font color="#FCF3CF">Actividades de divulgación de la ciencia</font>'
+      - # header: '<br><font color="#FCF3CF">Actividades de divulgación de la ciencia</font>'
         item: Outreach Activities
         link: '#outreach-section'
-      - header: '<br><font color="#FCF3CF">Participación en actividades de gestión científica</font>'
+      - # header: '<br><font color="#FCF3CF">Participación en actividades de gestión científica</font>'
         item: Membership to Scientific Committees
         link: '#committees-section'
       - item: Membership to Strategic Research Lines
         link: '#lines-section'
       - item: Peer-review Activities
         link: '#review-section'
-      - header: '<br><font color="#FCF3CF">Cualquier otro mérito que alegue el aspirante relacionado con la especialidad objeto de la convocatoria</font>'
+      - # header: '<br><font color="#FCF3CF">Cualquier otro mérito que alegue el aspirante relacionado con la especialidad objeto de la convocatoria</font>'
         item: Prizes, Acknowledgments and Fellowships
         link: '#prizes-section'
       - item: Continuing Education
@@ -703,9 +703,19 @@ conferences_international:
 conferences_national:
   title: National Conference Proceedings
   items:
+    - title: Desarrollo de modelos de predicción de radiación solar mediante técnicas de machine learning
+      link: 'assets/docs/conf_nat/JA_2023_1.pdf'
+      authors: V. Abad-Alcaraz, M.M. Castilla, J.D. Álvarez / UAL, J.A. Carballo, <b>J. Bonilla</b> / CIEMAT,
+      details: |
+        XLIV Jornadas de Automática 2023.
+        Regular paper in Proceedings, Poster, DOI: XXXX,
+        Zaragoza (Spain), September 6 - 8, 2023.
+      time: 2023
+      img: 'assets/docs/conf_nat/JA_2023_1.png'
+
     - title: Control de un recuperador de sales en una planta termosolar híbrida
       link: 'https://doi.org/10.17979/spudc.9788497497169.421'
-      authors: P. Otalóra / UAL, L. Roca, <b>J. Bonilla</b> / CIEMAT, J.L Gúzman / UAL
+      authors: P. Otalóra / UAL, L. Roca, <b>J. Bonilla</b> / CIEMAT, J.L. Gúzman / UAL
       details: |
         XL Jornadas de Automática 2019.
         Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497497169.421,
