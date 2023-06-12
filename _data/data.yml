@@ -713,6 +713,16 @@ conferences_national:
       time: 2023
       img: 'assets/docs/conf_nat/JA_2023_1.png'
 
+    - title: Operación óptima de un sistema de refrigeración combinada
+      link: 'assets/docs/conf_nat/JA_2023_2.pdf'
+      authors: J.M. Serrano / CIEMAT, J.D. Gil / UAL, <b>J. Bonilla</b>, P. Palenzuela, L.Roca / CIEMAT
+      details: |
+        XLIV Jornadas de Automática 2023.
+        Regular paper in Proceedings, Poster, DOI: XXXX,
+        Zaragoza (Spain), September 6 - 8, 2023.
+      time: 2023
+      img: 'assets/docs/conf_nat/JA_2023_2.png'      
+
     - title: Control de un recuperador de sales en una planta termosolar híbrida
       link: 'https://doi.org/10.17979/spudc.9788497497169.421'
       authors: P. Otalóra / UAL, L. Roca, <b>J. Bonilla</b> / CIEMAT, J.L. Gúzman / UAL
