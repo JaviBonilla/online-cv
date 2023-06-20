@@ -1119,6 +1119,13 @@ outreach:
   items:
 
     - title: 'Energía Solar Térmica e Inteligencia Artificial'
+      link: 'assets/docs/outreach/IES_Sol_Portocarrero_2023.pdf'
+      details: |
+        SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual, 1º bachillerato science students, IES Sol de Portocarrero, Almería (Spain), June 16, 2023
+      time: 2023
+      img: 'assets/docs/outreach/IES_Sol_Portocarrero_2023.png'  
+
+    - title: 'Energía Solar Térmica e Inteligencia Artificial'
       link: 'assets/docs/outreach/IES_Cerro_Milano_2023.pdf'
       details: |
         SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual, 4º ESO  science, humanities and social sciencie students, IES Cerro Milano, Almería (Spain), February 22, 2023
@@ -1469,6 +1476,13 @@ review:
 continuing:
   title: Continuing Education
   items:
+    - title: 'Sistemas Solares Térmicos de Media Concentración'
+      link: 'assets/docs/continuing/media_concentración.pdf'
+      details: |
+        Dr. Eduardo Zarza, Plataforma Solar de Almería, 12 hours, May 15, 17, 18 and 23, 2023
+      time: 2023
+      img: 'assets/docs/continuing/media_concentración.png'
+
     - title: 'La transición energética - La energía solar en el sistema eléctrico español'
       link: 'assets/docs/continuing/IEEE vTools Reservation Confirmation.pdf'
       details: |
