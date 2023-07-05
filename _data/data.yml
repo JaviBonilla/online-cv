@@ -463,6 +463,33 @@ conferences_international:
       time: 2023
       img: 'assets/docs/conf_int/IDA_2023.png'
 
+    - title: 'CSP Data: a data discovery web application of commercial CSP plants'
+      link: 'assets/docs/conf_int/SolarPACES_CSP_Data.pdf'
+      authors: <b>J. Bonilla</b> / CIEMAT, R. Thoning / RIFS, J. Carballo / CIEMAT, J. Lilliestam / RIFS, D.C. Alarcón-Padilla, E.Zarza / CIEMAT
+      details: |
+        29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
+        Abstract, Poster, Sydney (Australia), Oct 10 - 13, 2023.
+      time: 2023
+      img: 'assets/docs/conf_int/SolarPACES_CSP_Data.png'
+
+    - title: 'Smart Heliostat Artificial Vision Tracking System'
+      link: 'assets/docs/conf_int/SolarPACES_Tracking.pdf'
+      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández, J. Ballestrín, L. Valenzuela / CIEMAT
+      details: |
+        29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
+        Abstract, oral presentation, Sydney (Australia), Oct 10 - 13, 2023.
+      time: 2023
+      img: 'assets/docs/conf_int/SolarPACES_Tracking.png'
+
+    - title: 'New Control Architecture for the Next Generation of Central Receiver Power Plants'
+      link: 'assets/docs/conf_int/SolarPACES_SCADA.pdf'
+      authors: J.A. Carballo, J. Fernández, <b>J. Bonilla</b>, A. Ávila / CIEMAT
+      details: |
+        29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
+        Abstract, Poster, Sydney (Australia), Oct 10 - 13, 2023.
+      time: 2023
+      img: 'assets/docs/conf_int/SolarPACES_SCADA.png'            
+
     - title: 'On the use of artificial neural networks for automatic heliostat aiming'
       link: 'assets/docs/conf_int/IWANN_2023.pdf'
       authors: J.A. Carballo / CIEMAT, N.C. Cruz / UAL, <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez and M. Berenguel / UAL
@@ -808,9 +835,17 @@ presentations:
   title: Invited Presentations
   items:
 
+    - title: 'Energy: Experience on Artificial Intelligence (AI)'
+      link: 'assets/docs/invited/CIEMAT_IA_Workshop.pdf'
+      authors: <b>J. Bonilla</b> CIEMAT
+      details: |
+        Workshop on the application of artificial intelligence at CIEMAT's projects, Oral presentation, online, July 3, 2023.
+      time: 2023
+      img: 'assets/docs/invited/CIEMAT_IA_Workshop.png'
+
     - title: Assessment of the integration of a MED-TVC plant into a solar tower with Brayton cycle
       link: 'assets/docs/invited/E4W_Workshop.pdf'
-      authors: <b>J. Bonilla</b>, P. Palenzuela, B. Ortega-Delgado, J.M. Serrano, D.C. Alarcón-Padilla / CIEMAT,
+      authors: <b>J. Bonilla</b>, P. Palenzuela, B. Ortega-Delgado, J.M. Serrano, D.C. Alarcón-Padilla / CIEMAT
       details: |
         Workshop on Renewable Energies and Energy Efficiency in water treatments, EERES4WATER Project, September 26, 2022.
       time: 2022
@@ -1457,6 +1492,14 @@ new_methods:
 review:
   title: Peer-review Activities
   items:
+    - title: 'R&D project reviewer'
+      link: 'assets/docs/review/CONACYT_2023.pdf'
+      details: |
+        Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED), Consejo Nacional de Tecnología (CONACYT), Paraguay.
+      time: 2023
+      img: 'assets/docs/review/CONACYT_2023.png'
+      img_style: 'border: 0px;'
+
     - title: 'Regular reviews for scientific journals'
       link: 'https://www.webofscience.com/wos/author/record/B-7912-2011'
       details: |
