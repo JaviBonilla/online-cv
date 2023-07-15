@@ -142,7 +142,7 @@ career-profile:
   summary: |
     I'm driven by applying automation (**modeling**, **simulation**, **automatic control** and **artificial intelligence**) to **optimize** concentrating **solar thermal** processes with the aim of **reducing costs**, **improving efficiency** and **minimizing** the use of **energy** and **water**. 
 
-    In my Ph.D., I worked on the **dynamic modeling** of two-phase flow evaporators for direct steam generation in **parabolic trough** solar thermal power plants. In the scope of several international projects, I worked on the **modeling** and **control** of a **Heat Recovery System** (HRS) in an innovative design for the **coupling** of a **biogas turbine** with a solar power plant. I've been also involved in the **recovery of wasted thermal energy** from a solar power plant to **produce water** in a distillation facility to reduce the fresh water consumption. I worked in several national projects, **modeling** parabolic trough collectors, **heat exchangers**, thermal **energy storage** systems, and coupling a solar tower power plant, a gas turbine and a solar distillation facility.
+    In my Ph.D., I worked on the **dynamic modeling** of two-phase flow evaporators for direct steam generation in **parabolic trough** solar thermal power plants. In the scope of several international projects, I worked on the **modeling** and **control** of a **heat recovery system** in an innovative design for the **coupling** of a **biogas turbine** with a solar power plant. I've been also involved in the **recovery of wasted thermal energy** from a solar power plant to **produce water** in a distillation facility to reduce the fresh water consumption. I worked in several national projects, **modeling** parabolic trough collectors, **heat exchangers**, thermal **energy storage** systems, and coupling a solar tower power plant, a gas turbine and a solar distillation facility.
 
     Currently, I'm motivated by applying **artificial intelligence** in solar thermal power plants, since they exhibit a low degree of intelligence and autonomy in general, with new ideas like a [**software tool**](http://mixspain.psa.es){:target="_blank"} for **electricity mix optimization** based on artificial intelligence, and a **smart solar tracker** based on **machine learning** and **computer vision**.
 education:
@@ -474,7 +474,7 @@ conferences_international:
 
     - title: 'Smart Heliostat Artificial Vision Tracking System'
       link: 'assets/docs/conf_int/SolarPACES_Tracking.pdf'
-      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández, J. Ballestrín, L. Valenzuela / CIEMAT
+      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, J. Ballestrín, L. Valenzuela / CIEMAT
       details: |
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, oral presentation, Sydney (Australia), Oct 10 - 13, 2023.
@@ -483,7 +483,7 @@ conferences_international:
 
     - title: 'New Control Architecture for the Next Generation of Central Receiver Power Plants'
       link: 'assets/docs/conf_int/SolarPACES_SCADA.pdf'
-      authors: J.A. Carballo, J. Fernández, <b>J. Bonilla</b>, A. Ávila / CIEMAT
+      authors: J.A. Carballo, J. Fernández-Reche, <b>J. Bonilla</b>, A. Ávila / CIEMAT
       details: |
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, Sydney (Australia), Oct 10 - 13, 2023.
