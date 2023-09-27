@@ -1519,6 +1519,13 @@ review:
 continuing:
   title: Continuing Education
   items:
+    - title: 'React'
+      link: 'assets/docs/continuing/React.pdf'
+      details: |
+        Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 20 hours. Almería, September 18 - 21, 2023.
+      time: 2023
+      img: 'assets/docs/continuing/React.png'
+
     - title: 'Sistemas Solares Térmicos de Media Concentración'
       link: 'assets/docs/continuing/media_concentración.pdf'
       details: |
