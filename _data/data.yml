@@ -202,6 +202,15 @@ education:
 publications:
   title: Scientific Publications
   items:
+    - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
+      link: 'https://doi.org/10.3390/a16100487'
+      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche / CIEMAT, B. Nouri / DLR, A. Avila-Marin / CIEMAT, Y. Fabel / DLR, D.C. Alarcón-Padilla / CIEMAT
+      details: 'Algorithms, Volume 16, Issue 10, 487, ISSN: 1999-4893.<br> DOI: 10.3390/a16100487, 2023.<br>**JIF**: 2.3 (2022)'
+      time: 2023
+      img: 'assets/images/journals/algorithms.jpg'
+      img_title: 'Algorithms'
+      # ,<br>**Q2** - Computational Mathematics (35/89, 74.21% percentile)
+
     - title: Dynamic modeling of a multi-effect vertical falling-film evaporator for water reuse in CSP plants
       link: 'http://doi.org/10.1016/j.desal.2022.115623'
       authors: B. Ortega-Delgado, P. Palenzuela, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, L. Roca, D.C. Alarcón-Padilla / CIEMAT
