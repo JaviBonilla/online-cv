@@ -1504,9 +1504,9 @@ review:
     - title: 'R&D project reviewer'
       link: 'assets/docs/review/CONACYT_2023.pdf'
       details: |
-        Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED), Consejo Nacional de Tecnología (CONACYT), Paraguay.
+        Fomento a la investigación científica en el marco del programa paraguayo para el desarrollo de la ciencia y tecnología (PROCIENCIA II). Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED), Consejo Nacional de Ciencia y Tecnología (CONACYT), Paraguay.
       time: 2023
-      img: 'assets/docs/review/CONACYT_2023.png'
+      img: 'assets/docs/review/CYTED.jpg'
       img_style: 'border: 0px;'
 
     - title: 'Regular reviews for scientific journals'
