@@ -1135,6 +1135,16 @@ research_groups:
 prizes:
   title: Prizes, Acknowledgments and Fellowships
   items:
+    # - title: 4ª Edición De Los Premios del Mar y de la Economía Azul Sostenible de Andalucía (PROA)
+    #   link: 'assets/docs/prizes/PROA_2023.pdf'
+    #   details: |
+    #     Galardón en la categoría de Conocimiento Azul concedido a la la Unidad de Aplicaciones Solares Térmicas de la Plataforma Solar de Almería. 
+    #     Patrocinados por la Consejería de Sostenibilidad, Medio Ambiente y Economía Azul y cuentan con la colaboración del Museo de Almería, 
+    #     que depende de la Consejería de Turismo, Cultura y Deporte de la Junta de Andalucía, el Campus de Excelencia Internacional del Mar (CEI·MAR) y Cocom Media.<br>
+    #     Viernes, 15 de diciembre de 2023, Museo de Almería.
+    #   time: 2023
+    #   img: 'assets/docs/prizes/PROA_2023.jpg'
+
     - title: Ph.D. dissertation extraordinary prize in Engineerring
       link: 'assets/docs/prizes/PhD_dissertation_extraordinary_prize_in_Engineering.pdf'
       details: |
