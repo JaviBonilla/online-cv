@@ -1216,26 +1216,26 @@ outreach:
       time: 2019
       img: 'assets/docs/outreach/focosur.jpg'
 
-    - title: 'Blog Posts about Programming, Machine Learning, Embedded Devices & Solar Energy'
-      details: |
-        - [Weather data: Solar, Temperature & Wind in Python](https://mechatronicsblog.com/weather-data-solar-temperature-wind-in-python/){:target="_blank"}
-        - [Machine Learning: Image Classification with Qt & TensorFlow](https://blog.felgo.com/cross-platform-development/machine-learning-add-image-classification-for-ios-and-android-with-qt-and-tensorflow){:target="_blank"}
-        - [Machine Learning on Desktop, iOS and Android with Tensorflow, Qt and Felgo](https://mechatronicsblog.com/machine-learning-on-desktop-ios-and-android-with-tensorflow-qt-and-v-play/){:target="_blank"}
-        - [Tensorflow Lite integration with Qt and Felgo for machine learning apps on iOS and Android](https://mechatronicsblog.com/machine-learning-on-desktop-ios-and-android-with-tensorflow-qt-and-v-play/){:target="_blank"}
-        - [An Introductory Guide to ESP8266, ESP-XX modules and NodeMCU pinout](https://mechatronicsblog.com/an-introductory-guide-to-esp8266-esp-xx-modules-and-nodemcu/){:target="_blank"}
-        - [ESP8266 NodeMCU programming: First Steps](https://mechatronicsblog.com/nodemcu-programming-first-steps/){:target="_blank"}
-        - [Basic ESP8266 NodeMCU tutorial: Breadboard, Pinout and Dimmable LED with PWM](https://mechatronicsblog.com/nodemcu-programming-first-steps/){:target="_blank"}
-        - [Getting started with ESP8266 NodeMCU remote control from Desktop, iOS and Android](https://mechatronicsblog.com/getting-started-with-esp8266-nodemcu-remote-control-from-custom-apps-on-desktop-ios-and-android/){:target="_blank"}
-        - [ESP8266 NodeMCU RGB LED Remote Control](https://mechatronicsblog.com/esp8266-nodemcu-rgb-led-remote-control/){:target="_blank"}
-        - [Raspberry Pi, TensorFlow Lite and Qt/QML: object detection example](https://mechatronicsblog.com/raspberry-pi-tensorflow-lite-and-qt-qml-object-detection-example/){:target="_blank"}
-        - [Coral USB Accelerator, TensorFlow Lite C++ API & Raspberry Pi for TPU object detection](https://mechatronicsblog.com/coral-usb-accelerator-tensorflow-lite-c-api-raspberry-pi-for-edge-tpu-object-detection/){:target="_blank"}
-        - [Raspberry Pi, TensorFlow Lite and Qt/QML: image segmentation example](https://mechatronicsblog.com/coral-usb-accelerator-tensorflow-lite-c-api-raspberry-pi-for-edge-tpu-object-detection/){:target="_blank"}
-        - [Cross-compile and deploy Qt 5.12 for Raspberry Pi](https://mechatronicsblog.com/cross-compile-and-deploy-qt-5-12-for-raspberry-pi/){:target="_blank"}
-        - [ESP8266 NodeMCU pinout for Arduino IDE](https://mechatronicsblog.com/esp8266-nodemcu-pinout-for-arduino-ide/){:target="_blank"}
-      time: 2019 - Now
-      img: 'assets/docs/outreach/blog.png'
-      img_style: 'border: 0px; margin-top: 30px;'
-      img_position: 'align-items-top'
+    # - title: 'Blog Posts about Programming, Machine Learning, Embedded Devices & Solar Energy'
+    #   details: |
+    #     - [Weather data: Solar, Temperature & Wind in Python](https://mechatronicsblog.com/weather-data-solar-temperature-wind-in-python/){:target="_blank"}
+    #     - [Machine Learning: Image Classification with Qt & TensorFlow](https://blog.felgo.com/cross-platform-development/machine-learning-add-image-classification-for-ios-and-android-with-qt-and-tensorflow){:target="_blank"}
+    #     - [Machine Learning on Desktop, iOS and Android with Tensorflow, Qt and Felgo](https://mechatronicsblog.com/machine-learning-on-desktop-ios-and-android-with-tensorflow-qt-and-v-play/){:target="_blank"}
+    #     - [Tensorflow Lite integration with Qt and Felgo for machine learning apps on iOS and Android](https://mechatronicsblog.com/machine-learning-on-desktop-ios-and-android-with-tensorflow-qt-and-v-play/){:target="_blank"}
+    #     - [An Introductory Guide to ESP8266, ESP-XX modules and NodeMCU pinout](https://mechatronicsblog.com/an-introductory-guide-to-esp8266-esp-xx-modules-and-nodemcu/){:target="_blank"}
+    #     - [ESP8266 NodeMCU programming: First Steps](https://mechatronicsblog.com/nodemcu-programming-first-steps/){:target="_blank"}
+    #     - [Basic ESP8266 NodeMCU tutorial: Breadboard, Pinout and Dimmable LED with PWM](https://mechatronicsblog.com/nodemcu-programming-first-steps/){:target="_blank"}
+    #     - [Getting started with ESP8266 NodeMCU remote control from Desktop, iOS and Android](https://mechatronicsblog.com/getting-started-with-esp8266-nodemcu-remote-control-from-custom-apps-on-desktop-ios-and-android/){:target="_blank"}
+    #     - [ESP8266 NodeMCU RGB LED Remote Control](https://mechatronicsblog.com/esp8266-nodemcu-rgb-led-remote-control/){:target="_blank"}
+    #     - [Raspberry Pi, TensorFlow Lite and Qt/QML: object detection example](https://mechatronicsblog.com/raspberry-pi-tensorflow-lite-and-qt-qml-object-detection-example/){:target="_blank"}
+    #     - [Coral USB Accelerator, TensorFlow Lite C++ API & Raspberry Pi for TPU object detection](https://mechatronicsblog.com/coral-usb-accelerator-tensorflow-lite-c-api-raspberry-pi-for-edge-tpu-object-detection/){:target="_blank"}
+    #     - [Raspberry Pi, TensorFlow Lite and Qt/QML: image segmentation example](https://mechatronicsblog.com/coral-usb-accelerator-tensorflow-lite-c-api-raspberry-pi-for-edge-tpu-object-detection/){:target="_blank"}
+    #     - [Cross-compile and deploy Qt 5.12 for Raspberry Pi](https://mechatronicsblog.com/cross-compile-and-deploy-qt-5-12-for-raspberry-pi/){:target="_blank"}
+    #     - [ESP8266 NodeMCU pinout for Arduino IDE](https://mechatronicsblog.com/esp8266-nodemcu-pinout-for-arduino-ide/){:target="_blank"}
+    #   time: 2019 - Now
+    #   img: 'assets/docs/outreach/blog.png'
+    #   img_style: 'border: 0px; margin-top: 30px;'
+    #   img_position: 'align-items-top'
 
     - title: 'Heliostato inteligente'
       link: 'assets/docs/outreach/2019.pdf'
