@@ -1030,6 +1030,15 @@ nat_projects:
       time: 2022 - 2025
       img: 'assets/docs/projects_nat/HELIOSUN_certificate.png'
 
+    # - title: COntrol and ManageMent systems using Information and communications Technologies FOR ZERO Energy Buildings (COMMIT4.0EB)
+    #   link: 'assets/docs/projects_nat/COMMIT4ZEB_certificate.pdf'
+    #   details: |
+    #     Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126889OB-I00, Work team member,
+    #     budget: 125,235 €<br>
+    #     [COMMIT4.0EB website](http://commit-zeb.es){:target="_blank"}
+    #   time: 2022 - 2025
+    #   img: 'assets/docs/projects_nat/COMMIT4ZEB_certificate.png'
+
     - title: Hybrid cooling solutions for water saving in solar thermal applications (SOLHYCOOL)
       link: 'assets/docs/projects_nat/SOLHYCOOL_certificate.pdf'
       details: |
@@ -1038,10 +1047,20 @@ nat_projects:
       time: 2022 - 2025
       img: 'assets/docs/projects_nat/SOLHYCOOL_certificate.png'
 
+    # - title: New Technologies for Enhancing Energy Efficency in Buildings (Ntech4Build) 
+    #   link: 'assets/docs/projects_nat/Ntech4Build_certificate.pdf'
+    #   details: |
+    #     Grant TED2021-131655B-I00 funded by AEI/10.13039/501100011033 and by the European Union NextGenerationEU, Work team member,
+    #     budget: 168,590 €<br>
+    #     [Ntech4Build website](http://ntechbuild.es){:target="_blank"}
+    #   time: 2022 - 2024
+    #   img: 'assets/docs/projects_nat/Ntech4Build_certificate.png'
+
     - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
       link: 'assets/docs/projects_nat/SOLPRENDETE_certificate.pdf'
       details: |
-        Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-21-16905, Work team member, budget: 15.000 €
+        Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-21-16905, Work team member, budget: 15.000 €<br>
+        [SOL-préndete website](https://solprendete.psa.es){:target="_blank"}
       time: 2022 - 2023
       img: 'assets/docs/projects_nat/SOLPRENDETE_certificate.png'
 
@@ -1161,6 +1180,13 @@ prizes:
 outreach:
   title: Outreach Activities
   items:
+
+    - title: 'Plataforma Solar de Almería: La Energía Termosolar Clave Contra El Cambio Climático'
+      link: 'assets/docs/outreach/2023.pdf'
+      details: |
+        European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 29, 2023
+      time: 2023
+      img: 'assets/docs/outreach/2023.png'
 
     - title: 'Energía Solar Térmica e Inteligencia Artificial'
       link: 'assets/docs/outreach/IES_Sol_Portocarrero_2023.pdf'
