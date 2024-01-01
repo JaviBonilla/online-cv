@@ -497,7 +497,7 @@ conferences_international:
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, Sydney (Australia), Oct 10 - 13, 2023.
       time: 2023
-      img: 'assets/docs/conf_int/SolarPACES_SCADA.png'            
+      img: 'assets/docs/conf_int/SolarPACES_SCADA.png'
 
     - title: 'On the use of artificial neural networks for automatic heliostat aiming'
       link: 'assets/docs/conf_int/IWANN_2023.pdf'
@@ -757,7 +757,7 @@ conferences_national:
         Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497498609.477,
         Zaragoza (Spain), September 6 - 8, 2023.
       time: 2023
-      img: 'assets/docs/conf_nat/JA_2023_2.png'      
+      img: 'assets/docs/conf_nat/JA_2023_2.png'
 
     - title: Control de un recuperador de sales en una planta termosolar híbrida
       link: 'https://doi.org/10.17979/spudc.9788497497169.421'
@@ -843,7 +843,6 @@ conferences_national:
 presentations:
   title: Invited Presentations
   items:
-
     - title: 'Energy: Experience on Artificial Intelligence (AI)'
       link: 'assets/docs/invited/CIEMAT_IA_Workshop.pdf'
       authors: <b>J. Bonilla</b> CIEMAT
@@ -1030,14 +1029,14 @@ nat_projects:
       time: 2022 - 2025
       img: 'assets/docs/projects_nat/HELIOSUN_certificate.png'
 
-    # - title: COntrol and ManageMent systems using Information and communications Technologies FOR ZERO Energy Buildings (COMMIT4.0EB)
-    #   link: 'assets/docs/projects_nat/COMMIT4ZEB_certificate.pdf'
-    #   details: |
-    #     Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126889OB-I00, Work team member,
-    #     budget: 125,235 €<br>
-    #     [COMMIT4.0EB website](http://commit-zeb.es){:target="_blank"}
-    #   time: 2022 - 2025
-    #   img: 'assets/docs/projects_nat/COMMIT4ZEB_certificate.png'
+    - title: COntrol and ManageMent systems using Information and communications Technologies FOR ZERO Energy Buildings (COMMIT4.0EB)
+      link: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.pdf'
+      details: |
+        Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126889OB-I00, Work team member,
+        budget: 125,235 €<br>
+        [COMMIT4.0EB website](http://commit-zeb.es){:target="_blank"}
+      time: 2022 - 2025
+      img: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.png'
 
     - title: Hybrid cooling solutions for water saving in solar thermal applications (SOLHYCOOL)
       link: 'assets/docs/projects_nat/SOLHYCOOL_certificate.pdf'
@@ -1047,14 +1046,14 @@ nat_projects:
       time: 2022 - 2025
       img: 'assets/docs/projects_nat/SOLHYCOOL_certificate.png'
 
-    # - title: New Technologies for Enhancing Energy Efficency in Buildings (Ntech4Build) 
-    #   link: 'assets/docs/projects_nat/Ntech4Build_certificate.pdf'
-    #   details: |
-    #     Grant TED2021-131655B-I00 funded by AEI/10.13039/501100011033 and by the European Union NextGenerationEU, Work team member,
-    #     budget: 168,590 €<br>
-    #     [Ntech4Build website](http://ntechbuild.es){:target="_blank"}
-    #   time: 2022 - 2024
-    #   img: 'assets/docs/projects_nat/Ntech4Build_certificate.png'
+    - title: New Technologies for Enhancing Energy Efficency in Buildings (Ntech4Build)
+      link: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.pdf'
+      details: |
+        Grant TED2021-131655B-I00 funded by AEI/10.13039/501100011033 and by the European Union NextGenerationEU, Work team member,
+        budget: 168,590 €<br>
+        [Ntech4Build website](http://ntechbuild.es){:target="_blank"}
+      time: 2022 - 2024
+      img: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.png'
 
     - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
       link: 'assets/docs/projects_nat/SOLPRENDETE_certificate.pdf'
@@ -1138,8 +1137,8 @@ prizes:
     # - title: 4ª Edición De Los Premios del Mar y de la Economía Azul Sostenible de Andalucía (PROA)
     #   link: 'assets/docs/prizes/PROA_2023.pdf'
     #   details: |
-    #     Galardón en la categoría de Conocimiento Azul concedido a la la Unidad de Aplicaciones Solares Térmicas de la Plataforma Solar de Almería. 
-    #     Patrocinados por la Consejería de Sostenibilidad, Medio Ambiente y Economía Azul y cuentan con la colaboración del Museo de Almería, 
+    #     Galardón en la categoría de Conocimiento Azul concedido a la la Unidad de Aplicaciones Solares Térmicas de la Plataforma Solar de Almería.
+    #     Patrocinados por la Consejería de Sostenibilidad, Medio Ambiente y Economía Azul y cuentan con la colaboración del Museo de Almería,
     #     que depende de la Consejería de Turismo, Cultura y Deporte de la Junta de Andalucía, el Campus de Excelencia Internacional del Mar (CEI·MAR) y Cocom Media.<br>
     #     Viernes, 15 de diciembre de 2023, Museo de Almería.
     #   time: 2023
@@ -1190,7 +1189,6 @@ prizes:
 outreach:
   title: Outreach Activities
   items:
-
     - title: 'Plataforma Solar de Almería: La Energía Termosolar Clave Contra El Cambio Climático'
       link: 'assets/docs/outreach/2023.pdf'
       details: |
@@ -1203,7 +1201,7 @@ outreach:
       details: |
         SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual, 1º bachillerato science students, IES Sol de Portocarrero, Almería (Spain), June 16, 2023
       time: 2023
-      img: 'assets/docs/outreach/IES_Sol_Portocarrero_2023.png'  
+      img: 'assets/docs/outreach/IES_Sol_Portocarrero_2023.png'
 
     - title: 'Energía Solar Térmica e Inteligencia Artificial'
       link: 'assets/docs/outreach/IES_Cerro_Milano_2023.pdf'
@@ -1298,7 +1296,6 @@ outreach:
 experience:
   title: Work Experience
   items:
-
     - title: 'Work trajectory document - Informe de vida laboral'
       link: 'assets/docs/experience/vida_laboral.pdf'
       details: |
@@ -1311,7 +1308,7 @@ experience:
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2023
-      img: 'assets/docs/experience/positions_CIEMAT.png'      
+      img: 'assets/docs/experience/positions_CIEMAT.png'
 
     - title: 'Attestation of functions - Certificado de funciones'
       link: 'assets/docs/experience/functions_certificate.pdf'
@@ -1532,7 +1529,7 @@ new_methods:
       details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
       time: 2012
       img: 'assets/images/journals/solarEnergy.gif'
-      img_title: 'Solar Energy'      
+      img_title: 'Solar Energy'
 
 review:
   title: Peer-review Activities
@@ -1597,7 +1594,7 @@ continuing:
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 5 hours. Almería, May 24 - 25, 2021.
       time: 2021
-      img: 'assets/docs/continuing/courses.png'      
+      img: 'assets/docs/continuing/courses.png'
 
     - title: 'Introduction to applied supervised machine learning'
       link: 'assets/docs/continuing/ML.pdf'
