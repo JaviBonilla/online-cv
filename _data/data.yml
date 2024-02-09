@@ -510,11 +510,11 @@ conferences_international:
       img: 'assets/docs/conf_int/IWANN_2023.png'
 
     - title: 'Hel-IoT web server: a smart heliostat development platform'
-      link: 'assets/docs/conf_int/Hel-IoT_web_Server.pdf'
+      link: 'https://doi.org/10.52825/solarpaces.v1i.721'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla / CIEMAT
       details: |
         28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
-        Abstract, Poster, Albuquerque (USA), Sep 27 - 30, 2022.
+        Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Albuquerque (USA), Sep 27 - 30, 2022.
       time: 2022
       img: 'assets/docs/conf_int/Hel-IoT_web_Server.png'
 
@@ -1414,10 +1414,12 @@ software:
       img: 'assets/docs/software/mix.png'
 
     - title: 'Hel-IoT web server: a smart heliostat development platform'
-      link: 'assets/docs/conf_int/Hel-IoT_web_Server.pdf'
+      link: 'https://doi.org/10.52825/solarpaces.v1i.721'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla / CIEMAT
       details: |
-        28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces), Albuquerque (USA), Sep 27 - 30, 2022.
+        28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
+        Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Albuquerque (USA), Sep 27 - 30, 2022.
+      time: 2022
       img: 'assets/docs/software/heliot.png'
 
     - title: 'Parabolic trough collector (PTC) power plant performance'
