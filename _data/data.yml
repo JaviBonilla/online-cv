@@ -462,6 +462,35 @@ books:
 conferences_international:
   title: International Conference Proceedings
   items:
+    - title: 'More Efficient Heliostat Fields for Solar Tower Plants: The HELIOSUN Project'
+      link: 'assets/docs/conf_int/HELIOSUN_2024.pdf'
+      authors: J. Balletrín, L. Valenzuela, J. Fernández-Reche / CIEMAT, R. Pujol, G. Cardona / UIB, J.A. Carballo, <b>J. Bonilla</b>, N. Estremera, E. Carra, N. Simal, R. Monterreal / CIEMAT, A. Marzo / UGR
+      details: |
+        30<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
+        Abstract, Poster, Rome (Italy), Oct 8 - 11, 2024.
+      time: 2024
+      img: 'assets/docs/conf_int/HELIOSUN_2024.png'
+
+    - title: 'Desarrollo de modelos de predicción de la radiación solar directa basados en redes neuronales mediante el uso de imágenes'
+      link: 'assets/docs/conf_int/CIES_2024.pdf'
+      authors: V. Abad, M. Castilla, J.D. Álvarez / UAL, J.A. Carballo, <b>J. Bonilla</b> / CIEMAT
+      details: |
+        Regular paper in Proceedings, Oral presentation<br>
+        CIES, XIX Congreso Ibérico y XV Congreso Iberoamericano de Energía Solar
+        Évora (Portugal), Jun 19 - 21, 2024
+      time: 2024
+      img: 'assets/docs/conf_int/CIES_2024.png'
+
+    - title: 'Optimal operation of a combined cooling system'
+      link: 'assets/docs/conf_int/PID_2024.pdf'
+      authors: J.M. Serrano / CIEMAT, J.D. Gil / UAL, <b>J. Bonilla</b>, P. Palenzuela, L. Roca / CIEMAT
+      details: |
+        Regular paper in Proceedings, Oral presentation<br>
+        4<sup>th</sup> IFAC Conference on Advances in Proportional-Integral-Derivative Control,
+        Almería (Spain), Jun 12 - 14, 2024
+      time: 2024
+      img: 'assets/docs/conf_int/PID_2024.png'
+
     - title: 'Strategies for enhancing the use of solar energy in utility-scale desalination plants'
       link: 'assets/docs/conf_int/IDA_2023.pdf'
       authors: G. Zaragoza, D.C. Alarcón-Padilla, <b>J. Bonilla</b>, P. Palenzuela / CIEMAT
@@ -845,7 +874,7 @@ presentations:
   items:
     - title: 'Energy: Experience on Artificial Intelligence (AI)'
       link: 'assets/docs/invited/CIEMAT_IA_Workshop.pdf'
-      authors: <b>J. Bonilla</b> CIEMAT
+      authors: <b>J. Bonilla</b> / CIEMAT
       details: |
         Workshop on the application of artificial intelligence at CIEMAT's projects, Oral presentation, online, July 3, 2023.
       time: 2023
@@ -1555,7 +1584,7 @@ review:
     - title: 'Regular reviews for scientific conferences'
       link: 'https://www.webofscience.com/wos/author/record/B-7912-2011'
       details: |
-        International Renewable Energy Congress (IREC), International Conference on Sustainable Energy Information Technology, European Control Conference (ECC), Annual Conference of the IEEE Industrial Electronics Society (IECON), International Conference on Mathematical Modelling (MATHMOD), etc.
+        Concentrating Solar Power and Chemical Energy Systems (SolarPaces), International Renewable Energy Congress (IREC), International Conference on Sustainable Energy Information Technology, European Control Conference (ECC), Annual Conference of the IEEE Industrial Electronics Society (IECON), International Conference on Mathematical Modelling (MATHMOD), etc.
       time: 2012 - Now
       img: 'assets/docs/review/conferences.png'
       img_style: 'border: 0px;'
