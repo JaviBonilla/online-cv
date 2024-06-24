@@ -993,7 +993,7 @@ supervision:
       authors: Álvaro Martínez Fernández
       details: |
         Curricular Practices, code 356971, Centro de Investigación en Energía Solar (CIESOL), University of Almería (UAL)
-      time: 2022 - Now
+      time: 2022 - 2023
       img: 'assets/docs/supervision/cp_alvaro.png'
 
     - title: Director of research plan
@@ -1139,11 +1139,19 @@ nat_projects:
 research_groups:
   title: Membership to Research Groups
   items:
+
+    - title: Point-Focus Concentrating Solar Thermal Technologies
+      link: 'https://www.psa.es/en/units/ufp/personal.php'
+      details: |
+        Plataforma Solar de Almería (PSA), Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science, Innovation and Universities, Government of Spain
+      time: 2024 - Now
+      img: 'assets/docs/research_groups/ufp.png'
+
     - title: Solar Thermal Applications
       link: 'https://www.psa.es/en/units/sta/personal.php'
       details: |
         Plataforma Solar de Almería (PSA), Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain
-      time: 2007 - Now
+      time: 2007 - 2023
       img: 'assets/docs/research_groups/sta.png'
 
     - title: Automatic control, Robotics and Mechatronic (ARM) Research Group
