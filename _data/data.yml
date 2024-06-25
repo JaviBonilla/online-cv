@@ -1340,6 +1340,13 @@ experience:
       time: 2004 - Now
       img: 'assets/docs/experience/vida_laboral.png'
 
+    - title: 'Postdoctoral researcher - Permanent position'
+      link: 'assets/docs/experience/LaboralFijo.pdf'
+      details: |
+        CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
+      time: 2024 - Now
+      img: 'assets/docs/experience/LaboralFijo.png'      
+
     - title: 'Attestation of positions - Certificado de puestos de trabajo'
       link: 'assets/docs/experience/positions_CIEMAT.pdf'
       details: |
