@@ -205,7 +205,7 @@ publications:
     - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
       link: 'https://doi.org/10.3390/a16100487'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche / CIEMAT, B. Nouri / DLR, A. Avila-Marin / CIEMAT, Y. Fabel / DLR, D.C. Alarcón-Padilla / CIEMAT
-      details: 'Algorithms, Volume 16, Issue 10, 487, ISSN: 1999-4893.<br> DOI: 10.3390/a16100487, 2023.<br>**JIF**: 2.3 (2022)'
+      details: 'Algorithms, Volume 16, Issue 10, 487, ISSN: 1999-4893.<br> DOI: 10.3390/a16100487, 2023.<br>**JIF**: 1.8 (2023),<br>**Q2** - Computer science, theory and methods'
       time: 2023
       img: 'assets/images/journals/algorithms.jpg'
       img_title: 'Algorithms'
@@ -214,9 +214,9 @@ publications:
     - title: Dynamic modeling of a multi-effect vertical falling-film evaporator for water reuse in CSP plants
       link: 'http://doi.org/10.1016/j.desal.2022.115623'
       authors: B. Ortega-Delgado, P. Palenzuela, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, L. Roca, D.C. Alarcón-Padilla / CIEMAT
-      details: 'Desalination, Volume 529, 115623, ISSN: 0011-9164. DOI: 10.1016/j.desal.2022.115623, 2022.<br>**JIF**: 11.211 (2021),<br>**Q1** - Water resources (3/100, 98.33% percentile)'
+      details: 'Desalination, Volume 529, 115623, ISSN: 0011-9164. DOI: 10.1016/j.desal.2022.115623, 2022.<br>**JIF**: 9.9 (2022),<br>**Q1** - Water resources (3/103, 99.97% percentile)'
       time: 2022
-      img: 'assets/images/journals/desalination.gif'
+      img: 'assets/images/journals/desalination.jpg'
       img_title: 'Desalination'
 
     - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
@@ -280,7 +280,7 @@ publications:
       authors: <b>J. Bonilla</b>, L. Roca / CIEMAT
       details: 'Solar Energy, Volume 176, pages 698-708, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.10.076, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.61% percentile)'
       time: 2018
-      img: 'assets/images/journals/solarEnergy.gif'
+      img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
 
     - title: 'Steady-state and dynamic validation of a parabolic trough collector model using the ThermoCycle Modelica library'
@@ -288,7 +288,7 @@ publications:
       authors: A. Desideri, R. Dickes / ULG, <b>J. Bonilla</b>, L. Valenzuela / CIEMAT, S. Quoilin, V. Lemort / ULG
       details: 'Solar Energy, Volume 174, pages 866-877, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.08.026, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.61% percentile)'
       time: 2018
-      img: 'assets/images/journals/solarEnergy.gif'
+      img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
 
     - title: 'New low-cost solar tracking system based on open source hardware for educational purposes'
@@ -296,7 +296,7 @@ publications:
       authors: J.A. Carballo, <b>J. Bonilla</b>, L. Roca / CIEMAT, M. Berenguel / UAL
       details: 'Solar Energy, Volume 164, pages 826-836, ISSN: 1099-1514. DOI:10.1016/j.solener.2018.09.064, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.61% percentile)'
       time: 2018
-      img: 'assets/images/journals/solarEnergy.gif'
+      img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
 
     - title: 'Optimal operating conditions analysis for a multi-effect distillation plant according to energetic and exergetic criteria'
@@ -400,7 +400,7 @@ publications:
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT,S. Dormido / UNED, E. Zarza / CIEMAT
       details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
       time: 2012
-      img: 'assets/images/journals/solarEnergy.gif'
+      img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
 
     - title: 'A heuristic method to minimise the chattering problem in dynamic mathematical two-phase flow models'
@@ -1574,7 +1574,7 @@ new_methods:
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT,S. Dormido / UNED, E. Zarza / CIEMAT
       details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
       time: 2012
-      img: 'assets/images/journals/solarEnergy.gif'
+      img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
 
 review:
