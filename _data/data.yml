@@ -54,8 +54,8 @@ sidebar:
       - # header: '<br><font color="#FCF3CF">Contribuciones científicas o tecnológicas realizadas, valorando la calidad y repercusión de los trabajos originales de investigación publicados o de las patentes licenciadas o internacionalizadas PCT</font>'
         item: Intellectual Property
         link: '#ip-section'
-      - item: Innovative scientific contributions
-        link: '#new-methods-section'
+      # - item: Innovative scientific contributions
+      #  link: '#new-methods-section'
       - # header: '<br><font color="#FCF3CF">Experiencia postdoctoral no inferior a 3 años en centros públicos o privados de I+D+i, empresas, o universidades españolas o extranjeras</font>'
         item: Work Experience
         link: '#experience-section'
@@ -108,8 +108,8 @@ sidebar:
         link: '#software-section'
       - item: Contributions to Scientific Software
         link: '#oss-section'
-      - item: Innovative scientific contributions
-        link: '#new-methods-section'
+      # - item: Innovative scientific contributions
+      #   link: '#new-methods-section'
       - # header: '<br><font color="#FCF3CF">Diseño, construcción y experimentación de prototipos y plantas piloto</font>'
         item: Host of Facility Access Activities
         link: '#host-section'
@@ -1534,48 +1534,48 @@ oss:
       time: 2018
       img: 'assets/docs/oss/logo_thermocycle.gif'
 
-new_methods:
-  title: Innovative scientific contributions
-  items:
-    - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
-      link: 'http://doi.org/10.1016/j.energy.2021.122437'
-      authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
-      details: 'Energy, Volume 239, Part E, 122437, ISSN: 0360-5442. DOI: 10.1016/j.energy.2021.122437, 2021.<br>**JIF**: 8.857 (2021),<br>**Q1** - Thermodynamics (3/63, 96.03% percentile)'
-      time: 2021
-      img: 'assets/images/journals/energy.gif'
-      img_title: 'Energy'
+# new_methods:
+#   title: Innovative scientific contributions
+#   items:
+#     - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
+    #   link: 'http://doi.org/10.1016/j.energy.2021.122437'
+    #   authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
+    #   details: 'Energy, Volume 239, Part E, 122437, ISSN: 0360-5442. DOI: 10.1016/j.energy.2021.122437, 2021.<br>**JIF**: 8.857 (2021),<br>**Q1** - Thermodynamics (3/63, 96.03% percentile)'
+    #   time: 2021
+    #   img: 'assets/images/journals/energy.gif'
+    #   img_title: 'Energy'
 
-    - title: 'New approach for solar tracking systems based on computer vision, low cost hardware and deep learning'
-      link: 'http://doi.org/10.1016/j.renene.2018.08.101'
-      authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
-      details: 'Renewable Energy, Volume 133, pages 1158-1166, ISSN: 0960-1481. DOI: 10.1016/j.renene.2018.08.101, 2019.<br>**JIF**: 6.274 (2019),<br>**Q1** - Energy & fuels (19/112, 83.48% percentile)'
-      time: 2019
-      img: 'assets/images/journals/renewableEnergy.gif'
-      imag_title: 'Renewable Energy'
+    # - title: 'New approach for solar tracking systems based on computer vision, low cost hardware and deep learning'
+    #   link: 'http://doi.org/10.1016/j.renene.2018.08.101'
+    #   authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
+    #   details: 'Renewable Energy, Volume 133, pages 1158-1166, ISSN: 0960-1481. DOI: 10.1016/j.renene.2018.08.101, 2019.<br>**JIF**: 6.274 (2019),<br>**Q1** - Energy & fuels (19/112, 83.48% percentile)'
+    #   time: 2019
+    #   img: 'assets/images/journals/renewableEnergy.gif'
+    #   imag_title: 'Renewable Energy'
 
-    - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
-      link: 'http://doi.org/10.1016/j.applthermaleng.2018.04.028'
-      authors: A. Mohammadi / UT, <b>J. Bonilla</b> / CIEMAT, R. Zarghami, S. Golshan / UT
-      details: 'Applied Thermal Engineering, Volume 137, pages 808-821, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.04.028, 2018.<br>**JIF**: 4.026 (2018),<br>**Q1** - Engineering, mechanical (13/129, 90.31% percentile)'
-      time: 2018
-      img: 'assets/images/journals/appliedThermal.gif'
-      img_title: 'Applied Thermal Engineering'
+    # - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
+    #   link: 'http://doi.org/10.1016/j.applthermaleng.2018.04.028'
+    #   authors: A. Mohammadi / UT, <b>J. Bonilla</b> / CIEMAT, R. Zarghami, S. Golshan / UT
+    #   details: 'Applied Thermal Engineering, Volume 137, pages 808-821, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.04.028, 2018.<br>**JIF**: 4.026 (2018),<br>**Q1** - Engineering, mechanical (13/129, 90.31% percentile)'
+    #   time: 2018
+    #   img: 'assets/images/journals/appliedThermal.gif'
+    #   img_title: 'Applied Thermal Engineering'
 
-    - title: 'Switching moving boundary models for two-phase flow evaporators and condensers'
-      link: 'http://doi.org/10.1016/j.cnsns.2014.06.035'
-      authors: <b>J. Bonilla</b> / CIEMAT, S. Dormido / UNED, F.E. Cellier / ETH
-      details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.23% percentile)'
-      time: 2015
-      img: 'assets/images/journals/cnsns.gif'
-      img_title: 'Communications in Nonlinear Science and Numerical Simulation'
+    # - title: 'Switching moving boundary models for two-phase flow evaporators and condensers'
+    #   link: 'http://doi.org/10.1016/j.cnsns.2014.06.035'
+    #   authors: <b>J. Bonilla</b> / CIEMAT, S. Dormido / UNED, F.E. Cellier / ETH
+    #   details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.23% percentile)'
+    #   time: 2015
+    #   img: 'assets/images/journals/cnsns.gif'
+    #   img_title: 'Communications in Nonlinear Science and Numerical Simulation'
 
-    - title: 'Parabolic-trough solar thermal power plant simulation scheme, multi-objective genetic algorithm calibration and validation'
-      link: 'http://doi.org/10.1016/j.solener.2011.10.025'
-      authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT,S. Dormido / UNED, E. Zarza / CIEMAT
-      details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
-      time: 2012
-      img: 'assets/images/journals/solarEnergy.jpg'
-      img_title: 'Solar Energy'
+    # - title: 'Parabolic-trough solar thermal power plant simulation scheme, multi-objective genetic algorithm calibration and validation'
+    #   link: 'http://doi.org/10.1016/j.solener.2011.10.025'
+    #   authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT,S. Dormido / UNED, E. Zarza / CIEMAT
+    #   details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
+    #   time: 2012
+    #   img: 'assets/images/journals/solarEnergy.jpg'
+    #   img_title: 'Solar Energy'
 
 review:
   title: Peer-review Activities
