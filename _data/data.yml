@@ -502,11 +502,11 @@ conferences_international:
       img: 'assets/docs/conf_int/IDA_2023.png'
 
     - title: 'CSP Data: a data discovery web application of commercial CSP plants'
-      link: 'assets/docs/conf_int/SolarPACES_CSP_Data.pdf'
+      link: 'https://www.tib-op.org/ojs/index.php/solarpaces/article/view/811'
       authors: <b>J. Bonilla</b> / CIEMAT, R. Thoning / RIFS, J. Carballo / CIEMAT, J. Lilliestam / RIFS, D.C. Alarcón-Padilla, E.Zarza / CIEMAT
       details: |
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
-        Abstract, Poster, Sydney (Australia), Oct 10 - 13, 2023.
+        Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Sydney (Australia), Oct 10 - 13, 2023.
       time: 2023
       img: 'assets/docs/conf_int/SolarPACES_CSP_Data.png'
 
