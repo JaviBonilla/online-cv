@@ -202,6 +202,14 @@ education:
 publications:
   title: Scientific Publications
   items:
+    - title: Reinforcement learning for heliostat aiming - Improving the performance of Solar Tower plants
+      link: 'https://doi.org/10.1016/j.apenergy.2024.124574'
+      authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, N.C. Cruz / UAL, J. Fernández-Reche / CIEMAT, J.D. Álvarez / UAL, A. Avila-Marin / CIEMAT, M. Berenguel / UAL
+      details: 'Applied Energy, Volume 377, Part 8, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2024.124574, 2025.<br>**JIF**: 10.1 (2023),<br>**Q1** - Energy & fuels (19/170, 99.89% percentile)'
+      time: 2025
+      img: 'assets/images/journals/appliedEnergy.jpg'
+      img_title: 'Applied Energy'
+
     - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
       link: 'https://doi.org/10.3390/a16100487'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche / CIEMAT, B. Nouri / DLR, A. Avila-Marin / CIEMAT, Y. Fabel / DLR, D.C. Alarcón-Padilla / CIEMAT
@@ -502,7 +510,7 @@ conferences_international:
       img: 'assets/docs/conf_int/IDA_2023.png'
 
     - title: 'CSP Data: a data discovery web application of commercial CSP plants'
-      link: 'https://www.tib-op.org/ojs/index.php/solarpaces/article/view/811'
+      link: 'https://doi.org/10.52825/solarpaces.v2i.811'
       authors: <b>J. Bonilla</b> / CIEMAT, R. Thoning / RIFS, J. Carballo / CIEMAT, J. Lilliestam / RIFS, D.C. Alarcón-Padilla, E.Zarza / CIEMAT
       details: |
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
