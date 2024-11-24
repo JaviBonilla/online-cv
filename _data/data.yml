@@ -210,6 +210,14 @@ publications:
       img: 'assets/images/journals/appliedEnergy.jpg'
       img_title: 'Applied Energy'
 
+    - title: 'Development of a novel tool to simulate solar thermal cogeneration plants using small-capacity tower plants'
+      link: 'https://doi.org/10.1016/j.enconman.2024.119285'
+      authors: <b>J. Bonilla</b>, B. Ortega-Delgado, D.C. Alarcón-Padilla , J. Fernández-Reche, P. Palenzuela / CIEMAT
+      details: 'Energy Conversion and Management, Volume 324, 119285, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2024.119285, 2025<br>**JIF**: 9.9 (2023),<br>**Q1** - Mechanics (3/170, 99.98% percentile)'
+      time: 2025
+      img: 'assets/images/journals/energyConversionManagement.gif'
+      img_title: 'Energy Conversion and Management'      
+
     - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
       link: 'https://doi.org/10.3390/a16100487'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche / CIEMAT, B. Nouri / DLR, A. Avila-Marin / CIEMAT, Y. Fabel / DLR, D.C. Alarcón-Padilla / CIEMAT
