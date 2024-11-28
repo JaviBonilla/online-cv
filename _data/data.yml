@@ -1242,6 +1242,13 @@ prizes:
 outreach:
   title: Outreach Activities
   items:
+    - title: 'La ciencia del Sol: Explorando la energía termosolar y el almacenamiento de calor'
+      link: 'assets/docs/outreach/2024.pdf'
+      details: |
+        Open Researchers 2024-25, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 27, 2024
+      time: 2024
+      img: 'assets/docs/outreach/2024.png'
+
     - title: 'Plataforma Solar de Almería: La Energía Termosolar Clave Contra El Cambio Climático'
       link: 'assets/docs/outreach/2023.pdf'
       details: |
