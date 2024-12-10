@@ -120,6 +120,8 @@ sidebar:
       - # header: '<br><font color="#FCF3CF">Actividades de divulgación de la ciencia</font>'
         item: Outreach Activities
         link: '#outreach-section'
+      - item: Press News
+        link: '#press-section'
       - # header: '<br><font color="#FCF3CF">Participación en actividades de gestión científica</font>'
         item: Membership to Scientific Committees
         link: '#committees-section'
@@ -1242,6 +1244,7 @@ prizes:
 outreach:
   title: Outreach Activities
   items:
+
     - title: 'La ciencia del Sol: Explorando la energía termosolar y el almacenamiento de calor'
       link: 'assets/docs/outreach/2024.pdf'
       details: |
@@ -1333,18 +1336,6 @@ outreach:
       time: 2016
       img: 'assets/docs/outreach/2016.png'
 
-    - title: 'Noticias, sala de prensa, CIEMAT'
-      details: |
-        - [Participación de la PSA-CIEMAT en el CIES 2020 celebrado en Lisboa](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=2125){:target="_blank"}
-        - [Software para optimización del mix eléctrico aplicando técnicas de inteligencia artificial](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1964){:target="_blank"}
-        - [Tesis doctoral del proyecto ENERPRO de un investigador de CIESOL, Centro mixto PSA-UAL](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1963){:target="_blank"}
-        - [Seis Premios Extraordinarios de Doctorado en la Plataforma Solar de Almería](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1170){:target="_blank"}
-        - [Finaliza con éxito el proyecto HYSOL](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1132){:target="_blank"}
-      time: 2016 - Now
-      img: 'assets/docs/outreach/news.png'
-      img_style: 'border: 0px; margin-top: 30px;'
-      img_position: 'align-items-top'
-
     - title: 'Control y operación automático de plantas termosolares'
       authors: J. González / Aunergy, M. Berenguel / UAL, M. Romero, L.J. Yebra, D. Martínez, A. Valverde, L. Roca, <b>J. Bonilla</b>, E. Zarza / CIEMAT
       link: 'assets/docs/outreach/montajes_e_instalaciones.pdf'
@@ -1352,6 +1343,139 @@ outreach:
         Montajes e Instalaciones, Year no 39, No 437, March 2009, pages 90-95, ISSN: 0210-184X
       time: 2009
       img: 'assets/docs/outreach/montajes_e_instalaciones.png'
+
+press:
+  # https://www.lavanguardia.com/local/sevilla/20241206/10176683/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares-agenciaslv20241206.html
+  # https://www.europapress.es/esandalucia/sevilla/noticia-investigadores-andalucia-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares-20241206094459.html
+  # https://www.msn.com/es-es/dinero/noticias/investigadores-andaluces-dise%C3%B1an-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/ar-AA1vnmJ5
+  # https://www.azcostadelsol.com/la-noticia-positiva/disenan-en-andalucia-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/
+  # https://fundaciondescubre.es/noticias/disenan-un-sistema-inteligente-para-mejorar-el-rendimiento-de-las-plantas-solares/
+  # https://andaluciainforma.com/investigadores-andaluces-desarrollan-sistema-de-ia-para-optimizar-el-rendimiento-de-plantas-solares/
+  # https://www.noticiasdealmeria.com/noticia/213019/almeria/investigadores-de-la-plataforma-solar-de-almeria-mejoran-el-rendimiento-solar-con-ia.html
+  # https://iymagazine.es/noticia/5524/tecnologia/desarrollan-un-sistema-de-ia-para-optimizar-plantas-solares-en-andalucia.html
+  # https://www.gentedigital.es/sevilla/noticia/3958539/investigadores-andaluces-disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/
+  # https://www.cordobabn.com/articulo/andalucia/investigadores-andaluces-usan-ia-mejorar-rendimiento-plantas-solares/20241206102816211210.html
+  # https://www.ideal.es/almeria/almeria/investigadores-almeria-disenan-sistema-ia-mejorar-rendimiento-20241210230520-nt.html
+  # https://www.almeriainformacion.com/homepage/clave-verde/item/34694-disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares
+  # https://www.teleprensa.com/articulo/sevilla/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares/202412060852261976106.html
+  title: Press News
+  items:
+  - title: Investigadores de Andalucía diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
+    link: https://www.europapress.es/esandalucia/sevilla/noticia-investigadores-andalucia-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares-20241206094459.html
+    details: Europa Press
+    time: 2024
+    img: 'assets/docs/outreach/europa_press.svg'
+    img_style: 'border: 0px;'
+
+  - title: Investigadores Andaluces Desarrollan Sistema de IA para Optimizar el Rendimiento de Plantas Solares
+    link: https://andaluciainforma.com/investigadores-andaluces-desarrollan-sistema-de-ia-para-optimizar-el-rendimiento-de-plantas-solares/
+    details: Andalucía Informa
+    time: 2024
+    img: 'assets/docs/outreach/andalucia_informa.jpeg'
+    img_style: 'border: 0px;'      
+
+  - title: Diseñan un sistema ‘inteligente’ para mejorar el rendimiento de las plantas solares
+    link: https://fundaciondescubre.es/noticias/disenan-un-sistema-inteligente-para-mejorar-el-rendimiento-de-las-plantas-solares/
+    details: Fundación Descubre
+    time: 2024
+    img: 'assets/docs/outreach/descubre.png'
+    img_style: 'border: 0px;'      
+
+  - title: ¿Cómo puede una IA aumentar la energía capturada en plantas solares?
+    link: https://www.review-energy.com/solar/-como-puede-una-ia-aumentar-la-energia-capturada-en-plantas-solares
+    details: Review Energy Spain
+    time: 2024
+    img: 'assets/docs/outreach/review_energy.svg'
+    img_style: 'border: 0px;'
+
+  - title: Diseñan un sistema basado en IA para mejorar el rendimiento de plantas solares
+    link: https://elperiodicodelaenergia.com/disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/
+    details: El periódico de la energía
+    time: 2024
+    img: 'assets/docs/outreach/periodico_energia.png'
+    img_style: 'border: 0px;'
+
+  - title: Investigadores de Almería diseñan un sistema de IA para mejorar el rendimiento de plantas solares
+    link: https://www.ideal.es/almeria/almeria/investigadores-almeria-disenan-sistema-ia-mejorar-rendimiento-20241210230520-nt.html
+    details: IDEAL
+    time: 2024
+    img: 'assets/docs/outreach/ideal.png'
+    img_style: 'border: 0px;'      
+
+  - title: Investigadores andaluces diseñan un sistema basado en IA para “mejorar el rendimiento de plantas solares”
+    link: https://www.lavanguardia.com/local/sevilla/20241206/10176683/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares-agenciaslv20241206.html
+    details: La Vanguardia
+    time: 2024
+    img: 'assets/docs/outreach/la_vanguardia.svg'
+    img_style: 'border: 0px;'
+
+  - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
+    link: https://www.msn.com/es-es/dinero/noticias/investigadores-andaluces-dise%C3%B1an-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/ar-AA1vnmJ5
+    details: MSN
+    time: 2024
+    img: 'assets/docs/outreach/msn.webp'
+    img_style: 'border: 0px;'
+
+  - title: Diseñan en Andalucía un sistema basado en IA para mejorar el rendimiento de plantas solares
+    link: https://www.azcostadelsol.com/la-noticia-positiva/disenan-en-andalucia-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/
+    details: Az Costa del Sol
+    time: 2024
+    img: 'assets/docs/outreach/az.png'
+    img_style: 'border: 0px;'
+
+  - title: Investigadores de la Plataforma Solar de Almería mejoran el rendimiento solar con IA
+    link: https://www.noticiasdealmeria.com/noticia/213019/almeria/investigadores-de-la-plataforma-solar-de-almeria-mejoran-el-rendimiento-solar-con-ia.html
+    details: Noticias de Almería
+    time: 2024
+    img: 'assets/docs/outreach/noticias_de_almerial.jpg'
+    img_style: 'border: 0px;'
+
+  - title: Desarrollan un sistema de IA para optimizar plantas solares en Andalucía
+    link: https://iymagazine.es/noticia/5524/tecnologia/desarrollan-un-sistema-de-ia-para-optimizar-plantas-solares-en-andalucia.html
+    details: IY Magazine
+    time: 2024
+    img: 'assets/docs/outreach/iy_magazine.jpeg'
+    img_style: 'border: 0px;'
+
+  - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
+    link: http://www.gentedigital.es/sevilla/noticia/3958539/investigadores-andaluces-disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/
+    details: Gente Digital
+    time: 2024
+    img: 'assets/docs/outreach/gente_digital.png'
+    img_style: 'border: 0px;'
+
+  - title: Investigadores andaluces usan IA para mejorar rendimiento de plantas solares
+    link: https://www.cordobabn.com/articulo/andalucia/investigadores-andaluces-usan-ia-mejorar-rendimiento-plantas-solares/20241206102816211210.html
+    details: Córdoba BN
+    time: 2024
+    img: 'assets/docs/outreach/cordoba_bn.png'
+    img_style: 'border: 0px;'
+
+  - title: Diseñan un sistema de IA para mejorar el rendimiento de plantas solares
+    link: https://www.almeriainformacion.com/homepage/clave-verde/item/34694-disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares
+    details: Almería Información
+    time: 2024
+    img: 'assets/docs/outreach/almeria_informacion.jpg'
+    img_style: 'border: 0px;'
+
+  - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
+    link: https://www.teleprensa.com/articulo/sevilla/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares/202412060852261976106.html
+    details: Teleprensa
+    time: 2024
+    img: 'assets/docs/outreach/teleprensa.png'
+    img_style: 'border: 0px;'
+
+  - title: 'Noticias, sala de prensa, CIEMAT'
+    details: |
+      - [Participación de la PSA-CIEMAT en el CIES 2020 celebrado en Lisboa](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=2125){:target="_blank"}
+      - [Software para optimización del mix eléctrico aplicando técnicas de inteligencia artificial](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1964){:target="_blank"}
+      - [Tesis doctoral del proyecto ENERPRO de un investigador de CIESOL, Centro mixto PSA-UAL](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1963){:target="_blank"}
+      - [Seis Premios Extraordinarios de Doctorado en la Plataforma Solar de Almería](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1170){:target="_blank"}
+      - [Finaliza con éxito el proyecto HYSOL](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1132){:target="_blank"}
+    time: 2016 - Now
+    img: 'assets/docs/outreach/news.png'
+    img_style: 'border: 0px; margin-top: 30px;'
+    img_position: 'align-items-top'
 
 experience:
   title: Work Experience
