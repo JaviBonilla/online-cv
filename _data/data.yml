@@ -202,12 +202,13 @@ education:
       img: 'assets/docs/education/TituloSis.png'
 
 publications:
+  # Percentile Rank = (1 - (Rank - 1) / Total Journals) * 100
   title: Scientific Publications
   items:
     - title: Reinforcement learning for heliostat aiming - Improving the performance of Solar Tower plants
       link: 'https://doi.org/10.1016/j.apenergy.2024.124574'
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, N.C. Cruz / UAL, J. Fernández-Reche / CIEMAT, J.D. Álvarez / UAL, A. Avila-Marin / CIEMAT, M. Berenguel / UAL
-      details: 'Applied Energy, Volume 377, Part 8, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2024.124574, 2025.<br>**JIF**: 10.1 (2023),<br>**Q1** - Energy & fuels (19/170, 99.89% percentile)'
+      details: 'Applied Energy, Volume 377, Part 8, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2024.124574, 2025.<br>**JIF**: 10.1 (2023),<br>**Q1** - Energy & fuels (19/170, 89.41% percentile)'
       time: 2025
       img: 'assets/images/journals/appliedEnergy.jpg'
       img_title: 'Applied Energy'
@@ -215,10 +216,18 @@ publications:
     - title: 'Development of a novel tool to simulate solar thermal cogeneration plants using small-capacity tower plants'
       link: 'https://doi.org/10.1016/j.enconman.2024.119285'
       authors: <b>J. Bonilla</b>, B. Ortega-Delgado, D.C. Alarcón-Padilla , J. Fernández-Reche, P. Palenzuela / CIEMAT
-      details: 'Energy Conversion and Management, Volume 324, 119285, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2024.119285, 2025<br>**JIF**: 9.9 (2023),<br>**Q1** - Mechanics (3/170, 99.98% percentile)'
+      details: 'Energy Conversion and Management, Volume 324, 119285, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2024.119285, 2025<br>**JIF**: 9.9 (2023),<br>**Q1** - Mechanics (3/170, 98.82% percentile)'
       time: 2025
       img: 'assets/images/journals/energyConversionManagement.gif'
-      img_title: 'Energy Conversion and Management'      
+      img_title: 'Energy Conversion and Management'
+      
+    # - title: 'Modern SCADA for CSP Systems Based on OPC UA, WiFi Mesh Networks and Open Source Software'
+    #   link: 'http://doi.org/10.3390/enXXXXXXX'
+    #   authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernandez-Reche, A. Avila-Marin, B. Díaz / CIEMAT
+    #   details: 'Energies, Volume XXX, Issue X, pages X-XX, ISSN: 1007-5704. DOI: 10.3390/enXXXXXXX, 2024.<br> **JIF**: 3 (2023),<br>**Q3** - Energy & fuels (108/171, 37.43% percentile)'
+    #   time: 2024
+    #   img: 'assets/images/journals/energies.webp'
+    #   img_title: 'Energies'
 
     - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
       link: 'https://doi.org/10.3390/a16100487'
@@ -227,12 +236,12 @@ publications:
       time: 2023
       img: 'assets/images/journals/algorithms.jpg'
       img_title: 'Algorithms'
-      # ,<br>**Q2** - Computational Mathematics (35/89, 74.21% percentile)
+      # ,<br>**Q2** - Computational Mathematics (35/89, 61.80% percentile)
 
     - title: Dynamic modeling of a multi-effect vertical falling-film evaporator for water reuse in CSP plants
       link: 'http://doi.org/10.1016/j.desal.2022.115623'
       authors: B. Ortega-Delgado, P. Palenzuela, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, L. Roca, D.C. Alarcón-Padilla / CIEMAT
-      details: 'Desalination, Volume 529, 115623, ISSN: 0011-9164. DOI: 10.1016/j.desal.2022.115623, 2022.<br>**JIF**: 9.9 (2022),<br>**Q1** - Water resources (3/103, 99.97% percentile)'
+      details: 'Desalination, Volume 529, 115623, ISSN: 0011-9164. DOI: 10.1016/j.desal.2022.115623, 2022.<br>**JIF**: 9.9 (2022),<br>**Q1** - Water resources (3/103, 98.06% percentile)'
       time: 2022
       img: 'assets/images/journals/desalination.jpg'
       img_title: 'Desalination'
@@ -240,7 +249,7 @@ publications:
     - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
       link: 'http://doi.org/10.1016/j.energy.2021.122437'
       authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
-      details: 'Energy, Volume 239, Part E, 122437, ISSN: 0360-5442. DOI: 10.1016/j.energy.2021.122437, 2021.<br>**JIF**: 8.857 (2021),<br>**Q1** - Thermodynamics (3/63, 96.03% percentile)'
+      details: 'Energy, Volume 239, Part E, 122437, ISSN: 0360-5442. DOI: 10.1016/j.energy.2021.122437, 2021.<br>**JIF**: 8.857 (2021),<br>**Q1** - Thermodynamics (3/63, 96.83% percentile)'
       time: 2021
       img: 'assets/images/journals/energy.gif'
       img_title: 'Energy'
@@ -248,7 +257,7 @@ publications:
     - title: 'Optimal operation of solar thermal desalination systems coupled to double-effect absorption heat pumps'
       link: 'http://doi.org/10.1016/j.enconman.2020.112705'
       authors: J.A. Carballo, <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, P. Palenzuela, D.C. Alarcón-Padilla / CIEMAT, M. Berenguel / UAL
-      details: 'Energy Conversion and Management, Volume 210, 112705, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2020.112705, 2020<br>**JIF**: 9.709 (2020),<br>**Q1** - Mechanics (2/135, 98.89% percentile)'
+      details: 'Energy Conversion and Management, Volume 210, 112705, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2020.112705, 2020<br>**JIF**: 9.709 (2020),<br>**Q1** - Mechanics (2/135, 98.26% percentile)'
       time: 2020
       img: 'assets/images/journals/energyConversionManagement.gif'
       img_title: 'Energy Conversion and Management'
@@ -256,7 +265,7 @@ publications:
     - title: 'Solar tower power mockup for the assessment of advanced control techniques'
       link: 'http://doi.org/10.1016/j.renene.2019.12.075'
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
-      details: 'Renewable Energy, Volume 149, pages 682-690, ISSN: 0960-1481. DOI: 10.1016/j.renene.2019.12.075, 2020.<br>**JIF**: 8.001 (2020),<br>**Q1** - Energy & fuels (16/144, 86.40% percentile)'
+      details: 'Renewable Energy, Volume 149, pages 682-690, ISSN: 0960-1481. DOI: 10.1016/j.renene.2019.12.075, 2020.<br>**JIF**: 8.001 (2020),<br>**Q1** - Energy & fuels (16/144, 89.58% percentile)'
       time: 2020
       img: 'assets/images/journals/renewableEnergy.gif'
       img_title: 'Renewable Energy'
@@ -264,7 +273,7 @@ publications:
     - title: 'New approach for solar tracking systems based on computer vision, low cost hardware and deep learning'
       link: 'http://doi.org/10.1016/j.renene.2018.08.101'
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
-      details: 'Renewable Energy, Volume 133, pages 1158-1166, ISSN: 0960-1481. DOI: 10.1016/j.renene.2018.08.101, 2019.<br>**JIF**: 6.274 (2019),<br>**Q1** - Energy & fuels (19/112, 83.48% percentile)'
+      details: 'Renewable Energy, Volume 133, pages 1158-1166, ISSN: 0960-1481. DOI: 10.1016/j.renene.2018.08.101, 2019.<br>**JIF**: 6.274 (2019),<br>**Q1** - Energy & fuels (19/112, 83.93% percentile)'
       time: 2019
       img: 'assets/images/journals/renewableEnergy.gif'
       imag_title: 'Renewable Energy'
@@ -272,7 +281,7 @@ publications:
     - title: 'Parabolic trough collector field dynamic model: Validation, energetic and exergetic analyses'
       link: 'http://doi.org/10.1016/j.applthermaleng.2018.11.093'
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, P. Palenzuela / CIEMAT
-      details: 'Applied Thermal Engineering, Volume 148, pages 777-786, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.11.093, 2019.<br>**JIF**: 4.725 (2019),<br>**Q1** - Engineering, mechanical (13/130, 90.38% percentile)'
+      details: 'Applied Thermal Engineering, Volume 148, pages 777-786, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.11.093, 2019.<br>**JIF**: 4.725 (2019),<br>**Q1** - Engineering, mechanical (13/130, 90.77% percentile)'
       time: 2019
       img: 'assets/images/journals/appliedThermal.gif'
       img_title: 'Applied Thermal Engineering'
@@ -280,7 +289,7 @@ publications:
     - title: 'Design and experimental validation of a computational effective dynamic thermal energy storage tank model'
       link: 'http://doi.org/10.1016/j.energy.2017.11.017'
       authors: <b>J. Bonilla</b>, M. M. Rodríguez-García, L. Roca / CIEMAT, A. de la Calle / CSIRO, L. Valenzuela / CIEMAT
-      details: 'Energy, Volume 152, pages 840-857, ISSN: 0360-5442. DOI: 10.1016/j.energy.2017.11.017, 2018.<br>**JIF**: 5.537 (2018),<br>**Q1** - Thermodynamics (3/60, 95.83% percentile)'
+      details: 'Energy, Volume 152, pages 840-857, ISSN: 0360-5442. DOI: 10.1016/j.energy.2017.11.017, 2018.<br>**JIF**: 5.537 (2018),<br>**Q1** - Thermodynamics (3/60, 96.67% percentile)'
       time: 2018
       img: 'assets/images/journals/energy.gif'
       img_title: 'Energy'
@@ -288,7 +297,7 @@ publications:
     - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
       link: 'http://doi.org/10.1016/j.applthermaleng.2018.04.028'
       authors: A. Mohammadi / UT, <b>J. Bonilla</b> / CIEMAT, R. Zarghami, S. Golshan / UT
-      details: 'Applied Thermal Engineering, Volume 137, pages 808-821, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.04.028, 2018.<br>**JIF**: 4.026 (2018),<br>**Q1** - Engineering, mechanical (13/129, 90.31% percentile)'
+      details: 'Applied Thermal Engineering, Volume 137, pages 808-821, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.04.028, 2018.<br>**JIF**: 4.026 (2018),<br>**Q1** - Engineering, mechanical (13/129, 90.69% percentile)'
       time: 2018
       img: 'assets/images/journals/appliedThermal.gif'
       img_title: 'Applied Thermal Engineering'
@@ -296,7 +305,7 @@ publications:
     - title: 'Model validation and control strategy of a heat recovery system integrated in a renewable hybrid power plant demonstrator'
       link: 'http://doi.org/10.1016/j.solener.2018.10.076'
       authors: <b>J. Bonilla</b>, L. Roca / CIEMAT
-      details: 'Solar Energy, Volume 176, pages 698-708, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.10.076, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.61% percentile)'
+      details: 'Solar Energy, Volume 176, pages 698-708, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.10.076, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
       img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
@@ -304,7 +313,7 @@ publications:
     - title: 'Steady-state and dynamic validation of a parabolic trough collector model using the ThermoCycle Modelica library'
       link: 'http://doi.org/10.1016/j.solener.2018.08.026'
       authors: A. Desideri, R. Dickes / ULG, <b>J. Bonilla</b>, L. Valenzuela / CIEMAT, S. Quoilin, V. Lemort / ULG
-      details: 'Solar Energy, Volume 174, pages 866-877, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.08.026, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.61% percentile)'
+      details: 'Solar Energy, Volume 174, pages 866-877, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.08.026, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
       img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
@@ -312,7 +321,7 @@ publications:
     - title: 'New low-cost solar tracking system based on open source hardware for educational purposes'
       link: 'http://doi.org/10.1016/j.solener.2018.09.064'
       authors: J.A. Carballo, <b>J. Bonilla</b>, L. Roca / CIEMAT, M. Berenguel / UAL
-      details: 'Solar Energy, Volume 164, pages 826-836, ISSN: 1099-1514. DOI:10.1016/j.solener.2018.09.064, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.61% percentile)'
+      details: 'Solar Energy, Volume 164, pages 826-836, ISSN: 1099-1514. DOI:10.1016/j.solener.2018.09.064, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
       img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
@@ -320,7 +329,7 @@ publications:
     - title: 'Optimal operating conditions analysis for a multi-effect distillation plant according to energetic and exergetic criteria'
       link: 'http://doi.org/10.1016/j.desal.2017.12.013'
       authors: J.A. Carballo / UAL, <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, P. Palenzuela, D.C. Alarcón-Padilla / CIEMAT
-      details: 'Desalination, Volume 435, pages 70-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2017.12.013, 2018.<br>**JIF**: 6.035 (2018),<br>**Q1** - Water resources (2/91, 98.35% percentile)'
+      details: 'Desalination, Volume 435, pages 70-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2017.12.013, 2018.<br>**JIF**: 6.035 (2018),<br>**Q1** - Water resources (2/91, 98.90% percentile)'
       time: 2018
       img: 'assets/images/journals/desalination.gif'
       img_title: 'Desalination'
@@ -328,7 +337,7 @@ publications:
     - title: 'Study on shell-and-tube heat exchanger models with different degree of complexity for process simulation and control design'
       link: 'http://doi.org/10.1016/j.applthermaleng.2017.06.129'
       authors: <b>J. Bonilla</b> / CIEMAT, A. de la Calle / CSIRO, L. Roca / CIEMAT, M. M. Rodríguez-García, L. Valenzuela / CIEMAT,
-      details: 'Applied Thermal Engineering, Volume 124, pages 1425-1440, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2017.06.129, 2017.<br>**JIF**: 3.771 (2017),<br>**Q1** - Engineering, mechanical (12/128, 91.02% percentile)'
+      details: 'Applied Thermal Engineering, Volume 124, pages 1425-1440, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2017.06.129, 2017.<br>**JIF**: 3.771 (2017),<br>**Q1** - Engineering, mechanical (12/128, 91.41% percentile)'
       time: 2017
       img: 'assets/images/journals/appliedThermal.gif'
       img_title: 'Applied Thermal Engineering'
@@ -336,7 +345,7 @@ publications:
     - title: 'Optimal operating conditions analysis of a multi-effect distillation plant'
       link: 'http://doi.org/10.5004/dwt.2017.0703'
       authors: A. Carballo / UAL, <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, P. Palenzuela / CIEMAT, M. Berenguel / UAL
-      details: 'Desalination and Water Treatment, 69, pages 229-235, ISSN: 1944-3986. DOI: 10.5004/dwt.2017.0703, 2017.<br> **JIF**: 1.383 (2017),<br>**Q3** - Engineering, chemical (79/137, 42.70% percentile)'
+      details: 'Desalination and Water Treatment, 69, pages 229-235, ISSN: 1944-3986. DOI: 10.5004/dwt.2017.0703, 2017.<br> **JIF**: 1.383 (2017),<br>**Q3** - Engineering, chemical (79/137, 43.07% percentile)'
       time: 2017
       img: 'assets/images/journals/des.jpg'
       img_title: 'Desalination and Water Treatment'
@@ -344,7 +353,7 @@ publications:
     - title: 'Modelo dinámico de un recuperador de gases - sales fundidas para una planta termosolar híbrida de energías renovables'
       link: 'http://doi.org/10.1016/j.riai.2016.11.003'
       authors: <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, S. Dormido / UNED
-      details: 'RIAI - Revista Iberoamericana de Automatica e Informatica Industrial, Volume 14, Issue 1, pages 70-81, ISSN: 1697-7912. DOI: 10.1016/j.riai.2016.11.003.<br> **JIF**: 0.494 (2017),<br>**Q4** - Automation & control systems (60/61, 2.46% percentile)'
+      details: 'RIAI - Revista Iberoamericana de Automatica e Informatica Industrial, Volume 14, Issue 1, pages 70-81, ISSN: 1697-7912. DOI: 10.1016/j.riai.2016.11.003.<br> **JIF**: 0.494 (2017),<br>**Q4** - Automation & control systems (60/61, 3.27% percentile)'
       time: 2017
       img: 'assets/images/journals/riai.jpeg'
       img_title: 'RIAI - Revista Iberoamericana de Automatica e Informatica Industrial'
@@ -352,7 +361,7 @@ publications:
     - title: 'Dynamic modeling and simulation of a double-effect absorption heat pump'
       link: 'http://doi.org/10.1016/j.ijrefrig.2016.07.018'
       authors: A. de la Calle / CSIRO, L. Roca, <b>J. Bonilla</b>, P. Palenzuela / CIEMAT
-      details: 'International Journal of Refrigeration, Volume 72, pages 171-191, ISSN: 1877-0509. DOI: 10.1016/j.ijrefrig.2016.07.018, 2016.<br> **JIF**: 2.779 (2016),<br>**Q1** - Thermodynamics (12/58, 80.70% percentile)'
+      details: 'International Journal of Refrigeration, Volume 72, pages 171-191, ISSN: 1877-0509. DOI: 10.1016/j.ijrefrig.2016.07.018, 2016.<br> **JIF**: 2.779 (2016),<br>**Q1** - Thermodynamics (12/58, 81.03% percentile)'
       time: 2016
       img: 'assets/images/journals/ref.gif'
       img_title: 'International Journal of Refrigeration'
@@ -360,15 +369,15 @@ publications:
     - title: 'Predictive control applied to a solar desalination plant connected to a greenhouse with daily variation of irrigation water demand'
       link: 'http://doi.org/10.3390/en9030194'
       authors: L. Roca / CIEMAT, J. Sanchez, F. Rodríguez / UAL, <b>J. Bonilla</b> / CIEMAT, A. de la Calle / CSIRO, M. Berenguel / UAL
-      details: 'Energies, Volume 194, Issue 9, pages 1-17, ISSN: 1007-5704. DOI: 10.3390/en9030194, 2016.<br> **JIF**: 2.264 (2016),<br>**Q2** - Energy & fuels (45/92, 51.63% percentile)'
+      details: 'Energies, Volume 194, Issue 9, pages 1-17, ISSN: 1007-5704. DOI: 10.3390/en9030194, 2016.<br> **JIF**: 2.264 (2016),<br>**Q2** - Energy & fuels (45/92, 52.17% percentile)'
       time: 2016
-      img: 'assets/images/journals/energies.png'
+      img: 'assets/images/journals/energies.webp'
       img_title: 'Energies'
 
     - title: 'Switching moving boundary models for two-phase flow evaporators and condensers'
       link: 'http://doi.org/10.1016/j.cnsns.2014.06.035'
       authors: <b>J. Bonilla</b> / CIEMAT, S. Dormido / UNED, F.E. Cellier / ETH
-      details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.23% percentile)'
+      details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.43% percentile)'
       time: 2015
       img: 'assets/images/journals/cnsns.gif'
       img_title: 'Communications in Nonlinear Science and Numerical Simulation'
@@ -376,7 +385,7 @@ publications:
     - title: 'Dynamic modeling and simulation of a solar-assisted multi-effect distillation plant'
       link: 'http://doi.org/10.1016/j.desal.2014.11.008'
       authors: A. de la Calle, <b>J. Bonilla</b>, L. Roca, P. Palenzuela / CIEMAT
-      details: 'Desalination, Volume 357, pages 65-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2014.11.008, 2015.<br>**JIF**: 4.412 (2015),<br>**Q1** - Water resources (2/85, 98.24% percentile)'
+      details: 'Desalination, Volume 357, pages 65-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2014.11.008, 2015.<br>**JIF**: 4.412 (2015),<br>**Q1** - Water resources (2/85, 98.82% percentile)'
       time: 2015
       img: 'assets/images/journals/desalination.gif'
       img_title: 'Desalination'
@@ -384,7 +393,7 @@ publications:
     - title: 'Dynamic modeling and performance of the first cell of a multi-effect distillation plant'
       link: 'http://doi.org/10.1016/j.applthermaleng.2014.05.035'
       authors: A. de la Calle, <b>J. Bonilla</b>, L. Roca / CIEMAT, P. Palenzuela / UTA
-      details: 'Applied Thermal Engineering, Volume 70, Issue 1, pages 410-420, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2014.05.035, 2015.<br>**JIF**: 2.739 (2014),<br>**Q1** - Engineering, mechanical (8/130, 94.23% percentile)'
+      details: 'Applied Thermal Engineering, Volume 70, Issue 1, pages 410-420, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2014.05.035, 2015.<br>**JIF**: 2.739 (2014),<br>**Q1** - Engineering, mechanical (8/130, 94.62% percentile)'
       time: 2015
       img: 'assets/images/journals/appliedThermal.gif'
       img_title: 'Applied Thermal Engineering'
@@ -392,7 +401,7 @@ publications:
     - title: 'A control based on a Knapsack problem for solar hydrogen production'
       link: 'http://doi.org/10.1002/oca.2118'
       authors: L. Roca, R. Díaz, A. de la Calle, <b>J. Bonilla</b>, A. Vidal / CIEMAT
-      details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 496-507, ISSN: 1099-1514. DOI: 10.1002/oca.2118, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.39% percentile)'
+      details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 496-507, ISSN: 1099-1514. DOI: 10.1002/oca.2118, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.59% percentile)'
       time: 2014
       img: 'assets/images/journals/oca.jpg'
       img_title: 'Optimal Control, Applications and Methods'
@@ -400,7 +409,7 @@ publications:
     - title: 'A room simulation tool for thermal comfort control in a bioclimatic building. A real example of use with an optimal controller'
       link: 'http://doi.org/10.1002/oca.2116'
       authors: M. Castilla / UAL, <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez / US, F. Rodríguez / UAL
-      details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 479-495, ISSN: 1099-1514. DOI: 10.1002/oca.2116, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.39% percentile)'
+      details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 479-495, ISSN: 1099-1514. DOI: 10.1002/oca.2116, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.59% percentile)'
       time: 2014
       img: 'assets/images/journals/oca.jpg'
       img_title: 'Optimal Control, Applications and Methods'
@@ -408,7 +417,7 @@ publications:
     - title: 'Chattering in dynamic mathematical two-phase flow models'
       link: 'http://doi.org/10.1016/j.apm.2011.08.013'
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED
-      details: 'Applied Mathematical Modelling, Volume 36, Issue 5, pages 2067-2081, ISSN: 0307-904X. DOI: 10.1016/j.apm.2011.08.013, 2012.<br>**JIF**: 1.706 (2012),<br>**Q1** - Engineering, multidisciplinary (11/90, 88.33% percentile)'
+      details: 'Applied Mathematical Modelling, Volume 36, Issue 5, pages 2067-2081, ISSN: 0307-904X. DOI: 10.1016/j.apm.2011.08.013, 2012.<br>**JIF**: 1.706 (2012),<br>**Q1** - Engineering, multidisciplinary (11/90, 88.89% percentile)'
       time: 2012
       img: 'assets/images/journals/amm.png'
       img_title: 'Applied Mathematical Modelling'
@@ -416,7 +425,7 @@ publications:
     - title: 'Parabolic-trough solar thermal power plant simulation scheme, multi-objective genetic algorithm calibration and validation'
       link: 'http://doi.org/10.1016/j.solener.2011.10.025'
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT,S. Dormido / UNED, E. Zarza / CIEMAT
-      details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
+      details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 75.31% percentile)'
       time: 2012
       img: 'assets/images/journals/solarEnergy.jpg'
       img_title: 'Solar Energy'
@@ -424,7 +433,7 @@ publications:
     - title: 'A heuristic method to minimise the chattering problem in dynamic mathematical two-phase flow models'
       link: 'http://doi.org/10.1016/j.mcm.2011.04.026'
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED
-      details: 'Mathematical and Computer Modelling, Volume 54, Issue 5-6, pages 1549-1560, ISSN: 0895-7177. DOI: 10.1016/j.mcm.2011.04.026, 2011.<br>**JIF**: 1.346 (2011),<br>**Q1** - Computer science, software engineering (24/104, 77.40% percentile)'
+      details: 'Mathematical and Computer Modelling, Volume 54, Issue 5-6, pages 1549-1560, ISSN: 0895-7177. DOI: 10.1016/j.mcm.2011.04.026, 2011.<br>**JIF**: 1.346 (2011),<br>**Q1** - Computer science, software engineering (24/104, 77.88% percentile)'
       time: 2011
       img: 'assets/images/journals/mcm.gif'
       img_title: 'Mathematical and Computer Modelling'
@@ -432,7 +441,7 @@ publications:
     - title: 'Mean densities in dynamic mathematical two-phase flow models'
       link: 'http://doi.org/10.3970/cmes.2010.067.013'
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED
-      details: 'Computer Modeling in Engineering & Science, Volume 66, Issue 1, pages 13-37, ISSN: 1526-1506. DOI: 10.3970/cmes.2010.067.013, 2011.<br>**JIF**: 1.123 (2010),<br>**Q2** - Engineering, multidisciplinary (23/90, 75.00% percentile)'
+      details: 'Computer Modeling in Engineering & Science, Volume 66, Issue 1, pages 13-37, ISSN: 1526-1506. DOI: 10.3970/cmes.2010.067.013, 2011.<br>**JIF**: 1.123 (2010),<br>**Q2** - Engineering, multidisciplinary (23/90, 75.56% percentile)'
       time: 2010
       img: 'assets/images/journals/cmes.png'
       img_title: 'Computer Modeling in Engineering & Science'
@@ -440,7 +449,7 @@ publications:
     - title: 'Object oriented modelling and simulation of ACUREX solar thermal power plant'
       link: 'http://doi.org/10.1080/13873954.2010.507420'
       authors: L.J. Yebra / CIEMAT, M. Berenguel / UAL, <b>J. Bonilla</b> / CIEMAT, L. Roca / CIEMAT, S. Dormido / UNED, E. Zarza / CIEMAT
-      details: 'Mathematical and Computer Modelling of Dynamical Systems, Volume 16, Issue 3, pages 211-224, ISSN: 1744-5051. DOI: 10.1080/13873954.2010.507420, 2010.<br>**JIF**: 0.452 (2010),<br>**Q4** - Mathematics, applied (191/236, 19.28% percentile)'
+      details: 'Mathematical and Computer Modelling of Dynamical Systems, Volume 16, Issue 3, pages 211-224, ISSN: 1744-5051. DOI: 10.1080/13873954.2010.507420, 2010.<br>**JIF**: 0.452 (2010),<br>**Q4** - Mathematics, applied (191/236, 19.49% percentile)'
       time: 2010
       img: 'assets/images/journals/mcmds.png'
       img_title: 'Mathematical and Computer Modelling of Dynamical Systems'
@@ -1408,6 +1417,13 @@ press:
     time: 2024
     img: 'assets/docs/outreach/la_vanguardia.svg'
     img_style: 'border: 0px;'
+
+  - title: Cómo puede la Inteligencia Artificial mejorar mejorar el rendimiento de las plantas solares fotovoltaicas
+    link: https://novaciencia.es/como-puede-la-inteligencia-artificial-mejorar-mejorar-el-rendimiento-de-las-plantas-solares-fotovoltaicas/
+    details: Nova Ciencia
+    time: 2024
+    img: 'assets/docs/outreach/nova_ciencia.png'
+    img_style: 'border: 0px;'    
 
   - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
     link: https://www.msn.com/es-es/dinero/noticias/investigadores-andaluces-dise%C3%B1an-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/ar-AA1vnmJ5
