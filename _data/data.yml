@@ -221,13 +221,13 @@ publications:
       img: 'assets/images/journals/energyConversionManagement.gif'
       img_title: 'Energy Conversion and Management'
       
-    # - title: 'Modern SCADA for CSP Systems Based on OPC UA, WiFi Mesh Networks and Open Source Software'
-    #   link: 'http://doi.org/10.3390/enXXXXXXX'
-    #   authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernandez-Reche, A. Avila-Marin, B. Díaz / CIEMAT
-    #   details: 'Energies, Volume XXX, Issue X, pages X-XX, ISSN: 1007-5704. DOI: 10.3390/enXXXXXXX, 2024.<br> **JIF**: 3 (2023),<br>**Q3** - Energy & fuels (108/171, 37.43% percentile)'
-    #   time: 2024
-    #   img: 'assets/images/journals/energies.webp'
-    #   img_title: 'Energies'
+    - title: 'Modern SCADA for CSP Systems Based on OPC UA, WiFi Mesh Networks and Open Source Software'
+      link: 'http://doi.org/10.3390/en17246284'
+      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernandez-Reche, A. Avila-Marin, B. Díaz / CIEMAT
+      details: 'Energies, Volume 17, Number 24, Article number 6284, ISSN: 1996-1073. DOI: 10.3390/en17246284, 2024.<br> **JIF**: 3 (2023),<br>**Q3** - Energy & fuels (108/171, 37.43% percentile)'
+      time: 2024
+      img: 'assets/images/journals/energies.webp'
+      img_title: 'Energies'
 
     - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
       link: 'https://doi.org/10.3390/a16100487'
@@ -369,7 +369,7 @@ publications:
     - title: 'Predictive control applied to a solar desalination plant connected to a greenhouse with daily variation of irrigation water demand'
       link: 'http://doi.org/10.3390/en9030194'
       authors: L. Roca / CIEMAT, J. Sanchez, F. Rodríguez / UAL, <b>J. Bonilla</b> / CIEMAT, A. de la Calle / CSIRO, M. Berenguel / UAL
-      details: 'Energies, Volume 194, Issue 9, pages 1-17, ISSN: 1007-5704. DOI: 10.3390/en9030194, 2016.<br> **JIF**: 2.264 (2016),<br>**Q2** - Energy & fuels (45/92, 52.17% percentile)'
+      details: 'Energies, Volume 9, Number 3, Article number 194, ISSN: 1996-1073. DOI: 10.3390/en9030194, 2016.<br> **JIF**: 2.264 (2016),<br>**Q2** - Energy & fuels (45/92, 52.17% percentile)'
       time: 2016
       img: 'assets/images/journals/energies.webp'
       img_title: 'Energies'
