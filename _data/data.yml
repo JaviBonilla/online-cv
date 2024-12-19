@@ -1367,6 +1367,8 @@ press:
   # https://www.ideal.es/almeria/almeria/investigadores-almeria-disenan-sistema-ia-mejorar-rendimiento-20241210230520-nt.html
   # https://www.almeriainformacion.com/homepage/clave-verde/item/34694-disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares
   # https://www.teleprensa.com/articulo/sevilla/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares/202412060852261976106.html
+  # https://www.horapunta.com/noticia/45760/actualidad/desarrollan-un-sistema-de-ia-en-andalucia-para-optimizar-plantas-solares.html
+  # https://nuevodiario.es/noticia/19949/cultura/desarrollan-un-sistema-de-ia-en-andalucia-que-aumenta-la-eficiencia-de-plantas-solares.html
   title: Press News
   items:
   - title: Investigadores de Andalucía diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
@@ -1423,6 +1425,20 @@ press:
     details: Nova Ciencia
     time: 2024
     img: 'assets/docs/outreach/nova_ciencia.png'
+    img_style: 'border: 0px;'
+
+  - title: Desarrollan un sistema de IA en Andalucía para optimizar plantas solares
+    link: https://www.horapunta.com/noticia/45760/actualidad/desarrollan-un-sistema-de-ia-en-andalucia-para-optimizar-plantas-solares.html
+    details: Hora Punta
+    time: 2024
+    img: 'assets/docs/outreach/hora_punta.png'
+    img_style: 'border: 0px;'
+
+  - title: Desarrollan un sistema de IA en Andalucía que aumenta la eficiencia de plantas solares
+    link: https://nuevodiario.es/noticia/19949/cultura/desarrollan-un-sistema-de-ia-en-andalucia-que-aumenta-la-eficiencia-de-plantas-solares.html
+    details: Nuevo Diario
+    time: 2024
+    img: 'assets/docs/outreach/nuevo_diario.gif'
     img_style: 'border: 0px;'    
 
   - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
