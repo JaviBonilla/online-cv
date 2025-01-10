@@ -211,6 +211,7 @@ publications:
       details: 'Applied Energy, Volume 377, Part 8, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2024.124574, 2025.<br>**JIF**: 10.1 (2023),<br>**Q1** - Energy & fuels (19/170, 89.41% percentile)'
       time: 2025
       img: 'assets/images/journals/appliedEnergy.jpg'
+      plumx: '10.1016/j.apenergy.2024.124574'
       img_title: 'Applied Energy'
 
     - title: 'Development of a novel tool to simulate solar thermal cogeneration plants using small-capacity tower plants'
@@ -219,6 +220,7 @@ publications:
       details: 'Energy Conversion and Management, Volume 324, 119285, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2024.119285, 2025<br>**JIF**: 9.9 (2023),<br>**Q1** - Mechanics (3/170, 98.82% percentile)'
       time: 2025
       img: 'assets/images/journals/energyConversionManagement.gif'
+      plumx: '10.1016/j.enconman.2024.119285'
       img_title: 'Energy Conversion and Management'
       
     - title: 'Modern SCADA for CSP Systems Based on OPC UA, WiFi Mesh Networks and Open Source Software'
@@ -227,6 +229,7 @@ publications:
       details: 'Energies, Volume 17, Number 24, Article number 6284, ISSN: 1996-1073. DOI: 10.3390/en17246284, 2024.<br> **JIF**: 3 (2023),<br>**Q3** - Energy & fuels (108/171, 37.43% percentile)'
       time: 2024
       img: 'assets/images/journals/energies.webp'
+      plumx: '10.3390/en17246284'
       img_title: 'Energies'
 
     - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
@@ -235,6 +238,7 @@ publications:
       details: 'Algorithms, Volume 16, Issue 10, 487, ISSN: 1999-4893.<br> DOI: 10.3390/a16100487, 2023.<br>**JIF**: 1.8 (2023),<br>**Q2** - Computer science, theory and methods'
       time: 2023
       img: 'assets/images/journals/algorithms.jpg'
+      plumx: '10.3390/a16100487'
       img_title: 'Algorithms'
       # ,<br>**Q2** - Computational Mathematics (35/89, 61.80% percentile)
 
@@ -244,6 +248,7 @@ publications:
       details: 'Desalination, Volume 529, 115623, ISSN: 0011-9164. DOI: 10.1016/j.desal.2022.115623, 2022.<br>**JIF**: 9.9 (2022),<br>**Q1** - Water resources (3/103, 98.06% percentile)'
       time: 2022
       img: 'assets/images/journals/desalination.jpg'
+      plumx: '10.1016/j.desal.2022.115623'
       img_title: 'Desalination'
 
     - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
@@ -252,6 +257,7 @@ publications:
       details: 'Energy, Volume 239, Part E, 122437, ISSN: 0360-5442. DOI: 10.1016/j.energy.2021.122437, 2021.<br>**JIF**: 8.857 (2021),<br>**Q1** - Thermodynamics (3/63, 96.83% percentile)'
       time: 2021
       img: 'assets/images/journals/energy.gif'
+      plumx: '10.1016/j.energy.2021.122437'
       img_title: 'Energy'
 
     - title: 'Optimal operation of solar thermal desalination systems coupled to double-effect absorption heat pumps'
@@ -260,6 +266,7 @@ publications:
       details: 'Energy Conversion and Management, Volume 210, 112705, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2020.112705, 2020<br>**JIF**: 9.709 (2020),<br>**Q1** - Mechanics (2/135, 98.26% percentile)'
       time: 2020
       img: 'assets/images/journals/energyConversionManagement.gif'
+      plumx: '10.1016/j.enconman.2020.112705'
       img_title: 'Energy Conversion and Management'
 
     - title: 'Solar tower power mockup for the assessment of advanced control techniques'
@@ -268,6 +275,7 @@ publications:
       details: 'Renewable Energy, Volume 149, pages 682-690, ISSN: 0960-1481. DOI: 10.1016/j.renene.2019.12.075, 2020.<br>**JIF**: 8.001 (2020),<br>**Q1** - Energy & fuels (16/144, 89.58% percentile)'
       time: 2020
       img: 'assets/images/journals/renewableEnergy.gif'
+      plumx: '10.1016/j.renene.2019.12.075'
       img_title: 'Renewable Energy'
 
     - title: 'New approach for solar tracking systems based on computer vision, low cost hardware and deep learning'
@@ -276,6 +284,7 @@ publications:
       details: 'Renewable Energy, Volume 133, pages 1158-1166, ISSN: 0960-1481. DOI: 10.1016/j.renene.2018.08.101, 2019.<br>**JIF**: 6.274 (2019),<br>**Q1** - Energy & fuels (19/112, 83.93% percentile)'
       time: 2019
       img: 'assets/images/journals/renewableEnergy.gif'
+      plumx: '10.1016/j.renene.2018.08.101'
       imag_title: 'Renewable Energy'
 
     - title: 'Parabolic trough collector field dynamic model: Validation, energetic and exergetic analyses'
@@ -284,6 +293,7 @@ publications:
       details: 'Applied Thermal Engineering, Volume 148, pages 777-786, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.11.093, 2019.<br>**JIF**: 4.725 (2019),<br>**Q1** - Engineering, mechanical (13/130, 90.77% percentile)'
       time: 2019
       img: 'assets/images/journals/appliedThermal.gif'
+      plumx: '10.1016/j.applthermaleng.2018.11.093'
       img_title: 'Applied Thermal Engineering'
 
     - title: 'Design and experimental validation of a computational effective dynamic thermal energy storage tank model'
@@ -292,6 +302,7 @@ publications:
       details: 'Energy, Volume 152, pages 840-857, ISSN: 0360-5442. DOI: 10.1016/j.energy.2017.11.017, 2018.<br>**JIF**: 5.537 (2018),<br>**Q1** - Thermodynamics (3/60, 96.67% percentile)'
       time: 2018
       img: 'assets/images/journals/energy.gif'
+      plumx: '10.1016/j.energy.2017.11.017'
       img_title: 'Energy'
 
     - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
@@ -300,6 +311,7 @@ publications:
       details: 'Applied Thermal Engineering, Volume 137, pages 808-821, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.04.028, 2018.<br>**JIF**: 4.026 (2018),<br>**Q1** - Engineering, mechanical (13/129, 90.69% percentile)'
       time: 2018
       img: 'assets/images/journals/appliedThermal.gif'
+      plumx: '10.1016/j.applthermaleng.2018.04.028'
       img_title: 'Applied Thermal Engineering'
 
     - title: 'Model validation and control strategy of a heat recovery system integrated in a renewable hybrid power plant demonstrator'
@@ -308,6 +320,7 @@ publications:
       details: 'Solar Energy, Volume 176, pages 698-708, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.10.076, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
       img: 'assets/images/journals/solarEnergy.jpg'
+      plumx: '10.1016/j.solener.2018.10.076'
       img_title: 'Solar Energy'
 
     - title: 'Steady-state and dynamic validation of a parabolic trough collector model using the ThermoCycle Modelica library'
@@ -316,6 +329,7 @@ publications:
       details: 'Solar Energy, Volume 174, pages 866-877, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.08.026, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
       img: 'assets/images/journals/solarEnergy.jpg'
+      plumx: '10.1016/j.solener.2018.08.026'
       img_title: 'Solar Energy'
 
     - title: 'New low-cost solar tracking system based on open source hardware for educational purposes'
@@ -324,6 +338,7 @@ publications:
       details: 'Solar Energy, Volume 164, pages 826-836, ISSN: 1099-1514. DOI:10.1016/j.solener.2018.09.064, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
       img: 'assets/images/journals/solarEnergy.jpg'
+      plumx: '10.1016/j.solener.2018.09.064'
       img_title: 'Solar Energy'
 
     - title: 'Optimal operating conditions analysis for a multi-effect distillation plant according to energetic and exergetic criteria'
@@ -332,6 +347,7 @@ publications:
       details: 'Desalination, Volume 435, pages 70-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2017.12.013, 2018.<br>**JIF**: 6.035 (2018),<br>**Q1** - Water resources (2/91, 98.90% percentile)'
       time: 2018
       img: 'assets/images/journals/desalination.gif'
+      plumx: '10.1016/j.desal.2017.12.013'
       img_title: 'Desalination'
 
     - title: 'Study on shell-and-tube heat exchanger models with different degree of complexity for process simulation and control design'
@@ -340,6 +356,7 @@ publications:
       details: 'Applied Thermal Engineering, Volume 124, pages 1425-1440, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2017.06.129, 2017.<br>**JIF**: 3.771 (2017),<br>**Q1** - Engineering, mechanical (12/128, 91.41% percentile)'
       time: 2017
       img: 'assets/images/journals/appliedThermal.gif'
+      plumx: '10.1016/j.applthermaleng.2017.06.129'
       img_title: 'Applied Thermal Engineering'
 
     - title: 'Optimal operating conditions analysis of a multi-effect distillation plant'
@@ -348,6 +365,7 @@ publications:
       details: 'Desalination and Water Treatment, 69, pages 229-235, ISSN: 1944-3986. DOI: 10.5004/dwt.2017.0703, 2017.<br> **JIF**: 1.383 (2017),<br>**Q3** - Engineering, chemical (79/137, 43.07% percentile)'
       time: 2017
       img: 'assets/images/journals/des.jpg'
+      plumx: '10.5004/dwt.2017.0703'
       img_title: 'Desalination and Water Treatment'
 
     - title: 'Modelo dinámico de un recuperador de gases - sales fundidas para una planta termosolar híbrida de energías renovables'
@@ -356,6 +374,7 @@ publications:
       details: 'RIAI - Revista Iberoamericana de Automatica e Informatica Industrial, Volume 14, Issue 1, pages 70-81, ISSN: 1697-7912. DOI: 10.1016/j.riai.2016.11.003.<br> **JIF**: 0.494 (2017),<br>**Q4** - Automation & control systems (60/61, 3.27% percentile)'
       time: 2017
       img: 'assets/images/journals/riai.jpeg'
+      plumx: '10.1016/j.riai.2016.11.003'
       img_title: 'RIAI - Revista Iberoamericana de Automatica e Informatica Industrial'
 
     - title: 'Dynamic modeling and simulation of a double-effect absorption heat pump'
@@ -364,6 +383,7 @@ publications:
       details: 'International Journal of Refrigeration, Volume 72, pages 171-191, ISSN: 1877-0509. DOI: 10.1016/j.ijrefrig.2016.07.018, 2016.<br> **JIF**: 2.779 (2016),<br>**Q1** - Thermodynamics (12/58, 81.03% percentile)'
       time: 2016
       img: 'assets/images/journals/ref.gif'
+      plumx: '10.1016/j.ijrefrig.2016.07.018'
       img_title: 'International Journal of Refrigeration'
 
     - title: 'Predictive control applied to a solar desalination plant connected to a greenhouse with daily variation of irrigation water demand'
@@ -372,6 +392,7 @@ publications:
       details: 'Energies, Volume 9, Number 3, Article number 194, ISSN: 1996-1073. DOI: 10.3390/en9030194, 2016.<br> **JIF**: 2.264 (2016),<br>**Q2** - Energy & fuels (45/92, 52.17% percentile)'
       time: 2016
       img: 'assets/images/journals/energies.webp'
+      plumx: '10.3390/en9030194'
       img_title: 'Energies'
 
     - title: 'Switching moving boundary models for two-phase flow evaporators and condensers'
@@ -380,6 +401,7 @@ publications:
       details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.43% percentile)'
       time: 2015
       img: 'assets/images/journals/cnsns.gif'
+      plumx: '10.1016/j.cnsns.2014.06.035'
       img_title: 'Communications in Nonlinear Science and Numerical Simulation'
 
     - title: 'Dynamic modeling and simulation of a solar-assisted multi-effect distillation plant'
@@ -388,6 +410,7 @@ publications:
       details: 'Desalination, Volume 357, pages 65-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2014.11.008, 2015.<br>**JIF**: 4.412 (2015),<br>**Q1** - Water resources (2/85, 98.82% percentile)'
       time: 2015
       img: 'assets/images/journals/desalination.gif'
+      plumx: '10.1016/j.desal.2014.11.008'
       img_title: 'Desalination'
 
     - title: 'Dynamic modeling and performance of the first cell of a multi-effect distillation plant'
@@ -396,6 +419,7 @@ publications:
       details: 'Applied Thermal Engineering, Volume 70, Issue 1, pages 410-420, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2014.05.035, 2015.<br>**JIF**: 2.739 (2014),<br>**Q1** - Engineering, mechanical (8/130, 94.62% percentile)'
       time: 2015
       img: 'assets/images/journals/appliedThermal.gif'
+      plumx: '10.1016/j.applthermaleng.2014.05.035'
       img_title: 'Applied Thermal Engineering'
 
     - title: 'A control based on a Knapsack problem for solar hydrogen production'
@@ -404,6 +428,7 @@ publications:
       details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 496-507, ISSN: 1099-1514. DOI: 10.1002/oca.2118, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.59% percentile)'
       time: 2014
       img: 'assets/images/journals/oca.jpg'
+      plumx: '10.1002/oca.2118'
       img_title: 'Optimal Control, Applications and Methods'
 
     - title: 'A room simulation tool for thermal comfort control in a bioclimatic building. A real example of use with an optimal controller'
@@ -412,6 +437,7 @@ publications:
       details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 479-495, ISSN: 1099-1514. DOI: 10.1002/oca.2116, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.59% percentile)'
       time: 2014
       img: 'assets/images/journals/oca.jpg'
+      plumx: '10.1002/oca.2116'
       img_title: 'Optimal Control, Applications and Methods'
 
     - title: 'Chattering in dynamic mathematical two-phase flow models'
@@ -420,6 +446,7 @@ publications:
       details: 'Applied Mathematical Modelling, Volume 36, Issue 5, pages 2067-2081, ISSN: 0307-904X. DOI: 10.1016/j.apm.2011.08.013, 2012.<br>**JIF**: 1.706 (2012),<br>**Q1** - Engineering, multidisciplinary (11/90, 88.89% percentile)'
       time: 2012
       img: 'assets/images/journals/amm.png'
+      plumx: '10.1016/j.apm.2011.08.013'
       img_title: 'Applied Mathematical Modelling'
 
     - title: 'Parabolic-trough solar thermal power plant simulation scheme, multi-objective genetic algorithm calibration and validation'
@@ -428,6 +455,7 @@ publications:
       details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 75.31% percentile)'
       time: 2012
       img: 'assets/images/journals/solarEnergy.jpg'
+      plumx: '10.1016/j.solener.2011.10.025'
       img_title: 'Solar Energy'
 
     - title: 'A heuristic method to minimise the chattering problem in dynamic mathematical two-phase flow models'
@@ -436,6 +464,7 @@ publications:
       details: 'Mathematical and Computer Modelling, Volume 54, Issue 5-6, pages 1549-1560, ISSN: 0895-7177. DOI: 10.1016/j.mcm.2011.04.026, 2011.<br>**JIF**: 1.346 (2011),<br>**Q1** - Computer science, software engineering (24/104, 77.88% percentile)'
       time: 2011
       img: 'assets/images/journals/mcm.gif'
+      plumx: '10.1016/j.mcm.2011.04.026'
       img_title: 'Mathematical and Computer Modelling'
 
     - title: 'Mean densities in dynamic mathematical two-phase flow models'
@@ -444,6 +473,7 @@ publications:
       details: 'Computer Modeling in Engineering & Science, Volume 66, Issue 1, pages 13-37, ISSN: 1526-1506. DOI: 10.3970/cmes.2010.067.013, 2011.<br>**JIF**: 1.123 (2010),<br>**Q2** - Engineering, multidisciplinary (23/90, 75.56% percentile)'
       time: 2010
       img: 'assets/images/journals/cmes.png'
+      plumx: '10.3970/cmes.2010.067.013'
       img_title: 'Computer Modeling in Engineering & Science'
 
     - title: 'Object oriented modelling and simulation of ACUREX solar thermal power plant'
@@ -452,6 +482,7 @@ publications:
       details: 'Mathematical and Computer Modelling of Dynamical Systems, Volume 16, Issue 3, pages 211-224, ISSN: 1744-5051. DOI: 10.1080/13873954.2010.507420, 2010.<br>**JIF**: 0.452 (2010),<br>**Q4** - Mathematics, applied (191/236, 19.49% percentile)'
       time: 2010
       img: 'assets/images/journals/mcmds.png'
+      plumx: '10.1080/13873954.2010.507420'
       img_title: 'Mathematical and Computer Modelling of Dynamical Systems'
 
 intellectual:

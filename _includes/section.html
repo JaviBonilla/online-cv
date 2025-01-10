@@ -58,6 +58,11 @@
         <div class="item-details" style="margin-bottom: -20px">{{ item.details | markdownify }}</div>
       </div>
     </div>
+    {% if item.plumx %}
+    <div class="plumx" style="margin-top: 20px;">
+      <a href="https://plu.mx/plum/a/?doi={{item.plumx}}" class="plumx-details" data-hide-print="true" data-hide-when-empty="true"></a>
+    </div>      
+    {% endif %}
     </div>
     </div>
     </div><!--//meta-->    
