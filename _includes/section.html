@@ -1,3 +1,39 @@
+<style>
+.col-mobile-3 {
+  width: 32%;
+}
+
+.col-desktop-2 {
+  width: 32%;
+}
+
+.col-mobile-9 {
+  width: 68%;
+}
+
+.col-desktop-10 {
+  width: 68%;
+}
+
+@media (min-width: 1050px) {
+  .col-mobile-3 {
+      width: auto;
+  }
+
+  .col-desktop-2 {
+      width: 20%;
+  }
+
+  .col-mobile-9 {
+      width: auto;
+  }
+
+  .col-desktop-10 {
+      width: 80%;
+  }
+}
+</style>
+
 {% assign data = include.data %}
 {% if data %}
 <div id={{include.id}}></div>
@@ -28,12 +64,12 @@
           {% if item.img_position %}
             {% assign position = item.img_position %}
           {% endif %}
-          <div class="col-2 d-flex {{ position }} justify-content-center" style="padding: 0 !important;">
+          <div class="col-mobile-3 col-desktop-2 d-flex {{ position }} justify-content-center" style="padding: 0 !important;">
             <div>
               {% if item.link %}
                 <a href="{{ item.link }}" title="{{ item.img_title }}" target="_blank">
               {% endif %}
-                <img class="image rounded img-fluid" src="{{ item.img }}" alt="Journal image" style="{{ item.img_style }}">
+                <img class="image rounded img-fluid" src="{{ item.img }}" alt="Journal image" style="{{ item.img_style }}; max-width: 110px;">
               {% if item.link %}                
                 </a>
               {% endif %}
@@ -48,7 +84,7 @@
           </div>
         {% endif %}
     {% if item.img %}
-      <div class= "col-10 d-flex align-items-center justify-content-left">
+      <div class= "col-mobile-9 col-desktop-10 d-flex align-items-center justify-content-left">
     {% else %}
       <div class= "col-12 align-items-center justify-content-left">
     {% endif %}
