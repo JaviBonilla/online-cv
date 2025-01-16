@@ -37,6 +37,13 @@
               {% if item.link %}                
                 </a>
               {% endif %}
+              {% if item.plumx %}
+                <div style="margin-top: 10px;">
+                  <center>
+                    <div class='altmetric-embed' data-badge-type="2" data-hide-no-mentions="true" data-link-target="tab" data-badge-popover='right' data-doi='{{item.plumx}}'></div>
+                  </center>
+                </div>
+              {% endif %}
             </div>
           </div>
         {% endif %}
@@ -61,7 +68,7 @@
     {% if item.plumx %}
     <div class="plumx" style="margin-top: 20px;">
       <a href="https://plu.mx/plum/a/?doi={{item.plumx}}" class="plumx-details" data-hide-print="true" data-hide-when-empty="true"></a>
-    </div>      
+    </div>
     {% endif %}
     </div>
     </div>
