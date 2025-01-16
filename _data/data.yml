@@ -40,102 +40,90 @@ sidebar:
         link: '#summary-section'
       - item: Latest Developments
         link: '#latest-section'
-      - item: Education
-        link: '#education-section'
-      - # header: '<br><font color="#F7DC6F">Sección A</font><br><br><font color="#FCF3CF">Participación y/o gestión en proyectos o contratos de I+D+i</font>'
-        item: International Research Projects
-        link: '#int-projects-section'
-      - item: National Research Projects
-        link: '#nat-projects-section'
-      - item: Work Experience
-        link: '#experience-section'
-      - item: Research Contracts
-        link: '#research-contracts-section'
-      - # header: '<br><font color="#FCF3CF">Contribuciones científicas o tecnológicas realizadas, valorando la calidad y repercusión de los trabajos originales de investigación publicados o de las patentes licenciadas o internacionalizadas PCT</font>'
-        item: Intellectual Property
-        link: '#ip-section'
-      # - item: Innovative scientific contributions
-      #  link: '#new-methods-section'
-      - # header: '<br><font color="#FCF3CF">Experiencia postdoctoral no inferior a 3 años en centros públicos o privados de I+D+i, empresas, o universidades españolas o extranjeras</font>'
-        item: Work Experience
-        link: '#experience-section'
-      - # header: '<br><font color="#FCF3CF">Redacción y publicación de libros o capítulos de libros que sean resultado de un trabajo científico</font>'
-        item: Books
-        link: '#books-section'
-      - # header: '<br><font color="#FCF3CF">Redacción de artículos publicados en revistas científicas</font>'
-        item: Scientific Production Overview
+
+      - header: '<font color="#F7DC6F">A - Scientific-Technical Contributions</font>'
+
+      - item: Scientific Production Overview
         link: '#overview-section'
       - item: Scientific Publications
         link: '#publications-section'
-      - # header: '<br><font color="#F7DC6F">Sección B</font><br><br><font color="#FCF3CF">Comunicaciones, ponencias o paneles aceptados en congresos o reuniones científicas nacionales o internacionales</font>'
-        item: International Conference Proceedings
+      - item: Books
+        link: '#books-section'        
+      - item: International Conference Proceedings
         link: '#conf-int-section'
       - item: National Conference Proceedings
         link: '#conf-nat-section'
-      - item: Invited Presentations
+      - item: Intellectual Property
+        link: '#ip-section'
+      - item: Technology Transfer
+        link: '#research-contracts-section'        
+      - item: '<font color="#DDDDDD"> Other contributions: </font>'
+      - item: "&emsp;Scientific Software"
+        link: '#software-section'
+      - item: "&emsp;Contributions to Scientific Software"
+        link: '#oss-section'        
+      - item: "&emsp;Prototypes and Pilot Plants"
+        link: '#prototypes-section'
+      - item: "&emsp;Experimental Campaigns"
+        link: '#experimental-section'
+      - item: "&emsp;Invited Presentations"
         link: '#presentations-section'
-      - item: International Doctoral Colloquiums
-        link: '#colloquiums-section'
-      - # header: '<br><font color="#FCF3CF">Elaboración de informes científicos sobre los resultados de una investigación o con contenido novedoso</font>'
-        item: Entrepreneurship
-        link: '#entrepreneurship-section'
-      - # header: '<br><font color="#FCF3CF">Dirección de tesis doctorales o de maestría, así como de tesinas</font>'
-        item: Direction of Ph.D. Students
+      - item: "&emsp;Membership to Research Groups"
+        link: '#research-groups-section'
+      - item: "&emsp;Peer-review Activities"
+        link: '#review-section'
+
+      - header: '<font color="#F7DC6F">B - Other curricular merits</font>'
+
+      - item: Direction of Ph.D. Students
         link: '#phd-dissertations-section'
       - item: Direction of Final Degree Projects
         link: '#grade-projects-section'
-      - # header: '<br><font color="#FCF3CF">Tutoría de becarios/as del Programa de Formación de Personal Investigador o de otros programas de formación similares</font>'
-        item: Staff Supervision
-        link: '#supervision-section'
-      # - header: '<br><font color="#FCF3CF">Desarrollo de actividades que den lugar a la obtención de patentes</font>'
-      #  item: ''
-      - # header: '<br><font color="#FCF3CF">Experiencia en centros de investigación nacionales o extranjeros</font>'
-        item: Work Experience
-        link: '#experience-section'
-      - item: Membership to Research Groups
-        link: '#research-groups-section'
+      - item: Staff Supervision
+        link: '#supervision-section'        
+      - item: Prizes, Acknowledgments and Fellowships
+        link: '#prizes-section'
+      - item: Outreach Activities
+        link: '#outreach-section'
+      - item: '<font color="#DDDDDD"> Other contributions: </font>'
+      - item: "&emsp;National Research Projects"
+        link: '#nat-projects-section'
+
+      - header: '<font color="#F7DC6F">C - Internationalization</font>'    
+
+      - item: International Research Projects
+        link: '#int-projects-section'      
+      - item: Membership to Scientific Committees
+        link: '#committees-section'
+      - item: Research Studies
+        link: '#transfer-section'        
       - item: Research Stays
         link: '#stays-section'
-      - # header: '<br><font color="#F7DC6F">Sección C</font><br><br><font color="#FCF3CF">Participación en trabajos e informes de asesoramiento científico</font>'
-        item: Research Studies
-        link: '#transfer-section'
-      # - header: '<br><font color="#FCF3CF">Participación en la implantación de sistemas de calidad en organizaciones</font>'
-      #  item: ''
-      # - header: '<br><font color="#FCF3CF">Estudios astrofísicos, geológicos, hidrológicos, oceanográficos, energéticos, medioambientales, biosanitarios o de cualquier otra disciplina científica realizados con fines de investigación</font>'
-      #  item: ''
-      - # header: '<br><font color="#FCF3CF">Estudio y desarrollo de nuevos procesos, sistemas o métodos</font>'
-        item: Scientific Software
-        link: '#software-section'
-      - item: Contributions to Scientific Software
-        link: '#oss-section'
-      # - item: Innovative scientific contributions
-      #   link: '#new-methods-section'
-      - # header: '<br><font color="#FCF3CF">Diseño, construcción y experimentación de prototipos y plantas piloto</font>'
-        item: Host of Facility Access Activities
+      - item: Host of Facility Access Activities
         link: '#host-section'
-      - item: Prototypes and Pilot Plants
-        link: '#prototypes-section'
-      - item: Experimental Campaigns
-        link: '#experimental-section'
-      - # header: '<br><font color="#FCF3CF">Actividades de divulgación de la ciencia</font>'
-        item: Outreach Activities
-        link: '#outreach-section'
-      - item: Press News
-        link: '#press-section'
-      - # header: '<br><font color="#FCF3CF">Participación en actividades de gestión científica</font>'
-        item: Membership to Scientific Committees
-        link: '#committees-section'
-      - item: Membership to Strategic Research Lines
-        link: '#lines-section'
-      - item: Peer-review Activities
-        link: '#review-section'
-      - # header: '<br><font color="#FCF3CF">Cualquier otro mérito que alegue el aspirante relacionado con la especialidad objeto de la convocatoria</font>'
-        item: Prizes, Acknowledgments and Fellowships
-        link: '#prizes-section'
-      - item: Continuing Education
-        link: '#continuing-section'
       - item: Main International Collaborations
         link: '#collaborations-section'
+      - item: International Doctoral Colloquiums
+        link: '#colloquiums-section'
+
+      - header: '<font color="#F7DC6F">D - Leadership</font>'
+
+      - item: Press News
+        link: '#press-section'
+      - item: Membership to Strategic Research Lines
+        link: '#lines-section'        
+
+      - header: '<br>'
+       
+      - header: '<font color="#F7DC6F">Education & Experience</font>'
+      - item: Education
+        link: '#education-section'
+      - item: Work Experience
+        link: '#experience-section'
+      - item: Entrepreneurship
+        link: '#entrepreneurship-section'
+      - item: Continuing Education
+        link: '#continuing-section'
       - item: Languages
         link: '#languages-section'
 
@@ -147,6 +135,7 @@ career-profile:
     In my Ph.D., I worked on the **dynamic modeling** of two-phase flow evaporators for direct steam generation in **parabolic trough** solar thermal power plants. In the scope of several international projects, I worked on the **modeling** and **control** of a **heat recovery system** in an innovative design for the **coupling** of a **biogas turbine** with a solar power plant. I've been also involved in the **recovery of wasted thermal energy** from a solar power plant to **produce water** in a distillation facility to reduce the fresh water consumption. I worked in several national projects, **modeling** parabolic trough collectors, **heat exchangers**, thermal **energy storage** systems, and coupling a solar tower power plant, a gas turbine and a solar distillation facility.
 
     Currently, I'm motivated by applying **artificial intelligence** in solar thermal power plants, since they exhibit a low degree of intelligence and autonomy in general, with new ideas like a [**software tool**](http://mixspain.psa.es){:target="_blank"} for **electricity mix optimization** based on artificial intelligence, and a **smart solar tracker** based on **machine learning** and **computer vision**.
+    
 education:
   title: Education
   info:
@@ -1400,6 +1389,7 @@ press:
   # https://www.teleprensa.com/articulo/sevilla/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares/202412060852261976106.html
   # https://www.horapunta.com/noticia/45760/actualidad/desarrollan-un-sistema-de-ia-en-andalucia-para-optimizar-plantas-solares.html
   # https://nuevodiario.es/noticia/19949/cultura/desarrollan-un-sistema-de-ia-en-andalucia-que-aumenta-la-eficiencia-de-plantas-solares.html
+  # https://www.cuentamealgobueno.com/2024/12/mejoran-el-rendimiento-de-las-plantas-solares-con-inteligencia-artificial/
   title: Press News
   items:
   - title: Investigadores de Andalucía diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
@@ -1521,6 +1511,13 @@ press:
     img: 'assets/docs/outreach/almeria_informacion.jpg'
     img_style: 'border: 0px;'
 
+  - title: Mejoran el rendimiento de las plantas solares con inteligencia artificial
+    link: https://www.cuentamealgobueno.com/2024/12/mejoran-el-rendimiento-de-las-plantas-solares-con-inteligencia-artificial/
+    details: CuentameAlgoBueno
+    time: 2024
+    img: 'assets/docs/outreach/cuentamealgobueno.png'
+    img_style: 'border: 0px;'    
+
   - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
     link: https://www.teleprensa.com/articulo/sevilla/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares/202412060852261976106.html
     details: Teleprensa
@@ -1635,7 +1632,7 @@ experience:
       img: 'assets/docs/prizes/scholarship.png'
 
 research_contracts:
-  title: Research contracts
+  title: Technology Transfer
   items:
     - title: Simulación para la Optimización del Mix Eléctrico Portugués en 2030
       link: 'assets/docs/contracts/Protermosolar.pdf'
@@ -1743,49 +1740,6 @@ oss:
         - <b>Contribution</b>: improvements to the solar collector models.
       time: 2018
       img: 'assets/docs/oss/logo_thermocycle.gif'
-
-# new_methods:
-#   title: Innovative scientific contributions
-#   items:
-#     - title: 'Feasibility and practical limits of full decarbonization of the electricity market with renewable energy: Application to the Spanish power sector'
-    #   link: 'http://doi.org/10.1016/j.energy.2021.122437'
-    #   authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
-    #   details: 'Energy, Volume 239, Part E, 122437, ISSN: 0360-5442. DOI: 10.1016/j.energy.2021.122437, 2021.<br>**JIF**: 8.857 (2021),<br>**Q1** - Thermodynamics (3/63, 96.03% percentile)'
-    #   time: 2021
-    #   img: 'assets/images/journals/energy.gif'
-    #   img_title: 'Energy'
-
-    # - title: 'New approach for solar tracking systems based on computer vision, low cost hardware and deep learning'
-    #   link: 'http://doi.org/10.1016/j.renene.2018.08.101'
-    #   authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
-    #   details: 'Renewable Energy, Volume 133, pages 1158-1166, ISSN: 0960-1481. DOI: 10.1016/j.renene.2018.08.101, 2019.<br>**JIF**: 6.274 (2019),<br>**Q1** - Energy & fuels (19/112, 83.48% percentile)'
-    #   time: 2019
-    #   img: 'assets/images/journals/renewableEnergy.gif'
-    #   imag_title: 'Renewable Energy'
-
-    # - title: 'A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm'
-    #   link: 'http://doi.org/10.1016/j.applthermaleng.2018.04.028'
-    #   authors: A. Mohammadi / UT, <b>J. Bonilla</b> / CIEMAT, R. Zarghami, S. Golshan / UT
-    #   details: 'Applied Thermal Engineering, Volume 137, pages 808-821, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.04.028, 2018.<br>**JIF**: 4.026 (2018),<br>**Q1** - Engineering, mechanical (13/129, 90.31% percentile)'
-    #   time: 2018
-    #   img: 'assets/images/journals/appliedThermal.gif'
-    #   img_title: 'Applied Thermal Engineering'
-
-    # - title: 'Switching moving boundary models for two-phase flow evaporators and condensers'
-    #   link: 'http://doi.org/10.1016/j.cnsns.2014.06.035'
-    #   authors: <b>J. Bonilla</b> / CIEMAT, S. Dormido / UNED, F.E. Cellier / ETH
-    #   details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.23% percentile)'
-    #   time: 2015
-    #   img: 'assets/images/journals/cnsns.gif'
-    #   img_title: 'Communications in Nonlinear Science and Numerical Simulation'
-
-    # - title: 'Parabolic-trough solar thermal power plant simulation scheme, multi-objective genetic algorithm calibration and validation'
-    #   link: 'http://doi.org/10.1016/j.solener.2011.10.025'
-    #   authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT,S. Dormido / UNED, E. Zarza / CIEMAT
-    #   details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 74.69% percentile)'
-    #   time: 2012
-    #   img: 'assets/images/journals/solarEnergy.jpg'
-    #   img_title: 'Solar Energy'
 
 review:
   title: Peer-review Activities
@@ -1983,12 +1937,6 @@ continuing:
         University of Almería, coducted by Prof. Dr. Manuel Berenguel Soria, Vicar (Almería), Pressential, course, 25 hours. Vicar (Almería), July 16 - 18, 2008
       time: 2008
       img: 'assets/docs/continuing/IN.png'
-
-    # - title: 'Introduction to LabView'
-    #  link: 'assets/docs/continuing/'
-    #  details: |
-    #    CIESOL, Centro Mixto UAL-PSA.CIEMAT, University of Almería, coducted by National Instruments, Almería, Seminar. Almería, October 30, 2007
-    #  time: 2007
 
     - title: 'Process control: application in the Matlab-Simulink environment'
       link: 'assets/docs/continuing/CP.pdf'

@@ -7,37 +7,33 @@ layout: default
 
 {% include latest.html %}
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
-
-{% include section.html data=site.data.data.int_projects id='int-projects-section' icon='fa-users-gear' wordwrap='wordwrap-dates' %}
-
-{% include section.html data=site.data.data.nat_projects id='nat-projects-section' icon='fa-users-gear' wordwrap='wordwrap-dates' %}
-
-{% include section.html data=site.data.data.experience id='experience-section' icon='fa-briefcase' wordwrap='wordwrap-dates' %}
-
-{% include section.html data=site.data.data.research_contracts id='research-contracts-section' icon='fa-file-contract' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.intellectual id='ip-section' icon='fa-lightbulb' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.new_methods id='new-methods-section' icon='fa-gears' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.books id='books-section' icon='fa-book' wordwrap='wordwrap' %}
-
 {% include overview.html %}
 
 {% include section.html data=site.data.data.publications id='publications-section' icon='fa-file-alt' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.books id='books-section' icon='fa-book' wordwrap='wordwrap' %}
 
 {% include section.html data=site.data.data.conferences_international id='conf-int-section' icon='fa-users' wordwrap='wordwrap' %}
 
 {% include section.html data=site.data.data.conferences_national id='conf-nat-section' icon='fa-users' wordwrap='wordwrap' %}
 
+{% include section.html data=site.data.data.intellectual id='ip-section' icon='fa-lightbulb' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.research_contracts id='research-contracts-section' icon='fa-file-contract' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.software id='software-section' icon='fa-computer' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.oss id='oss-section' icon='fa-brands fa-osi' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.prototypes id='prototypes-section' icon='fa-sun' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.experimental id='experimental-section' icon='fa-flask' wordwrap='wordwrap-dates' %}
+
 {% include section.html data=site.data.data.presentations id='presentations-section' icon='fa-person-chalkboard' wordwrap='wordwrap' %}
 
-{% include section.html data=site.data.data.colloquiums id='colloquiums-section' icon='fa-school' wordwrap='wordwrap' %}
+{% include section.html data=site.data.data.research_groups id='research-groups-section' icon='fa-people-group' wordwrap='wordwrap-dates' %}
 
-{% include section.html data=site.data.data.entrepreneurship id='entrepreneurship-section' icon='fa-rocket' wordwrap='wordwrap' %}
+{% include section.html data=site.data.data.review id='review-section' icon='fa-file-circle-check' wordwrap='wordwrap-dates' %}
 
 {% include section.html data=site.data.data.phd_dissertations id='phd-dissertations-section' icon='fa-user-graduate' wordwrap='wordwrap' %}
 
@@ -45,36 +41,38 @@ layout: default
 
 {% include section.html data=site.data.data.supervision id='supervision-section' icon='fa-user-group' wordwrap='wordwrap' %}
 
-{% include section.html data=site.data.data.research_groups id='research-groups-section' icon='fa-people-group' wordwrap='wordwrap-dates' %}
-
-{% include section.html data=site.data.data.stays id='stays-section' icon='fa-building-columns' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.transfer id='transfer-section' icon='fa-microchip' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.software id='software-section' icon='fa-computer' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.oss id='oss-section' icon='fa-brands fa-osi' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.host id='host-section' icon='fa-sun' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.prototypes id='prototypes-section' icon='fa-sun' wordwrap='wordwrap' %}
-
-{% include section.html data=site.data.data.experimental id='experimental-section' icon='fa-flask' wordwrap='wordwrap-dates' %}
+{% include section.html data=site.data.data.prizes id='prizes-section' icon='fa-award' wordwrap='wordwrap-dates' %}
 
 {% include section.html data=site.data.data.outreach id='outreach-section' icon='fa-microphone' wordwrap='wordwrap-dates' %}
 
-{% include section.html data=site.data.data.press id='press-section' icon='fa-newspaper' wordwrap='wordwrap-dates' %}
+{% include section.html data=site.data.data.nat_projects id='nat-projects-section' icon='fa-users-gear' wordwrap='wordwrap-dates' %}
+
+{% include section.html data=site.data.data.int_projects id='int-projects-section' icon='fa-users-gear' wordwrap='wordwrap-dates' %}
 
 {% include section.html data=site.data.data.committees id='committees-section' icon='fa-clipboard-check' wordwrap='wordwrap' %}
 
-{% include section.html data=site.data.data.lines id='lines-section' icon='fa-file-lines' wordwrap='wordwrap' %}
+{% include section.html data=site.data.data.transfer id='transfer-section' icon='fa-microchip' wordwrap='wordwrap' %}
 
-{% include section.html data=site.data.data.review id='review-section' icon='fa-file-circle-check' wordwrap='wordwrap-dates' %}
+{% include section.html data=site.data.data.stays id='stays-section' icon='fa-building-columns' wordwrap='wordwrap' %}
 
-{% include section.html data=site.data.data.prizes id='prizes-section' icon='fa-award' wordwrap='wordwrap-dates' %}
-
-{% include section.html data=site.data.data.continuing id='continuing-section' icon='fa-book-open-reader' wordwrap='wordwrap' %}
+{% include section.html data=site.data.data.host id='host-section' icon='fa-sun' wordwrap='wordwrap' %}
 
 {% include section.html data=site.data.data.collaborations id='collaborations-section' icon='fa-users' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.colloquiums id='colloquiums-section' icon='fa-school' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.press id='press-section' icon='fa-newspaper' wordwrap='wordwrap-dates' %}
+
+{% include section.html data=site.data.data.lines id='lines-section' icon='fa-file-lines' wordwrap='wordwrap' %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include section.html data=site.data.data.experience id='experience-section' icon='fa-briefcase' wordwrap='wordwrap-dates' %}
+
+{% include section.html data=site.data.data.entrepreneurship id='entrepreneurship-section' icon='fa-rocket' wordwrap='wordwrap' %}
+
+{% include section.html data=site.data.data.continuing id='continuing-section' icon='fa-book-open-reader' wordwrap='wordwrap' %}
 
 {% include section.html data=site.data.data.languages id='languages-section' icon='fa-earth-americas' wordwrap='wordwrap-dates' %}
