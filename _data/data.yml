@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Javier Bonilla Cruz
   tagline: Solar Energy Researcher
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.webp #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: javier.bonilla@psa.es
@@ -103,7 +103,7 @@ sidebar:
         link: '#host-section'
       - item: Main International Collaborations
         link: '#collaborations-section'
-      - item: International Doctoral Colloquiums
+      - item: International Doctoral Colloquia
         link: '#colloquiums-section'
 
       - header: '<font color="#F7DC6F">D - Leadership</font>'
@@ -148,7 +148,7 @@ education:
         - **Grade**: cum laude
       link: 'assets/docs/education/TituloDoctor.pdf'
       link_tooltip: 'Certificate'
-      img: 'assets/docs/education/TituloDoctor.png'
+      img: 'assets/docs/education/TituloDoctor.webp'
 
     - degree: Master in Advanced Computer Science
       university: University of Almería
@@ -161,7 +161,7 @@ education:
       link_tooltip: 'Certificate'
       link2: 'assets/docs/education/ExpMaster.pdf'
       link2_tooltip: 'Academic record'
-      img: 'assets/docs/education/TituloMaster.png'
+      img: 'assets/docs/education/TituloMaster.webp'
 
     - degree: Master in Computer Engineering
       university: University of Almería
@@ -176,7 +176,7 @@ education:
       link2_tooltip: 'Academic record'
       link3: 'assets/docs/education/CertIng.pdf'
       link3_tooltip: 'Qualifications framework'
-      img: 'assets/docs/education/TituloIng.png'
+      img: 'assets/docs/education/TituloIng.webp'
 
     - degree: Bachelor in Computer Systems Engineering
       university: University of Almería
@@ -188,7 +188,7 @@ education:
       link2_tooltip: 'Academic record'
       link3: 'assets/docs/education/CertSis.pdf'
       link3_tooltip: 'Qualifications framework'
-      img: 'assets/docs/education/TituloSis.png'
+      img: 'assets/docs/education/TituloSis.webp'
 
 publications:
   # Percentile Rank = (1 - (Rank - 1) / Total Journals) * 100
@@ -199,7 +199,7 @@ publications:
     #  authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, V. Abad-Alcaraz, M. Castilla, J.D. Álvarez / UAL, J. Fernández-Reche / CIEMAT
     #  details: 'Environmental Modelling & Software, Volume XXX, XXXXXX, ISSN: 1364-8152. DOI: 10.1016/j.envsoft.2025.XXXXXX, 2025.<br>**JIF**: 4.8 (2023),<br>**Q1** - Computer science, interdisciplinary applications (33/170, 81.18% percentile)'
     #  time: 2025
-    #  img: 'assets/images/journals/envsoft.jpg'
+    #  img: 'assets/images/journals/envsoft.webp'
     #  plumx: '10.1016/j.envsoft.2025.XXXXXX'
     #  img_title: 'Environmental Modelling & Software'
 
@@ -208,7 +208,7 @@ publications:
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, N.C. Cruz / UAL, J. Fernández-Reche / CIEMAT, J.D. Álvarez / UAL, A. Avila-Marin / CIEMAT, M. Berenguel / UAL
       details: 'Applied Energy, Volume 377, Part 8, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2024.124574, 2025.<br>**JIF**: 10.1 (2023),<br>**Q1** - Energy & fuels (19/170, 89.41% percentile)'
       time: 2025
-      img: 'assets/images/journals/appliedEnergy.jpg'
+      img: 'assets/images/journals/appliedEnergy.webp'
       plumx: '10.1016/j.apenergy.2024.124574'
       img_title: 'Applied Energy'
 
@@ -217,7 +217,7 @@ publications:
       authors: <b>J. Bonilla</b>, B. Ortega-Delgado, D.C. Alarcón-Padilla , J. Fernández-Reche, P. Palenzuela / CIEMAT
       details: 'Energy Conversion and Management, Volume 324, 119285, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2024.119285, 2025<br>**JIF**: 9.9 (2023),<br>**Q1** - Mechanics (3/170, 98.82% percentile)'
       time: 2025
-      img: 'assets/images/journals/energyConversionManagement.gif'
+      img: 'assets/images/journals/energyConversionManagement.webp'
       plumx: '10.1016/j.enconman.2024.119285'
       img_title: 'Energy Conversion and Management'
       
@@ -235,7 +235,7 @@ publications:
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche / CIEMAT, B. Nouri / DLR, A. Avila-Marin / CIEMAT, Y. Fabel / DLR, D.C. Alarcón-Padilla / CIEMAT
       details: 'Algorithms, Volume 16, Issue 10, 487, ISSN: 1999-4893.<br> DOI: 10.3390/a16100487, 2023.<br>**JIF**: 1.8 (2023),<br>**Q2** - Computer science, theory and methods'
       time: 2023
-      img: 'assets/images/journals/algorithms.jpg'
+      img: 'assets/images/journals/algorithms.webp'
       plumx: '10.3390/a16100487'
       img_title: 'Algorithms'
       # ,<br>**Q2** - Computational Mathematics (35/89, 61.80% percentile)
@@ -245,7 +245,7 @@ publications:
       authors: B. Ortega-Delgado, P. Palenzuela, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, L. Roca, D.C. Alarcón-Padilla / CIEMAT
       details: 'Desalination, Volume 529, 115623, ISSN: 0011-9164. DOI: 10.1016/j.desal.2022.115623, 2022.<br>**JIF**: 9.9 (2022),<br>**Q1** - Water resources (3/103, 98.06% percentile)'
       time: 2022
-      img: 'assets/images/journals/desalination.jpg'
+      img: 'assets/images/journals/desalination.webp'
       plumx: '10.1016/j.desal.2022.115623'
       img_title: 'Desalination'
 
@@ -254,7 +254,7 @@ publications:
       authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
       details: 'Energy, Volume 239, Part E, 122437, ISSN: 0360-5442. DOI: 10.1016/j.energy.2021.122437, 2021.<br>**JIF**: 8.857 (2021),<br>**Q1** - Thermodynamics (3/63, 96.83% percentile)'
       time: 2021
-      img: 'assets/images/journals/energy.gif'
+      img: 'assets/images/journals/energy.webp'
       plumx: '10.1016/j.energy.2021.122437'
       img_title: 'Energy'
 
@@ -263,7 +263,7 @@ publications:
       authors: J.A. Carballo, <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, P. Palenzuela, D.C. Alarcón-Padilla / CIEMAT, M. Berenguel / UAL
       details: 'Energy Conversion and Management, Volume 210, 112705, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2020.112705, 2020<br>**JIF**: 9.709 (2020),<br>**Q1** - Mechanics (2/135, 98.26% percentile)'
       time: 2020
-      img: 'assets/images/journals/energyConversionManagement.gif'
+      img: 'assets/images/journals/energyConversionManagement.webp'
       plumx: '10.1016/j.enconman.2020.112705'
       img_title: 'Energy Conversion and Management'
 
@@ -272,7 +272,7 @@ publications:
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
       details: 'Renewable Energy, Volume 149, pages 682-690, ISSN: 0960-1481. DOI: 10.1016/j.renene.2019.12.075, 2020.<br>**JIF**: 8.001 (2020),<br>**Q1** - Energy & fuels (16/144, 89.58% percentile)'
       time: 2020
-      img: 'assets/images/journals/renewableEnergy.gif'
+      img: 'assets/images/journals/renewableEnergy.webp'
       plumx: '10.1016/j.renene.2019.12.075'
       img_title: 'Renewable Energy'
 
@@ -281,7 +281,7 @@ publications:
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
       details: 'Renewable Energy, Volume 133, pages 1158-1166, ISSN: 0960-1481. DOI: 10.1016/j.renene.2018.08.101, 2019.<br>**JIF**: 6.274 (2019),<br>**Q1** - Energy & fuels (19/112, 83.93% percentile)'
       time: 2019
-      img: 'assets/images/journals/renewableEnergy.gif'
+      img: 'assets/images/journals/renewableEnergy.webp'
       plumx: '10.1016/j.renene.2018.08.101'
       imag_title: 'Renewable Energy'
 
@@ -290,7 +290,7 @@ publications:
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, P. Palenzuela / CIEMAT
       details: 'Applied Thermal Engineering, Volume 148, pages 777-786, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.11.093, 2019.<br>**JIF**: 4.725 (2019),<br>**Q1** - Engineering, mechanical (13/130, 90.77% percentile)'
       time: 2019
-      img: 'assets/images/journals/appliedThermal.gif'
+      img: 'assets/images/journals/appliedThermal.webp'
       plumx: '10.1016/j.applthermaleng.2018.11.093'
       img_title: 'Applied Thermal Engineering'
 
@@ -299,7 +299,7 @@ publications:
       authors: <b>J. Bonilla</b>, M. M. Rodríguez-García, L. Roca / CIEMAT, A. de la Calle / CSIRO, L. Valenzuela / CIEMAT
       details: 'Energy, Volume 152, pages 840-857, ISSN: 0360-5442. DOI: 10.1016/j.energy.2017.11.017, 2018.<br>**JIF**: 5.537 (2018),<br>**Q1** - Thermodynamics (3/60, 96.67% percentile)'
       time: 2018
-      img: 'assets/images/journals/energy.gif'
+      img: 'assets/images/journals/energy.webp'
       plumx: '10.1016/j.energy.2017.11.017'
       img_title: 'Energy'
 
@@ -308,7 +308,7 @@ publications:
       authors: A. Mohammadi / UT, <b>J. Bonilla</b> / CIEMAT, R. Zarghami, S. Golshan / UT
       details: 'Applied Thermal Engineering, Volume 137, pages 808-821, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2018.04.028, 2018.<br>**JIF**: 4.026 (2018),<br>**Q1** - Engineering, mechanical (13/129, 90.69% percentile)'
       time: 2018
-      img: 'assets/images/journals/appliedThermal.gif'
+      img: 'assets/images/journals/appliedThermal.webp'
       plumx: '10.1016/j.applthermaleng.2018.04.028'
       img_title: 'Applied Thermal Engineering'
 
@@ -317,7 +317,7 @@ publications:
       authors: <b>J. Bonilla</b>, L. Roca / CIEMAT
       details: 'Solar Energy, Volume 176, pages 698-708, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.10.076, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
-      img: 'assets/images/journals/solarEnergy.jpg'
+      img: 'assets/images/journals/solarEnergy.webp'
       plumx: '10.1016/j.solener.2018.10.076'
       img_title: 'Solar Energy'
 
@@ -326,7 +326,7 @@ publications:
       authors: A. Desideri, R. Dickes / ULG, <b>J. Bonilla</b>, L. Valenzuela / CIEMAT, S. Quoilin, V. Lemort / ULG
       details: 'Solar Energy, Volume 174, pages 866-877, ISSN: 1099-1514. DOI: 10.1016/j.solener.2018.08.026, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
-      img: 'assets/images/journals/solarEnergy.jpg'
+      img: 'assets/images/journals/solarEnergy.webp'
       plumx: '10.1016/j.solener.2018.08.026'
       img_title: 'Solar Energy'
 
@@ -335,7 +335,7 @@ publications:
       authors: J.A. Carballo, <b>J. Bonilla</b>, L. Roca / CIEMAT, M. Berenguel / UAL
       details: 'Solar Energy, Volume 164, pages 826-836, ISSN: 1099-1514. DOI:10.1016/j.solener.2018.09.064, 2018.<br>**JIF**: 4.674 (2018),<br>**Q2** - Energy & fuels (39/131, 70.99% percentile)'
       time: 2018
-      img: 'assets/images/journals/solarEnergy.jpg'
+      img: 'assets/images/journals/solarEnergy.webp'
       plumx: '10.1016/j.solener.2018.09.064'
       img_title: 'Solar Energy'
 
@@ -344,7 +344,7 @@ publications:
       authors: J.A. Carballo / UAL, <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, P. Palenzuela, D.C. Alarcón-Padilla / CIEMAT
       details: 'Desalination, Volume 435, pages 70-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2017.12.013, 2018.<br>**JIF**: 6.035 (2018),<br>**Q1** - Water resources (2/91, 98.90% percentile)'
       time: 2018
-      img: 'assets/images/journals/desalination.gif'
+      img: 'assets/images/journals/desalination.webp'
       plumx: '10.1016/j.desal.2017.12.013'
       img_title: 'Desalination'
 
@@ -353,7 +353,7 @@ publications:
       authors: <b>J. Bonilla</b> / CIEMAT, A. de la Calle / CSIRO, L. Roca / CIEMAT, M. M. Rodríguez-García, L. Valenzuela / CIEMAT,
       details: 'Applied Thermal Engineering, Volume 124, pages 1425-1440, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2017.06.129, 2017.<br>**JIF**: 3.771 (2017),<br>**Q1** - Engineering, mechanical (12/128, 91.41% percentile)'
       time: 2017
-      img: 'assets/images/journals/appliedThermal.gif'
+      img: 'assets/images/journals/appliedThermal.webp'
       plumx: '10.1016/j.applthermaleng.2017.06.129'
       img_title: 'Applied Thermal Engineering'
 
@@ -362,7 +362,7 @@ publications:
       authors: A. Carballo / UAL, <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, P. Palenzuela / CIEMAT, M. Berenguel / UAL
       details: 'Desalination and Water Treatment, 69, pages 229-235, ISSN: 1944-3986. DOI: 10.5004/dwt.2017.0703, 2017.<br> **JIF**: 1.383 (2017),<br>**Q3** - Engineering, chemical (79/137, 43.07% percentile)'
       time: 2017
-      img: 'assets/images/journals/des.jpg'
+      img: 'assets/images/journals/des.webp'
       plumx: '10.5004/dwt.2017.0703'
       img_title: 'Desalination and Water Treatment'
 
@@ -371,7 +371,7 @@ publications:
       authors: <b>J. Bonilla</b>, L. Roca / CIEMAT, A. de la Calle / CSIRO, S. Dormido / UNED
       details: 'RIAI - Revista Iberoamericana de Automatica e Informatica Industrial, Volume 14, Issue 1, pages 70-81, ISSN: 1697-7912. DOI: 10.1016/j.riai.2016.11.003.<br> **JIF**: 0.494 (2017),<br>**Q4** - Automation & control systems (60/61, 3.27% percentile)'
       time: 2017
-      img: 'assets/images/journals/riai.jpeg'
+      img: 'assets/images/journals/riai.webp'
       plumx: '10.1016/j.riai.2016.11.003'
       img_title: 'RIAI - Revista Iberoamericana de Automatica e Informatica Industrial'
 
@@ -380,7 +380,7 @@ publications:
       authors: A. de la Calle / CSIRO, L. Roca, <b>J. Bonilla</b>, P. Palenzuela / CIEMAT
       details: 'International Journal of Refrigeration, Volume 72, pages 171-191, ISSN: 1877-0509. DOI: 10.1016/j.ijrefrig.2016.07.018, 2016.<br> **JIF**: 2.779 (2016),<br>**Q1** - Thermodynamics (12/58, 81.03% percentile)'
       time: 2016
-      img: 'assets/images/journals/ref.gif'
+      img: 'assets/images/journals/ref.webp'
       plumx: '10.1016/j.ijrefrig.2016.07.018'
       img_title: 'International Journal of Refrigeration'
 
@@ -398,7 +398,7 @@ publications:
       authors: <b>J. Bonilla</b> / CIEMAT, S. Dormido / UNED, F.E. Cellier / ETH
       details: 'Communications in Nonlinear Science and Numerical Simulation, Volume 20, Issue 3, pages 743-768, ISSN: 1007-5704. DOI: 10.1016/j.cnsns.2014.06.035, 2015.<br> **JIF**: 2.834 (2015),<br>**Q1** - Mathematics, applied (5/254, 98.43% percentile)'
       time: 2015
-      img: 'assets/images/journals/cnsns.gif'
+      img: 'assets/images/journals/cnsns.webp'
       plumx: '10.1016/j.cnsns.2014.06.035'
       img_title: 'Communications in Nonlinear Science and Numerical Simulation'
 
@@ -407,7 +407,7 @@ publications:
       authors: A. de la Calle, <b>J. Bonilla</b>, L. Roca, P. Palenzuela / CIEMAT
       details: 'Desalination, Volume 357, pages 65-76, ISSN: 0011-9164. DOI: 10.1016/j.desal.2014.11.008, 2015.<br>**JIF**: 4.412 (2015),<br>**Q1** - Water resources (2/85, 98.82% percentile)'
       time: 2015
-      img: 'assets/images/journals/desalination.gif'
+      img: 'assets/images/journals/desalination.webp'
       plumx: '10.1016/j.desal.2014.11.008'
       img_title: 'Desalination'
 
@@ -416,7 +416,7 @@ publications:
       authors: A. de la Calle, <b>J. Bonilla</b>, L. Roca / CIEMAT, P. Palenzuela / UTA
       details: 'Applied Thermal Engineering, Volume 70, Issue 1, pages 410-420, ISSN: 1359-4311. DOI: 10.1016/j.applthermaleng.2014.05.035, 2015.<br>**JIF**: 2.739 (2014),<br>**Q1** - Engineering, mechanical (8/130, 94.62% percentile)'
       time: 2015
-      img: 'assets/images/journals/appliedThermal.gif'
+      img: 'assets/images/journals/appliedThermal.webp'
       plumx: '10.1016/j.applthermaleng.2014.05.035'
       img_title: 'Applied Thermal Engineering'
 
@@ -425,7 +425,7 @@ publications:
       authors: L. Roca, R. Díaz, A. de la Calle, <b>J. Bonilla</b>, A. Vidal / CIEMAT
       details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 496-507, ISSN: 1099-1514. DOI: 10.1002/oca.2118, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.59% percentile)'
       time: 2014
-      img: 'assets/images/journals/oca.jpg'
+      img: 'assets/images/journals/oca.webp'
       plumx: '10.1002/oca.2118'
       img_title: 'Optimal Control, Applications and Methods'
 
@@ -434,7 +434,7 @@ publications:
       authors: M. Castilla / UAL, <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez / US, F. Rodríguez / UAL
       details: 'Optimal Control, Applications and Methods - Optimal Control of Solar Energy Systems (special issue), Volume 37, Issue 3, pages 479-495, ISSN: 1099-1514. DOI: 10.1002/oca.2116, 2014.<br>**JIF**: 0.903 (2014),<br>**Q2** - Mathematics, applied (110/257, 57.59% percentile)'
       time: 2014
-      img: 'assets/images/journals/oca.jpg'
+      img: 'assets/images/journals/oca.webp'
       plumx: '10.1002/oca.2116'
       img_title: 'Optimal Control, Applications and Methods'
 
@@ -443,7 +443,7 @@ publications:
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED
       details: 'Applied Mathematical Modelling, Volume 36, Issue 5, pages 2067-2081, ISSN: 0307-904X. DOI: 10.1016/j.apm.2011.08.013, 2012.<br>**JIF**: 1.706 (2012),<br>**Q1** - Engineering, multidisciplinary (11/90, 88.89% percentile)'
       time: 2012
-      img: 'assets/images/journals/amm.png'
+      img: 'assets/images/journals/amm.webp'
       plumx: '10.1016/j.apm.2011.08.013'
       img_title: 'Applied Mathematical Modelling'
 
@@ -452,7 +452,7 @@ publications:
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT,S. Dormido / UNED, E. Zarza / CIEMAT
       details: 'Solar Energy, Volume 86, Issue 1, pages 531-540, ISSN: 0038-092X. DOI: 10.1016/j.solener.2011.10.025, 2012.<br>**JIF**: 2.952 (2012),<br>**Q2** - Energy & fuels (21/81, 75.31% percentile)'
       time: 2012
-      img: 'assets/images/journals/solarEnergy.jpg'
+      img: 'assets/images/journals/solarEnergy.webp'
       plumx: '10.1016/j.solener.2011.10.025'
       img_title: 'Solar Energy'
 
@@ -461,7 +461,7 @@ publications:
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED
       details: 'Mathematical and Computer Modelling, Volume 54, Issue 5-6, pages 1549-1560, ISSN: 0895-7177. DOI: 10.1016/j.mcm.2011.04.026, 2011.<br>**JIF**: 1.346 (2011),<br>**Q1** - Computer science, software engineering (24/104, 77.88% percentile)'
       time: 2011
-      img: 'assets/images/journals/mcm.gif'
+      img: 'assets/images/journals/mcm.webp'
       plumx: '10.1016/j.mcm.2011.04.026'
       img_title: 'Mathematical and Computer Modelling'
 
@@ -470,7 +470,7 @@ publications:
       authors: <b>J. Bonilla</b>, L.J. Yebra / CIEMAT, S. Dormido / UNED
       details: 'Computer Modeling in Engineering & Science, Volume 66, Issue 1, pages 13-37, ISSN: 1526-1506. DOI: 10.3970/cmes.2010.067.013, 2011.<br>**JIF**: 1.123 (2010),<br>**Q2** - Engineering, multidisciplinary (23/90, 75.56% percentile)'
       time: 2010
-      img: 'assets/images/journals/cmes.png'
+      img: 'assets/images/journals/cmes.webp'
       plumx: '10.3970/cmes.2010.067.013'
       img_title: 'Computer Modeling in Engineering & Science'
 
@@ -479,7 +479,7 @@ publications:
       authors: L.J. Yebra / CIEMAT, M. Berenguel / UAL, <b>J. Bonilla</b> / CIEMAT, L. Roca / CIEMAT, S. Dormido / UNED, E. Zarza / CIEMAT
       details: 'Mathematical and Computer Modelling of Dynamical Systems, Volume 16, Issue 3, pages 211-224, ISSN: 1744-5051. DOI: 10.1080/13873954.2010.507420, 2010.<br>**JIF**: 0.452 (2010),<br>**Q4** - Mathematics, applied (191/236, 19.49% percentile)'
       time: 2010
-      img: 'assets/images/journals/mcmds.png'
+      img: 'assets/images/journals/mcmds.webp'
       plumx: '10.1080/13873954.2010.507420'
       img_title: 'Mathematical and Computer Modelling of Dynamical Systems'
 
@@ -492,7 +492,7 @@ intellectual:
       details: |
         Unidad de Propiedad Industrial y Creación de Empresas de Base Tecnológica, Oficina de Transferencia de Tecnología del CIEMAT, no M-000601/2021, July 20, 2021.
       time: 2021
-      img: 'assets/docs/ip/04. Resoluc Favorable - MIX ELECTRICO.png'
+      img: 'assets/docs/ip/04. Resoluc Favorable - MIX ELECTRICO.webp'
 
 books:
   title: Books
@@ -503,7 +503,7 @@ books:
       details: |
         Editorial CIEMAT, ISBN: 978-84-7834-743-8.<br>Depósito Legal: M-32433-2015, NIPO: 721-15-053-4.
       time: 2015
-      img: 'assets/images/thumbs/bookAlberto.png'
+      img: 'assets/docs/books/bookAlberto.webp'
       img_title: 'Book'
 
     - title: Modeling and simulation of two-phase flow evaporators for parabolic-trough solar thermal power plants
@@ -512,7 +512,7 @@ books:
       details: |
         Editorial CIEMAT, ISBN: 978-84-7834-705-6.<br>Depósito Legal: M-28846-2013, NIPO: 721-13-044-9.
       time: 2013
-      img: 'assets/images/thumbs/bookBonilla.png'
+      img: 'assets/docs/books/bookBonilla.webp'
       img_title: 'Book'
 
 conferences_international:
@@ -525,7 +525,7 @@ conferences_international:
         30<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, Rome (Italy), Oct 8 - 11, 2024.
       time: 2024
-      img: 'assets/docs/conf_int/HELIOSUN_2024.png'
+      img: 'assets/docs/conf_int/HELIOSUN_2024.webp'
 
     - title: 'Desarrollo de modelos de predicción de la radiación solar directa basados en redes neuronales mediante el uso de imágenes'
       link: 'assets/docs/conf_int/CIES_2024.pdf'
@@ -535,7 +535,7 @@ conferences_international:
         CIES, XIX Congreso Ibérico y XV Congreso Iberoamericano de Energía Solar
         Évora (Portugal), Jun 19 - 21, 2024
       time: 2024
-      img: 'assets/docs/conf_int/CIES_2024.png'
+      img: 'assets/docs/conf_int/CIES_2024.webp'
 
     - title: 'Optimal operation of a combined cooling system'
       link: 'assets/docs/conf_int/PID_2024.pdf'
@@ -545,7 +545,7 @@ conferences_international:
         4<sup>th</sup> IFAC Conference on Advances in Proportional-Integral-Derivative Control,
         Almería (Spain), Jun 12 - 14, 2024
       time: 2024
-      img: 'assets/docs/conf_int/PID_2024.png'
+      img: 'assets/docs/conf_int/PID_2024.webp'
 
     - title: 'Strategies for enhancing the use of solar energy in utility-scale desalination plants'
       link: 'assets/docs/conf_int/IDA_2023.pdf'
@@ -555,7 +555,7 @@ conferences_international:
         The International Association Desalination (IDA) Seville summit on Water and Climate Change, 
         Seville (Spain), Oct 15 - 18, 2023
       time: 2023
-      img: 'assets/docs/conf_int/IDA_2023.png'
+      img: 'assets/docs/conf_int/IDA_2023.webp'
 
     - title: 'CSP Data: a data discovery web application of commercial CSP plants'
       link: 'https://doi.org/10.52825/solarpaces.v2i.811'
@@ -564,7 +564,7 @@ conferences_international:
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Sydney (Australia), Oct 10 - 13, 2023.
       time: 2023
-      img: 'assets/docs/conf_int/SolarPACES_CSP_Data.png'
+      img: 'assets/docs/conf_int/SolarPACES_CSP_Data.webp'
 
     - title: 'Smart Heliostat Artificial Vision Tracking System'
       link: 'assets/docs/conf_int/SolarPACES_Tracking.pdf'
@@ -573,7 +573,7 @@ conferences_international:
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, oral presentation, Sydney (Australia), Oct 10 - 13, 2023.
       time: 2023
-      img: 'assets/docs/conf_int/SolarPACES_Tracking.png'
+      img: 'assets/docs/conf_int/SolarPACES_Tracking.webp'
 
     - title: 'New Control Architecture for the Next Generation of Central Receiver Power Plants'
       link: 'assets/docs/conf_int/SolarPACES_SCADA.pdf'
@@ -582,7 +582,7 @@ conferences_international:
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, Sydney (Australia), Oct 10 - 13, 2023.
       time: 2023
-      img: 'assets/docs/conf_int/SolarPACES_SCADA.png'
+      img: 'assets/docs/conf_int/SolarPACES_SCADA.webp'
 
     - title: 'On the use of artificial neural networks for automatic heliostat aiming'
       link: 'assets/docs/conf_int/IWANN_2023.pdf'
@@ -592,7 +592,7 @@ conferences_international:
         17<sup>th</sup> International Work-Conference on Artificial Neural Networks (IWANN)<br>
         Ponta Delgada, Azores (Portugal), Jun 19 - 21, 2023
       time: 2023
-      img: 'assets/docs/conf_int/IWANN_2023.png'
+      img: 'assets/docs/conf_int/IWANN_2023.webp'
 
     - title: 'Hel-IoT web server: a smart heliostat development platform'
       link: 'https://doi.org/10.52825/solarpaces.v1i.721'
@@ -601,7 +601,7 @@ conferences_international:
         28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Albuquerque (USA), Sep 27 - 30, 2022.
       time: 2022
-      img: 'assets/docs/conf_int/Hel-IoT_web_Server.png'
+      img: 'assets/docs/conf_int/Hel-IoT_web_Server.webp'
 
     - title: Assessment of the integration of a MED-TVC plant into a solar tower with Brayton cycle
       link: 'https://www.edsoc.com/congress/laspalmas2020/program.html'
@@ -610,7 +610,7 @@ conferences_international:
         Desalination for the environment: clean water and energy,<br>
         Abstract, Poster, Las Palmas (Spain), Jun 20 - 23, 2021.
       time: 2022
-      img: 'assets/docs/conf_int/EDS_2022.png'
+      img: 'assets/docs/conf_int/EDS_2022.webp'
 
     - title: 'Inductive projection planning: Putting CSP in the picture'
       link: 'http://doi.org/10.1063/5.0085735'
@@ -619,7 +619,7 @@ conferences_international:
         26<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces),<br>
         Regular paper in Proceedings, Oral presentation, DOI: 10.1063/5.0085735,<br> Albuquerque (USA), Online, Sep 28 - Oct 2, 2020.
       time: 2020
-      img: 'assets/docs/conf_int/ipp.png'
+      img: 'assets/docs/conf_int/ipp.webp'
 
     - title: Optimización del desarrollo de la energia termosolar en españa en el contexto de la transición energética
       link: 'http://doi.org/10400.9/3340'
@@ -629,7 +629,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10400.9/3340,<br>
         Lisboa (Portugal), Online, November, 3 - 5, 2020.
       time: 2020
-      img: 'assets/docs/conf_int/cies2020.png'
+      img: 'assets/docs/conf_int/cies2020.webp'
 
     - title: Machine learning perspectives in concentrating solar thermal technology
       link: 'assets/docs/conf_int/EUROSIM_2019.pdf'
@@ -639,7 +639,7 @@ conferences_international:
         Special Session on Trends and Perspectives of Machine Learning in Automation,<br>
         Regular paper in Proceedings, Oral presentation, La Rioja (Spain), Jul 1 - 5, 2019.
       time: 2019
-      img: 'assets/docs/conf_int/EUROSIM_2019.png'
+      img: 'assets/docs/conf_int/EUROSIM_2019.webp'
 
     - title: A software for dimensioning of small microgrids with PV-battery systems
       link: 'http://doi.org/10.18086/swc.2019.31.05'
@@ -649,7 +649,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.18086/swc.2019.31.05.<br>
         Santiago (Chile), Nov 4 - 7, 2019.
       time: 2019
-      img: 'assets/docs/conf_int/dimensioning.png'
+      img: 'assets/docs/conf_int/dimensioning.webp'
 
     - title: Machine learning for solar trackers
       link: 'http://doi.org/10.1063/1.5117524'
@@ -659,7 +659,7 @@ conferences_international:
         Regular paper in Proceedings, Poster, DOI: 10.1063/1.5117524,
         Casablanca (Morocco), Oct 2 - 5, 2018.
       time: 2018
-      img: 'assets/docs/conf_int/solarTrackers.png'
+      img: 'assets/docs/conf_int/solarTrackers.webp'
 
     - title: Development of an open source multi-platform software tool for parameter estimation studies in FMI models
       link: 'http://doi.org/10.3384/ecp17132683'
@@ -669,7 +669,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation,<br>
         DOI: 10.3384/ecp17132683, Prague (Czech Republic), May 15 - 17, 2017.
       time: 2017
-      img: 'assets/docs/conf_int/fmi.png'
+      img: 'assets/docs/conf_int/fmi.webp'
 
     - title: Optimal operating conditions analysis for a double-effect absorption heat pump coupled to a multi effect distillation plant
       link: 'assets/docs/conf_int/Euromed2017.pdf'
@@ -679,7 +679,7 @@ conferences_international:
         Regular paper in Proceedings, Poster,
         Tel Aviv (Israel), May 9 - 12, 2017.
       time: 2017
-      img: 'assets/docs/conf_int/Euromed2017.png'
+      img: 'assets/docs/conf_int/Euromed2017.webp'
 
     - title: 'Control strategies applied in HYSOL demonstrator: a simulation-based evaluation'
       link: 'http://doi.org/10.1109/MED.2016.7535952'
@@ -689,7 +689,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.1109/MED.2016.7535952, 
         Athens (Greece), June 21 - 24, 2016.
       time: 2016
-      img: 'assets/docs/conf_int/hysol.png'
+      img: 'assets/docs/conf_int/hysol.webp'
 
     - title: Operation & training tool for a gas - molten salt heat recovery demonstrator facility
       link: 'http://doi.org/10.1016/j.procs.2016.04.232'
@@ -699,7 +699,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.procs.2016.04.232, 
         Madrid (Spain), May 23 - 26, 2016.
       time: 2016
-      img: 'assets/docs/conf_int/trainingTool.png'
+      img: 'assets/docs/conf_int/trainingTool.webp'
 
     - title: Optimal operating conditions analysis of a multi-effect distillation plant
       link: 'assets/docs/conf_int/EDS_2016.pdf'
@@ -709,7 +709,7 @@ conferences_international:
         Abstract, Poster,
         Rome (Italy), May 22 - 26, 2016.
       time: 2016
-      img: 'assets/docs/conf_int/EDS_2016.png'
+      img: 'assets/docs/conf_int/EDS_2016.webp'
 
     - title: Object-oriented modeling of a multi-pass shell-and-tube heat exchanger and its application to performance evaluation
       link: 'http://doi.org/10.1016/j.ifacol.2015.09.166'
@@ -719,7 +719,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.ifacol.2015.09.166, 
         Saint-Petersburg (Rusia), June 24 - 26, 2015.
       time: 2015
-      img: 'assets/docs/conf_int/micnon2015.png'
+      img: 'assets/docs/conf_int/micnon2015.webp'
 
     - title: Control strategies in a thermal oil - molten salt heat exchanger
       link: 'http://doi.org/10.1063/1.4949227'
@@ -729,7 +729,7 @@ conferences_international:
         Regular paper in Proceedings, Poster, DOI: 10.1063/1.4949227, 
         Cape Town (South Africa), October 13 - 16, 2015.
       time: 2015
-      img: 'assets/docs/conf_int/controlStrategies.png'
+      img: 'assets/docs/conf_int/controlStrategies.webp'
 
     - title: Experimental calibration of heat transfer and thermal losses in a shell-and-tube heat exchanger
       link: 'http://doi.org/10.3384/ecp15118873'
@@ -739,7 +739,7 @@ conferences_international:
         Regular paper in Proceedings, Poster, DOI: 10.3384/ecp15118873, 
         Versailles (France), September 21 -23, 2015.
       time: 2015
-      img: 'assets/docs/conf_int/calibration.png'
+      img: 'assets/docs/conf_int/calibration.webp'
 
     - title: A combinatorial optimization problem to control a solar reactor
       link: 'http://doi.org/10.1016/j.egypro.2014.03.216'
@@ -749,7 +749,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.egypro.2014.03.216, 
         Las Vegas (USA), September 17 - 20, 2013.
       time: 2013
-      img: 'assets/docs/conf_int/combinatorial.png'
+      img: 'assets/docs/conf_int/combinatorial.webp'
 
     - title: Object-oriented library of switching moving boundary models for two-phase flow evaporators and condensers
       link: 'http://doi.org/10.3384/ecp1207671'
@@ -759,7 +759,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.3384/ecp1207671, 
         Munich (Germany), September 3 - 5, 2012.
       time: 2012
-      img: 'assets/docs/conf_int/modelica2012.png'
+      img: 'assets/docs/conf_int/modelica2012.webp'
 
     - title: Object-oriented modeling of switching moving boundary models for two-phase flow evaporators
       link: 'http://doi.org/10.3182/20120215-3-AT-3016.00189'
@@ -769,7 +769,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.3182/20120215-3-AT-3016.00189, 
         Vienna (Austria), February 5 - 7, 2012.
       time: 2012
-      img: 'assets/docs/conf_int/mathmod2012.png'
+      img: 'assets/docs/conf_int/mathmod2012.webp'
 
     - title: Exploiting OpenMP in the initial section of modelica models
       link: 'assets/docs/conf_int/EOOLT_2011.pdf'
@@ -779,7 +779,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation,
         Zürich (Switzerland), September 5, 2011.
       time: 2011
-      img: 'assets/docs/conf_int/EOOLT_2011.png'
+      img: 'assets/docs/conf_int/EOOLT_2011.webp'
 
     - title: Real-time simulation of CESA-I central receiver solar thermal power plant
       link: 'http://doi.org/10.3384/ecp09430062'
@@ -789,7 +789,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.3384/ecp09430062, 
         Como (Italy), September 20 - 22, 2009.
       time: 2009
-      img: 'assets/docs/conf_int/cesa.png'
+      img: 'assets/docs/conf_int/cesa.webp'
 
     - title: Chattering in dynamic mathematical two-phase flow models
       link: 'https://doi.org/10.23919/ECC.2009.7075015'
@@ -799,7 +799,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.23919/ECC.2009.7075015, 
         Budapest (Hungary), August 23 - 26, 2009.
       time: 2009
-      img: 'assets/docs/conf_int/ecc2009.png'
+      img: 'assets/docs/conf_int/ecc2009.webp'
 
     - title: Object oriented modelling and simulation of acurex solar thermal power plant
       link: 'assets/docs/conf_int/MathMod_2009_301.pdf'
@@ -809,7 +809,7 @@ conferences_international:
         Extended Abstract and Regular paper in Proceedings, Oral presentation,
         Vienna (Austria), February 11 - 13, 2009.
       time: 2009
-      img: 'assets/docs/conf_int/MathMod_2009_301.png'
+      img: 'assets/docs/conf_int/MathMod_2009_301.webp'
 
     - title: Modelling and real-time simulation of heliostat fields in Central Receiver Plants
       link: 'assets/docs/conf_int/MathMod_2009_388.pdf'
@@ -819,7 +819,7 @@ conferences_international:
         Extended Abstract and Short paper in Proceedings, Poster,
         Vienna (Austria), February 11 - 13, 2009.
       time: 2009
-      img: 'assets/docs/conf_int/MathMod_2009_388.png'
+      img: 'assets/docs/conf_int/MathMod_2009_388.webp'
 
 conferences_national:
   title: National Conference Proceedings
@@ -832,7 +832,7 @@ conferences_national:
         Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497498609.382,
         Zaragoza (Spain), September 6 - 8, 2023.
       time: 2023
-      img: 'assets/docs/conf_nat/JA_2023_1.png'
+      img: 'assets/docs/conf_nat/JA_2023_1.webp'
 
     - title: Operación óptima de un sistema de refrigeración combinada
       link: 'assets/docs/conf_nat/JA_2023_2.pdf'
@@ -842,7 +842,7 @@ conferences_national:
         Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497498609.477,
         Zaragoza (Spain), September 6 - 8, 2023.
       time: 2023
-      img: 'assets/docs/conf_nat/JA_2023_2.png'
+      img: 'assets/docs/conf_nat/JA_2023_2.webp'
 
     - title: Control de un recuperador de sales en una planta termosolar híbrida
       link: 'https://doi.org/10.17979/spudc.9788497497169.421'
@@ -852,7 +852,7 @@ conferences_national:
         Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497497169.421,
         Ferrol (Spain), September 4 - 6, 2019.
       time: 2019
-      img: 'assets/docs/conf_nat/JA_2019.png'
+      img: 'assets/docs/conf_nat/JA_2019.webp'
 
     - title: Modelado y optimización para una gestión eficiente de recursos en desalación solar
       link: 'assets/docs/conf_nat/CEA.pdf'
@@ -862,7 +862,7 @@ conferences_national:
         Regular paper in Proceedings, Poster,
         Almería (Spain), March 7 - 9, 2018.
       time: 2018
-      img: 'assets/docs/conf_nat/CEA.png'
+      img: 'assets/docs/conf_nat/CEA.webp'
 
     - title: Control predictivo para satisfacer la demanda de agua en un invernadero mediante un sistema de desalación solar
       link: 'assets/docs/conf_nat/SNIH_2016.pdf'
@@ -872,7 +872,7 @@ conferences_national:
         Regular paper in Proceedings, Poster,
         Almería (Spain), February 10 - 12, 2016
       time: 2016
-      img: 'assets/docs/conf_nat/SNIH_2016.png'
+      img: 'assets/docs/conf_nat/SNIH_2016.webp'
 
     - title: Inversión de la causalidad computacional en el modelado dinámico. Caso práctico de una planta de generación de hidrógeno solar
       link: 'assets/docs/conf_nat/JA_2015.pdf'
@@ -882,7 +882,7 @@ conferences_national:
         Regular paper in Proceedings, Poster,
         Bilbao (Spain), September 2 - 4, 2015
       time: 2015
-      img: 'assets/docs/conf_nat/JA_2015.png'
+      img: 'assets/docs/conf_nat/JA_2015.webp'
 
     - title: Solar desalination management to fulfill greenhouse water demand using predictive control
       link: 'assets/docs/conf_nat/JA_2014.pdf'
@@ -892,7 +892,7 @@ conferences_national:
         Regular paper in Proceedings, Poster,
         Valencia (Spain), September 3 - 5, 2014
       time: 2014
-      img: 'assets/docs/conf_nat/JA_2014.png'
+      img: 'assets/docs/conf_nat/JA_2014.webp'
 
     - title: Intercambio de modelos entre herramientas de simulación con functional mock-up interface (FMI)
       link: 'assets/docs/conf_nat/JA_2013.pdf'
@@ -902,7 +902,7 @@ conferences_national:
         Regular paper in Proceedings, Poster,
         Terrassa (Spain), September 4 - 6, 2013.
       time: 2013
-      img: 'assets/docs/conf_nat/JA_2013.png'
+      img: 'assets/docs/conf_nat/JA_2013.webp'
 
     - title: Modelado y simulación de un evaporador de tubos sumergidos
       link: 'assets/docs/conf_nat/JA_2011.pdf'
@@ -912,7 +912,7 @@ conferences_national:
         Regular paper in Proceedings, Poster,
         Seville (Spain), September 7 - 9, 2011
       time: 2011
-      img: 'assets/docs/conf_nat/JA_2011.png'
+      img: 'assets/docs/conf_nat/JA_2011.webp'
 
     - title: Sistema de ayuda a la toma de decisiones en la gestión del clima interior de un invernadero basado en modelos de crecimiento de cultivos de tomate
       link: 'assets/docs/conf_nat/SIMOSI_2007.pdf'
@@ -923,7 +923,7 @@ conferences_national:
         Regular paper in Proceedings, Oral presentation,
         Zaragoza (Spain), September 11 - 14, 2007.
       time: 2007
-      img: 'assets/docs/conf_nat/SIMOSI_2007.png'
+      img: 'assets/docs/conf_nat/SIMOSI_2007.webp'
 
 presentations:
   title: Invited Presentations
@@ -934,7 +934,7 @@ presentations:
       details: |
         Workshop on the application of artificial intelligence at CIEMAT's projects, Oral presentation, online, July 3, 2023.
       time: 2023
-      img: 'assets/docs/invited/CIEMAT_IA_Workshop.png'
+      img: 'assets/docs/invited/CIEMAT_IA_Workshop.webp'
 
     - title: Assessment of the integration of a MED-TVC plant into a solar tower with Brayton cycle
       link: 'assets/docs/invited/E4W_Workshop.pdf'
@@ -942,7 +942,7 @@ presentations:
       details: |
         Workshop on Renewable Energies and Energy Efficiency in water treatments, EERES4WATER Project, September 26, 2022.
       time: 2022
-      img: 'assets/docs/invited/E4W_Workshop.png'
+      img: 'assets/docs/invited/E4W_Workshop.webp'
 
     - title: The potential of concentrating solar power in portugal using inductive projection planning
       link: 'https://www.youtube.com/watch?v=4-b-JOInwZc'
@@ -951,7 +951,7 @@ presentations:
         How CSP can improve Frequency Stability of the Power Grid, ATA insights,
         Oral presentation, online, January 27, 2022.
       time: 2022
-      img: 'assets/docs/invited/ata.png'
+      img: 'assets/docs/invited/ata.webp'
 
     - title: Optimization of CSP development in spain using inductive projection planning tool based on artificial intelligence
       link: 'https://www.youtube.com/watch?v=MGq3CDDLiSw'
@@ -960,7 +960,7 @@ presentations:
         CSP4Climate, The Cyprus Institute,
         Oral presentation, online, December 15 - 17, 2020
       time: 2020
-      img: 'assets/docs/invited/csp4climate.png'
+      img: 'assets/docs/invited/csp4climate.webp'
 
     - title: Herramienta para optimizar el mix eléctrico aplicando técnicas de inteligencia artificial
       link: 'http://www.solarconcentra.org/presentaciones-feria-genera2020/'
@@ -969,7 +969,7 @@ presentations:
         Feria Internacional de Energía y Medioambiente (GENERA),
         Oral presentation, Madrid (Spain), Feb 5 - 7, 2020
       time: 2020
-      img: 'assets/docs/invited/Genera_2020.png'
+      img: 'assets/docs/invited/Genera_2020.webp'
 
     - title: Modelado y simulación de plantas termosolares
       link: 'assets/docs/invited/JI.pdf'
@@ -978,7 +978,7 @@ presentations:
         Jornadas de Informática 2014, University of Almería,
         Oral presentation, Almería (Spain), March 3, 2014
       time: 2014
-      img: 'assets/docs/invited/JI.png'
+      img: 'assets/docs/invited/JI.webp'
 
     - title: Modelado y simulación de plantas termosolares
       link: 'assets/docs/invited/JJAA.pdf'
@@ -987,10 +987,10 @@ presentations:
         XXXI Jornadas de Automática 2010, Modeling and Simulation Group,
         Oral presentation, Jaén (Spain), September 8, 2010
       time: 2010
-      img: 'assets/docs/invited/JJAA.png'
+      img: 'assets/docs/invited/JJAA.webp'
 
 colloquiums:
-  title: International Doctoral Colloquiums
+  title: International Doctoral Colloquia
   items:
     - title: Chattering problem in dynamic mathematical two-phase flow models
       link: 'assets/docs/colloquiums/5sollab.pdf'
@@ -999,7 +999,7 @@ colloquiums:
         5<sup>th</sup> Sollab Doctoral Colloquium on Solar Concentrating Technologies,
         Abstract, Oral presentation and Poster, Cologne, Germany, June 22 - 24, 2009
       time: 2009
-      img: 'assets/docs/colloquiums/5sollab.png'
+      img: 'assets/docs/colloquiums/5sollab.webp'
     - title: Chattering problem in dynamic mathematical two-phase flow models
       link: 'assets/docs/colloquiums/4sollab.pdf'
       authors: <b>J. Bonilla</b> / CIEMAT
@@ -1007,7 +1007,7 @@ colloquiums:
         4<sup>th</sup> Sollab Doctoral Colloquium on Solar Concentrating Technologies,
         Abstract and Oral presentation, Tabernas, Almería (Spain), September 10 - 12, 2008
       time: 2008
-      img: 'assets/docs/colloquiums/4sollab.png'
+      img: 'assets/docs/colloquiums/4sollab.webp'
 
 phd_dissertations:
   title: Direction of Ph.D. Students
@@ -1019,7 +1019,7 @@ phd_dissertations:
         Directors: <b>J. Bonilla</b> / CIEMAT and M. Berenguel / UAL<br> 
         <a href="assets/docs/phds/thesis.pdf" target="_blank">Ph.D. thesis</a>
       time: 2018
-      img: 'assets/docs/phds/thesis.png'
+      img: 'assets/docs/phds/thesis.webp'
     - title: Contribuciones al modelado dinámico de procesos termoquímicos en instalaciones termosolares
       link: 'assets/docs/phds/codirector_UNED.pdf'
       authors: Alberto de la Calle Alonso, National Distance Learning University (UNED)
@@ -1027,7 +1027,7 @@ phd_dissertations:
         Directors: L. Roca, <b>J. Bonilla</b> / CIEMAT and S. Dormido / UNED<br>
         <a href="assets/docs/phds/TesisAlberto_Color.pdf" target="_blank">Ph.D. thesis</a>
       time: 2015
-      img: 'assets/docs/phds/TesisAlberto_Color.png'
+      img: 'assets/docs/phds/TesisAlberto_Color.webp'
 
 grade_projects:
   title: Direction of Final Degree Projects
@@ -1039,7 +1039,7 @@ grade_projects:
         Directors: J.D. Álvarez / UAL and <b>J. Bonilla</b> / CIEMAT<br>
         <a href="assets/docs/grade_projects/tfggmd.pdf" target="_blank">Final degree project</a>
       time: 2016
-      img: 'assets/docs/grade_projects/tfggmd.png'
+      img: 'assets/docs/grade_projects/tfggmd.webp'
 
 supervision:
   title: Staff Supervision
@@ -1050,7 +1050,7 @@ supervision:
       details: |
         Curricular Practices, code 356971, Centro de Investigación en Energía Solar (CIESOL), University of Almería (UAL)
       time: 2022 - 2023
-      img: 'assets/docs/supervision/cp_alvaro.png'
+      img: 'assets/docs/supervision/cp_alvaro.webp'
 
     - title: Director of research plan
       link: 'assets/docs/supervision/DPTDPI_BONILLA CRUZ, JAVIER.pdf'
@@ -1058,7 +1058,7 @@ supervision:
       details: |
         Ph.D. in Computer Science, code 8909, Real Decreto 99/2011 de 28 de enero (BOE nº 35, de 10 de febrero de 2011), University of Almería (UAL)
       time: 2015 - 2018
-      img: 'assets/docs/supervision/DPTDPI_BONILLA CRUZ, JAVIER.png'
+      img: 'assets/docs/supervision/DPTDPI_BONILLA CRUZ, JAVIER.webp'
 
 int_projects:
   title: International Research Projects
@@ -1069,7 +1069,7 @@ int_projects:
         Horizon Europe Framework Programme (HORIZON), HORIZON Innovation Actions, Innovative components and/or sub-systems for CSP plants and/or concentrating solar thermal installations, HORIZON-CL5-2022-D3-03-01, proposal number 101122231, Researcher, budget: 5,498,425 €<br>
         [HORIZON website](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2022-d3-03-01){:target="_blank"}
       time: 2023 - 2027
-      img: 'assets/docs/projects_int/ASTERIx-CAESar.png'
+      img: 'assets/docs/projects_int/ASTERIx-CAESar.webp'
 
     - title: Expansion, improvement, renovation and remodelling of Plataforma Solar de Almería (PSA) (SolarNOVA II)
       link: 'assets/docs/experience/SOLARNOVA.pdf'
@@ -1077,7 +1077,7 @@ int_projects:
         European Regional Development Fund (ERDF) and Spanish funds, ICTS-2017-03-CIEMAT-04, Team member, budget: 11,996,375 €<br>
         [SolarNOVA website](https://www.psa.es/es/feder/solarnova.php){:target="_blank"}
       time: 2018 - 2023
-      img: 'assets/docs/experience/SOLARNOVA.png'
+      img: 'assets/docs/experience/SOLARNOVA.webp'
 
     - title: Solving water issues for CSP plants (SOLWARIS)
       link: 'assets/docs/projects_int/SOLWARIS_certificate.pdf'
@@ -1085,7 +1085,7 @@ int_projects:
         Horizon 2020, European Commission, grant agreement no 792103, Research team member, budget: 10,812,504 €<br>
         [SOLWARIS website](https://solwaris.eu){:target="_blank"}
       time: 2018 - 2022
-      img: 'assets/docs/projects_int/SOLWARIS_certificate.png'
+      img: 'assets/docs/projects_int/SOLWARIS_certificate.webp'
 
     - title: Innovative configuration for a fully renewable hybrid CSP plant (HYSOL)
       link: 'assets/docs/projects_int/HYSOL_certificate.pdf'
@@ -1093,7 +1093,7 @@ int_projects:
         EU Seventh Framework Programme for Research (FP7-Energy), European Commission, grant agreement n° 308912, Research team member, budget: 9,275,982 €<br>
         [HYSOL website](https://cordis.europa.eu/project/id/308912){:target="_blank"}
       time: 2013 - 2016
-      img: 'assets/docs/projects_int/HYSOL_certificate.png'
+      img: 'assets/docs/projects_int/HYSOL_certificate.webp'
 
     - title: Solar facilities for the european research area (SFERA)
       link: 'assets/docs/projects_int/Sfera-R12-2.pdf'
@@ -1101,7 +1101,7 @@ int_projects:
         EU Seventh Framework Programme for Research (FP7-Infrastructures), European Commission, grant agreement n° 228296, Work team member, budget: 9,042,935 €<br>
         [SFERA website](https://cordis.europa.eu/project/id/228296){:target="_blank"}
       time: 2009 - 2013
-      img: 'assets/docs/projects_int/Sfera-R12-2.png'
+      img: 'assets/docs/projects_int/Sfera-R12-2.webp'
 
 nat_projects:
   title: National Research Projects
@@ -1112,7 +1112,7 @@ nat_projects:
         Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126805OB-100, Work team member,
         budget: 145,200 €
       time: 2022 - 2025
-      img: 'assets/docs/projects_nat/HELIOSUN_certificate.png'
+      img: 'assets/docs/projects_nat/HELIOSUN_certificate.webp'
 
     - title: COntrol and ManageMent systems using Information and communications Technologies FOR ZERO Energy Buildings (COMMIT4.0EB)
       link: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.pdf'
@@ -1121,7 +1121,7 @@ nat_projects:
         budget: 125,235 €<br>
         [COMMIT4.0EB website](http://commit-zeb.es){:target="_blank"}
       time: 2022 - 2025
-      img: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.png'
+      img: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.webp'
 
     - title: Hybrid cooling solutions for water saving in solar thermal applications (SOLHYCOOL)
       link: 'assets/docs/projects_nat/SOLHYCOOL_certificate.pdf'
@@ -1129,7 +1129,7 @@ nat_projects:
         Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126452OA-I00, 
         Work team member, budget: 78,650 €
       time: 2022 - 2025
-      img: 'assets/docs/projects_nat/SOLHYCOOL_certificate.png'
+      img: 'assets/docs/projects_nat/SOLHYCOOL_certificate.webp'
 
     - title: New Technologies for Enhancing Energy Efficency in Buildings (Ntech4Build)
       link: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.pdf'
@@ -1138,7 +1138,7 @@ nat_projects:
         budget: 168,590 €<br>
         [Ntech4Build website](http://ntechbuild.es){:target="_blank"}
       time: 2022 - 2024
-      img: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.png'
+      img: 'assets/docs/projects_nat/COMMIT4ZEB_Ntech4Build_certificate.webp'
 
     - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
       link: 'assets/docs/projects_nat/SOLPRENDETE_certificate.pdf'
@@ -1146,7 +1146,7 @@ nat_projects:
         Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-21-16905, Work team member, budget: 15.000 €<br>
         [SOL-préndete website](https://solprendete.psa.es){:target="_blank"}
       time: 2022 - 2023
-      img: 'assets/docs/projects_nat/SOLPRENDETE_certificate.png'
+      img: 'assets/docs/projects_nat/SOLPRENDETE_certificate.webp'
 
     - title: Solar thermal solutions for integration in industrial processes (SOLTERMIN)
       link: 'assets/docs/projects_nat/SOLTERMIN_certificate.pdf'
@@ -1154,7 +1154,7 @@ nat_projects:
         Spanish National Programme for Research Aimed at the Challenges of Society, Ministry of Science and Innovation, ENE2017-83973-R, Work team member, budget: 278,300 €<br>
         [SOLTERMIN website](https://www.psa.es/es/unidades/ufl/proyectos/soltermin.php){:target="_blank"}
       time: 2018 - 2022
-      img: 'assets/docs/projects_nat/SOLTERMIN_certificate.png'
+      img: 'assets/docs/projects_nat/SOLTERMIN_certificate.webp'
 
     - title: 'Control and energy management strategies in production environments with support of renewable energy (ENERPRO) – Subproject title: Efficient energy control and management of solar thermal desalination systems (EFFERDESAL)'
       link: 'assets/docs/projects_nat/EFFERDESAL_certificate.pdf'
@@ -1163,7 +1163,7 @@ nat_projects:
         Spanish National Programme for Research Aimed at the Challenges of Society, Ministry of Science and Innovation, DPI2014-56364-C2-2-R, Work team member, budget: 131,200 €<br>
         [ENERPRO website](https://arm.ual.es/arm-group/projects/enerpro/){:target="_blank"}
       time: 2015 - 2018
-      img: 'assets/docs/projects_nat/EFFERDESAL_certificate.png'
+      img: 'assets/docs/projects_nat/EFFERDESAL_certificate.webp'
 
     - title: Controlling the growth of crops under glass by optimizing sustainability, economic and energy efficiency criteria (CONTROLCROP)
       link: 'assets/docs/projects_nat/CONTROLCROP_certificate.pdf'
@@ -1172,7 +1172,7 @@ nat_projects:
         Proyecto de investigación de Excelencia financiado por la Consejería de Innovación Ciencia y Empresa, Junta de Andalucía, P10-TEP-6174, Work team member, budget: 145,005 €<br>
         [CONTROLCROP website](https://arm.ual.es/arm-group/projects/2011-controlcrop/){:target="_blank"}
       time: 2011 - 2015
-      img: 'assets/docs/projects_nat/CONTROLCROP_certificate.png'
+      img: 'assets/docs/projects_nat/CONTROLCROP_certificate.webp'
 
     - title: Predictive control techniques for efficient management of renewable energy microgrids (POWER)
       link: 'assets/docs/projects_nat/POWER_certificate.pdf'
@@ -1181,7 +1181,7 @@ nat_projects:
         Programa nacional de proyectos de investigación fundamental, subprograma de proyectos de investigación fundamental no orientada, Ministry of Science and Innovation, DPI2010-21589-C05-04, Work team member, budget: 105,270 €<br>
         [POWER website](https://arm.ual.es/arm-group/projects/2011-power/){:target="_blank"}
       time: 2011 - 2014
-      img: 'assets/docs/projects_nat/POWER_certificate.png'
+      img: 'assets/docs/projects_nat/POWER_certificate.webp'
 
     - title: Hybridization of renewable technologies in a power generation plant (HIBIOSOLEO)
       link: 'assets/docs/projects_nat/HIBIOSOLEO.pdf'
@@ -1190,7 +1190,7 @@ nat_projects:
         INNPACTO 2010, National Program for Public-Private Cooperation, Ministry of Science and Innovation, IPT-440000-2010-004, Work team member, budget: 4,270,000 €<br>
         [HIBIOSOLEO website](https://sites.google.com/view/guillermosanmiguel/research/key-finalised-projects/hibiosoleo){:target="_blank"}
       time: 2011 - 2013
-      img: 'assets/docs/projects_nat/HIBIOSOLEO.png'
+      img: 'assets/docs/projects_nat/HIBIOSOLEO.webp'
 
 research_groups:
   title: Membership to Research Groups
@@ -1201,28 +1201,28 @@ research_groups:
       details: |
         Plataforma Solar de Almería (PSA), Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science, Innovation and Universities, Government of Spain
       time: 2024 - Now
-      img: 'assets/docs/research_groups/ufp.png'
+      img: 'assets/docs/research_groups/ufp.webp'
 
     - title: Solar Thermal Applications
       link: 'https://www.psa.es/en/units/sta/personal.php'
       details: |
         Plataforma Solar de Almería (PSA), Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain
       time: 2007 - 2023
-      img: 'assets/docs/research_groups/sta.png'
+      img: 'assets/docs/research_groups/sta.webp'
 
     - title: Automatic control, Robotics and Mechatronic (ARM) Research Group
       link: 'https://arm.ual.es/arm-group/people/javier-bonilla-cruz/'
       details: |
         Department of Computer Sciences, University of Almería
       time: 2007 - Now
-      img: 'assets/docs/research_groups/arm.jpg'
+      img: 'assets/docs/research_groups/arm.webp'
 
     - title: Modeling and Control Unit
       link: 'https://ciesol.com/modelado-y-control/personal-modelado-y-control/'
       details: |
         Centro de Investigación en Energía Solar (CIESOL), Joint Institute UAL – PSA.CIEMAT
       time: 2007 - Now
-      img: 'assets/docs/research_groups/ciesol.png'
+      img: 'assets/docs/research_groups/ciesol.webp'
 
 prizes:
   title: Prizes, Acknowledgments and Fellowships
@@ -1235,49 +1235,49 @@ prizes:
         que depende de la Consejería de Turismo, Cultura y Deporte de la Junta de Andalucía, el Campus de Excelencia Internacional del Mar (CEI·MAR) y Cocom Media.<br>
         Viernes, 15 de diciembre de 2023, Museo de Almería.
       time: 2023
-      img: 'assets/docs/prizes/PROA_2023.jpg'
+      img: 'assets/docs/prizes/PROA_2023.webp'
 
     - title: Ph.D. dissertation extraordinary prize in Engineerring
       link: 'assets/docs/prizes/PhD_dissertation_extraordinary_prize_in_Engineering.pdf'
       details: |
         Modeling of Two-Phase Flow Evaporators for Parabolic-Trough Solar Thermal Power Plants, University of Almería (UAL), <b>J. Bonilla</b>, Director: L.J. Yebra and S. Dormido
       time: 2016
-      img: 'assets/docs/prizes/PhD_dissertation_extraordinary_prize_in_Engineering.png'
+      img: 'assets/docs/prizes/PhD_dissertation_extraordinary_prize_in_Engineering.webp'
 
     - title: Director of Ph.D. dissertation with an extraordinary prize
       link: 'assets/docs/prizes/codirector.pdf'
       details: |
         Contribuciones al modelado dinámico de procesos termoquímicos en instalaciones termosolares, National Distance Learning University (UNED), A. de la Calle, Director: L. Roca, <b>J. Bonilla</b> and S. Dormido
       time: 2016
-      img: 'assets/docs/prizes/codirector.png'
+      img: 'assets/docs/prizes/codirector.webp'
 
     - title: Best paper award given by sociedad española de agroingeniería
       link: 'assets/docs/prizes/SNIH16.pdf'
       details: |
         Control predictivo para satisfacer la demanda de agua en un invernadero mediante un sistema de desalación solar, II Simposio Nacional de Ingeniería Hortícola - Automatización y TICs en Agricultura
       time: 2016
-      img: 'assets/docs/prizes/SNIH16.png'
+      img: 'assets/docs/prizes/SNIH16.webp'
 
     - title: Best paper in modeling and simulation
       link: 'assets/docs/prizes/FMI.pdf'
       details: |
         Intercambio de Modelos entre Herramientas de Simulación con Functional Mock-up Interface (FMI), XXXIV Jornadas de Automática 2013, Comité Español de Automática (CEA)
       time: 2013
-      img: 'assets/docs/prizes/FMI.png'
+      img: 'assets/docs/prizes/FMI.webp'
 
     - title: Ph.D. scholarship
       link: 'assets/docs/prizes/phd.pdf'
       details: |
         Plataforma Solar de Almería, Energy Deparment, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Spain
       time: 2007 - 2009
-      img: 'assets/docs/prizes/phd.png'
+      img: 'assets/docs/prizes/phd.webp'
 
     - title: Undergraduated scholarship
       link: 'assets/docs/prizes/scholarship.pdf'
       details: |
         University of Almería - Plataforma Solar de Almería agreement, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Spain
       time: 2004
-      img: 'assets/docs/prizes/scholarship.png'
+      img: 'assets/docs/prizes/scholarship.webp'
 
 outreach:
   title: Outreach Activities
@@ -1288,42 +1288,42 @@ outreach:
       details: |
         Open Researchers 2024-25, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 27, 2024
       time: 2024
-      img: 'assets/docs/outreach/2024.png'
+      img: 'assets/docs/outreach/2024.webp'
 
     - title: 'Plataforma Solar de Almería: La Energía Termosolar Clave Contra El Cambio Climático'
       link: 'assets/docs/outreach/2023.pdf'
       details: |
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 29, 2023
       time: 2023
-      img: 'assets/docs/outreach/2023.png'
+      img: 'assets/docs/outreach/2023.webp'
 
     - title: 'Energía Solar Térmica e Inteligencia Artificial'
       link: 'assets/docs/outreach/IES_Sol_Portocarrero_2023.pdf'
       details: |
         SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual, 1º bachillerato science students, IES Sol de Portocarrero, Almería (Spain), June 16, 2023
       time: 2023
-      img: 'assets/docs/outreach/IES_Sol_Portocarrero_2023.png'
+      img: 'assets/docs/outreach/IES_Sol_Portocarrero_2023.webp'
 
     - title: 'Energía Solar Térmica e Inteligencia Artificial'
       link: 'assets/docs/outreach/IES_Cerro_Milano_2023.pdf'
       details: |
         SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual, 4º ESO  science, humanities and social sciencie students, IES Cerro Milano, Almería (Spain), February 22, 2023
       time: 2023
-      img: 'assets/docs/outreach/IES_Cerro_Milano_2023.png'
+      img: 'assets/docs/outreach/IES_Cerro_Milano_2023.webp'
 
     - title: 'SOL-préndete: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
       link: 'assets/docs/outreach/2022.pdf'
       details: |
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 30, 2022
       time: 2022
-      img: 'assets/docs/outreach/2022.png'
+      img: 'assets/docs/outreach/2022.webp'
 
     - title: 'Inteligencia artificial y energía solar'
-      link: 'assets/docs/outreach/focosur.jpg'
+      link: 'assets/docs/outreach/focosur.webp'
       details: |
         Foco Sur - Actualidad, Economía y Cultura de Almería, no 262, December 2019
       time: 2019
-      img: 'assets/docs/outreach/focosur.jpg'
+      img: 'assets/docs/outreach/focosur.webp'
 
     # - title: 'Blog Posts about Programming, Machine Learning, Embedded Devices & Solar Energy'
     #   details: |
@@ -1342,7 +1342,7 @@ outreach:
     #     - [Cross-compile and deploy Qt 5.12 for Raspberry Pi](https://mechatronicsblog.com/cross-compile-and-deploy-qt-5-12-for-raspberry-pi/){:target="_blank"}
     #     - [ESP8266 NodeMCU pinout for Arduino IDE](https://mechatronicsblog.com/esp8266-nodemcu-pinout-for-arduino-ide/){:target="_blank"}
     #   time: 2019 - Now
-    #   img: 'assets/docs/outreach/blog.png'
+    #   img: 'assets/docs/outreach/blog.webp'
     #   img_style: 'border: 0px; margin-top: 30px;'
     #   img_position: 'align-items-top'
 
@@ -1351,28 +1351,28 @@ outreach:
       details: |
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 27, 2019
       time: 2019
-      img: 'assets/docs/outreach/2019.png'
+      img: 'assets/docs/outreach/2019.webp'
 
     - title: 'Modelado y control de sistemas de concentración solar'
       link: 'assets/docs/outreach/2018.pdf'
       details: |
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 28, 2018
       time: 2018
-      img: 'assets/docs/outreach/2018.png'
+      img: 'assets/docs/outreach/2018.webp'
 
     - title: 'Modelado, simulación y control de sistemas solares'
       link: 'assets/docs/outreach/2017.pdf'
       details: |
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 29, 2017
       time: 2017
-      img: 'assets/docs/outreach/2017.png'
+      img: 'assets/docs/outreach/2017.webp'
 
     - title: 'Modelado, simulación y control de sistemas solares'
       link: 'assets/docs/outreach/2016.pdf'
       details: |
         European Researchers’ Night, open researchers, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 30, 2016
       time: 2016
-      img: 'assets/docs/outreach/2016.png'
+      img: 'assets/docs/outreach/2016.webp'
 
     - title: 'Control y operación automático de plantas termosolares'
       authors: J. González / Aunergy, M. Berenguel / UAL, M. Romero, L.J. Yebra, D. Martínez, A. Valverde, L. Roca, <b>J. Bonilla</b>, E. Zarza / CIEMAT
@@ -1380,7 +1380,7 @@ outreach:
       details: |
         Montajes e Instalaciones, Year no 39, No 437, March 2009, pages 90-95, ISSN: 0210-184X
       time: 2009
-      img: 'assets/docs/outreach/montajes_e_instalaciones.png'
+      img: 'assets/docs/outreach/montajes_e_instalaciones.webp'
 
 press:
   # https://www.lavanguardia.com/local/sevilla/20241206/10176683/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares-agenciaslv20241206.html
@@ -1412,14 +1412,14 @@ press:
     link: https://andaluciainforma.com/investigadores-andaluces-desarrollan-sistema-de-ia-para-optimizar-el-rendimiento-de-plantas-solares/
     details: Andalucía Informa
     time: 2024
-    img: 'assets/docs/outreach/andalucia_informa.jpeg'
+    img: 'assets/docs/outreach/andalucia_informa.webp'
     img_style: 'border: 0px;'      
 
   - title: Diseñan un sistema ‘inteligente’ para mejorar el rendimiento de las plantas solares
     link: https://fundaciondescubre.es/noticias/disenan-un-sistema-inteligente-para-mejorar-el-rendimiento-de-las-plantas-solares/
     details: Fundación Descubre
     time: 2024
-    img: 'assets/docs/outreach/descubre.png'
+    img: 'assets/docs/outreach/descubre.webp'
     img_style: 'border: 0px;'      
 
   - title: ¿Cómo puede una IA aumentar la energía capturada en plantas solares?
@@ -1433,14 +1433,14 @@ press:
     link: https://elperiodicodelaenergia.com/disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/
     details: El periódico de la energía
     time: 2024
-    img: 'assets/docs/outreach/periodico_energia.png'
+    img: 'assets/docs/outreach/periodico_energia.webp'
     img_style: 'border: 0px;'
 
   - title: Investigadores de Almería diseñan un sistema de IA para mejorar el rendimiento de plantas solares
     link: https://www.ideal.es/almeria/almeria/investigadores-almeria-disenan-sistema-ia-mejorar-rendimiento-20241210230520-nt.html
     details: IDEAL
     time: 2024
-    img: 'assets/docs/outreach/ideal.png'
+    img: 'assets/docs/outreach/ideal.webp'
     img_style: 'border: 0px;'      
 
   - title: Investigadores andaluces diseñan un sistema basado en IA para “mejorar el rendimiento de plantas solares”
@@ -1454,21 +1454,21 @@ press:
     link: https://novaciencia.es/como-puede-la-inteligencia-artificial-mejorar-mejorar-el-rendimiento-de-las-plantas-solares-fotovoltaicas/
     details: Nova Ciencia
     time: 2024
-    img: 'assets/docs/outreach/nova_ciencia.png'
+    img: 'assets/docs/outreach/nova_ciencia.webp'
     img_style: 'border: 0px;'
 
   - title: Desarrollan un sistema de IA en Andalucía para optimizar plantas solares
     link: https://www.horapunta.com/noticia/45760/actualidad/desarrollan-un-sistema-de-ia-en-andalucia-para-optimizar-plantas-solares.html
     details: Hora Punta
     time: 2024
-    img: 'assets/docs/outreach/hora_punta.png'
+    img: 'assets/docs/outreach/hora_punta.webp'
     img_style: 'border: 0px;'
 
   - title: Desarrollan un sistema de IA en Andalucía que aumenta la eficiencia de plantas solares
     link: https://nuevodiario.es/noticia/19949/cultura/desarrollan-un-sistema-de-ia-en-andalucia-que-aumenta-la-eficiencia-de-plantas-solares.html
     details: Nuevo Diario
     time: 2024
-    img: 'assets/docs/outreach/nuevo_diario.gif'
+    img: 'assets/docs/outreach/nuevo_diario.webp'
     img_style: 'border: 0px;'    
 
   - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
@@ -1482,56 +1482,56 @@ press:
     link: https://www.azcostadelsol.com/la-noticia-positiva/disenan-en-andalucia-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/
     details: Az Costa del Sol
     time: 2024
-    img: 'assets/docs/outreach/az.png'
+    img: 'assets/docs/outreach/az.webp'
     img_style: 'border: 0px;'
 
   - title: Investigadores de la Plataforma Solar de Almería mejoran el rendimiento solar con IA
     link: https://www.noticiasdealmeria.com/noticia/213019/almeria/investigadores-de-la-plataforma-solar-de-almeria-mejoran-el-rendimiento-solar-con-ia.html
     details: Noticias de Almería
     time: 2024
-    img: 'assets/docs/outreach/noticias_de_almerial.jpg'
+    img: 'assets/docs/outreach/noticias_de_almerial.webp'
     img_style: 'border: 0px;'
 
   - title: Desarrollan un sistema de IA para optimizar plantas solares en Andalucía
     link: https://iymagazine.es/noticia/5524/tecnologia/desarrollan-un-sistema-de-ia-para-optimizar-plantas-solares-en-andalucia.html
     details: IY Magazine
     time: 2024
-    img: 'assets/docs/outreach/iy_magazine.jpeg'
+    img: 'assets/docs/outreach/iy_magazine.webp'
     img_style: 'border: 0px;'
 
   - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
     link: http://www.gentedigital.es/sevilla/noticia/3958539/investigadores-andaluces-disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares/
     details: Gente Digital
     time: 2024
-    img: 'assets/docs/outreach/gente_digital.png'
+    img: 'assets/docs/outreach/gente_digital.webp'
     img_style: 'border: 0px;'
 
   - title: Investigadores andaluces usan IA para mejorar rendimiento de plantas solares
     link: https://www.cordobabn.com/articulo/andalucia/investigadores-andaluces-usan-ia-mejorar-rendimiento-plantas-solares/20241206102816211210.html
     details: Córdoba BN
     time: 2024
-    img: 'assets/docs/outreach/cordoba_bn.png'
+    img: 'assets/docs/outreach/cordoba_bn.webp'
     img_style: 'border: 0px;'
 
   - title: Diseñan un sistema de IA para mejorar el rendimiento de plantas solares
     link: https://www.almeriainformacion.com/homepage/clave-verde/item/34694-disenan-un-sistema-basado-en-ia-para-mejorar-el-rendimiento-de-plantas-solares
     details: Almería Información
     time: 2024
-    img: 'assets/docs/outreach/almeria_informacion.jpg'
+    img: 'assets/docs/outreach/almeria_informacion.webp'
     img_style: 'border: 0px;'
 
   - title: Mejoran el rendimiento de las plantas solares con inteligencia artificial
     link: https://www.cuentamealgobueno.com/2024/12/mejoran-el-rendimiento-de-las-plantas-solares-con-inteligencia-artificial/
     details: CuentameAlgoBueno
     time: 2024
-    img: 'assets/docs/outreach/cuentamealgobueno.png'
+    img: 'assets/docs/outreach/cuentamealgobueno.webp'
     img_style: 'border: 0px;'    
 
   - title: Investigadores andaluces diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
     link: https://www.teleprensa.com/articulo/sevilla/investigadores-andaluces-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares/202412060852261976106.html
     details: Teleprensa
     time: 2024
-    img: 'assets/docs/outreach/teleprensa.png'
+    img: 'assets/docs/outreach/teleprensa.webp'
     img_style: 'border: 0px;'
 
   - title: 'Noticias, sala de prensa, CIEMAT'
@@ -1542,7 +1542,7 @@ press:
       - [Seis Premios Extraordinarios de Doctorado en la Plataforma Solar de Almería](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1170){:target="_blank"}
       - [Finaliza con éxito el proyecto HYSOL](https://www.ciemat.es/cargarAplicacionNoticias.do?identificador=1132){:target="_blank"}
     time: 2016 - Now
-    img: 'assets/docs/outreach/news.png'
+    img: 'assets/docs/outreach/news.webp'
     img_style: 'border: 0px; margin-top: 30px;'
     img_position: 'align-items-top'
 
@@ -1554,91 +1554,91 @@ experience:
       details: |
         Tesorería General de Seguridad Social, Ministerio de Inclusión, Seguridad Social y Migraciones, Gobierno de España
       time: 2004 - Now
-      img: 'assets/docs/experience/vida_laboral.png'
+      img: 'assets/docs/experience/vida_laboral.webp'
 
     - title: 'Postdoctoral researcher - Permanent position'
       link: 'assets/docs/experience/LaboralFijo.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2024 - Now
-      img: 'assets/docs/experience/LaboralFijo.png'      
+      img: 'assets/docs/experience/LaboralFijo.webp'      
 
     - title: 'Attestation of positions - Certificado de puestos de trabajo'
       link: 'assets/docs/experience/positions_CIEMAT.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2023
-      img: 'assets/docs/experience/positions_CIEMAT.png'
+      img: 'assets/docs/experience/positions_CIEMAT.webp'
 
     - title: 'Attestation of functions - Certificado de funciones'
       link: 'assets/docs/experience/functions_certificate.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2023
-      img: 'assets/docs/experience/functions_certificate.png'
+      img: 'assets/docs/experience/functions_certificate.webp'
 
     - title: 'Postdoctoral researcher - SolarNOVA II project'
       link: 'assets/docs/experience/SOLARNOVA.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2018 - 2023
-      img: 'assets/docs/experience/SOLARNOVA.png'
+      img: 'assets/docs/experience/SOLARNOVA.webp'
 
     - title: 'Postdoctoral researcher - EFFERDESAL project'
       link: 'assets/docs/experience/EFFERDESAL.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2016 - 2017
-      img: 'assets/docs/experience/EFFERDESAL.png'
+      img: 'assets/docs/experience/EFFERDESAL.webp'
 
     - title: 'Postdoctoral researcher - HYSOL project'
       link: 'assets/docs/experience/HYSOL.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2013 - 2016
-      img: 'assets/docs/experience/HYSOL.png'
+      img: 'assets/docs/experience/HYSOL.webp'
 
     - title: 'University graduate researcher - HIBIOSOLEO project'
       link: 'assets/docs/experience/CertificadoHIBIOSOLEO.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2011 - 2013
-      img: 'assets/docs/experience/CertificadoHIBIOSOLEO.png'
+      img: 'assets/docs/experience/CertificadoHIBIOSOLEO.webp'
 
     - title: 'University graduate researcher - Economy and employment stimulation plan (Plan E)'
       link: 'assets/docs/experience/CertificadoPlanE.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2009 - 2011
-      img: 'assets/docs/experience/CertificadoPlanE.png'
+      img: 'assets/docs/experience/CertificadoPlanE.webp'
 
     - title: 'University graduate researcher - Work-experience contract'
       link: 'assets/docs/experience/CertificadoPracticas.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2009 - 2009
-      img: 'assets/docs/experience/CertificadoPracticas.png'
+      img: 'assets/docs/experience/CertificadoPracticas.webp'
 
     - title: 'University graduate researcher in training - Ph.D. Scholarship'
       link: 'assets/docs/prizes/phd.pdf'
       details: |
         CIEMAT-PSA, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas - Plataforma Solar de Almería
       time: 2007 - 2009
-      img: 'assets/docs/prizes/phd.png'
+      img: 'assets/docs/prizes/phd.webp'
 
     - title: 'Analyst - programmer'
       link: 'assets/docs/experience/analyst_programmer.pdf'
       details: |
         Grupo J. Carrión, Asetir S.L., Volvo Industrial vehicles dealer (Veinsur), Huercal de Almería, (Almería)
       time: 2004 - 2007
-      img: 'assets/docs/experience/analyst_programmer.png'
+      img: 'assets/docs/experience/analyst_programmer.webp'
 
     - title: 'Company scholarship, UAL - PSA agreement 2004'
       link: 'assets/docs/prizes/scholarship.pdf'
       details: |
         Reorganization of the Direct Steam Generation (DISS) in parabolic troughs project database, Plataforma Solar de Almería
       time: 2004
-      img: 'assets/docs/prizes/scholarship.png'
+      img: 'assets/docs/prizes/scholarship.webp'
 
 research_contracts:
   title: Technology Transfer
@@ -1648,13 +1648,13 @@ research_contracts:
       details: |
         Contrato de prestanción de servicios para la realización de trabajos de investigación entre la Asociación Española para la Promoción de la Industria Termosolar (PROTERMOSOLAR) y Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Budget:  5,000 €.
       time: 2021
-      img: 'assets/docs/contracts/Protermosolar.png'
+      img: 'assets/docs/contracts/Protermosolar.webp'
     - title: Diseño de modelos y estrategias de simulación, control, ensayo y monitorización del lazo Senertrough
       link: 'assets/docs/contracts/cobra.pdf'
       details: |
         Contrato de transferencia de investigación para Cobra instalaciones y servicios S.A. Modelo y simulador de planta de captadores cilindroprabólico de la planta Andasol. Validación con datos de campañas experimentales. Budget:  337,982 €.
       time: 2007
-      img: 'assets/docs/contracts/cobra.png'
+      img: 'assets/docs/contracts/cobra.webp'
 
 software:
   title: Scientific Software
@@ -1664,14 +1664,14 @@ software:
       link: 'https://cspdata.com'
       details: |
         Detailed information with filtering and exporting capabilities about all commercial concentrating solar thermal power plants around the world
-      img: 'assets/docs/software/cspdata.png'
+      img: 'assets/docs/software/cspdata.webp'
 
     - title: 'Electricity mix optimization'
       authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla
       link: 'http://mixspain.psa.es'
       details: |
         Spanish mix optimizations for 2030, 2040 and 2050 applying Artificial Intelligence
-      img: 'assets/docs/software/mix.png'
+      img: 'assets/docs/software/mix.webp'
 
     - title: 'Hel-IoT web server: a smart heliostat development platform'
       link: 'https://doi.org/10.52825/solarpaces.v1i.721'
@@ -1680,21 +1680,21 @@ software:
         28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Albuquerque (USA), Sep 27 - 30, 2022.
       time: 2022
-      img: 'assets/docs/software/heliot.png'
+      img: 'assets/docs/software/heliot.webp'
 
     - title: 'Parabolic trough collector (PTC) power plant performance'
       authors: <b>J. Bonilla</b>, E. Zarza
       link: 'https://ptc-performance.web.app'
       details: |
         Web app to estimate the performance of a 50 MW PTC power plant with 8 hours of thermal storage in different locations around the world
-      img: 'assets/docs/software/performance.png'
+      img: 'assets/docs/software/performance.webp'
 
     - title: 'Solar tower, gas turbine and MED-TVC simulator'
       authors: <b>J. Bonilla</b>, P. Palenzuela, B. Ortega-Delgado, J.M. Serrano, J. Fernández-Reche, D.C. Alarcón-Padilla
       link: 'assets/docs/software/EDS_2022_poster.pdf'
       details: |
         Web app for the integration of a thermal seawater desalination system, based on Multi-Effect Distillation technology with Thermal Vapor Compression (MED-TVC), into a high-temperature power cycle (air Brayton cycle) and high-temperature Concentrating Solar Power (CSP) technology, Central Receiver Solar (CRS) tower system.
-      img: 'assets/docs/software/soltermin.png'
+      img: 'assets/docs/software/soltermin.webp'
 
     - title: 'Surf - Simulator builder'
       authors: <b>J. Bonilla</b>
@@ -1709,7 +1709,7 @@ software:
         - [Thermodynamic Properties of Solar Fluids](https://javier_bonilla.gitlab.io/surf-simulator/projects/SolarThermoPro/){:target="_blank"}
         - [Big Parabolic Trough Collector](https://javier_bonilla.gitlab.io/surf-simulator/projects/EuroTrough/){:target="_blank"}
         - [Heat Transfer Basics](https://javier_bonilla.gitlab.io/surf-simulator/projects/Heat-transfer-basics/){:target="_blank"}
-      img: 'assets/docs/software/surf.png'
+      img: 'assets/docs/software/surf.webp'
       img_style: 'margin-top: 20px;'
       img_position: 'align-items-top'
 
@@ -1718,7 +1718,7 @@ software:
       link: 'https://gitlab.com/javier_bonilla/Optifmus/'
       details: |
         Open source multi-platform software tool for optimization studies in FMI-compliant models applying genetic algorithms
-      img: 'assets/docs/software/optifmus.png'
+      img: 'assets/docs/software/optifmus.webp'
 
 oss:
   title: Contributions to Scientific Open Source Software
@@ -1730,7 +1730,7 @@ oss:
 
         - <b>Contribution</b>: code to read SolarPILOT (spt) files and import them in CoPylot.
       time: 2022
-      img: 'assets/docs/oss/solarpilot.jpeg'
+      img: 'assets/docs/oss/solarpilot.webp'
 
     - title: 'Fluter web ChartJS'
       link: 'https://github.com/vramosx/flutter_web_chartjs'
@@ -1739,7 +1739,7 @@ oss:
 
         - <b>Contribution</b>: linear, logarithm and time axes for charts.
       time: 2020
-      img: 'assets/docs/oss/flutter_web_chartjs.png'
+      img: 'assets/docs/oss/flutter_web_chartjs.webp'
 
     - title: 'ThermoCycle library'
       link: 'http://thermocycle.squoilin.eu/'
@@ -1748,7 +1748,7 @@ oss:
 
         - <b>Contribution</b>: improvements to the solar collector models.
       time: 2018
-      img: 'assets/docs/oss/logo_thermocycle.gif'
+      img: 'assets/docs/oss/logo_thermocycle.webp'
 
 review:
   title: Peer-review Activities
@@ -1758,7 +1758,7 @@ review:
       details: |
         Fomento a la investigación científica en el marco del programa paraguayo para el desarrollo de la ciencia y tecnología (PROCIENCIA II). Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED), Consejo Nacional de Ciencia y Tecnología (CONACYT), Paraguay.
       time: 2023
-      img: 'assets/docs/review/CYTED.jpg'
+      img: 'assets/docs/review/CYTED.webp'
       img_style: 'border: 0px;'
 
     - title: 'Regular reviews for scientific journals'
@@ -1766,7 +1766,7 @@ review:
       details: |
         Solar Energy, Renewable Energy, Energy, Energies, Applied Thermal Engineering, International Journal of Heat and Mass Transfer, etc.
       time: 2012 - Now
-      img: 'assets/docs/review/journals.png'
+      img: 'assets/docs/review/journals.webp'
       img_style: 'border: 0px;'
 
     - title: 'Regular reviews for scientific conferences'
@@ -1774,7 +1774,7 @@ review:
       details: |
         Concentrating Solar Power and Chemical Energy Systems (SolarPaces), International Renewable Energy Congress (IREC), International Conference on Sustainable Energy Information Technology, European Control Conference (ECC), Annual Conference of the IEEE Industrial Electronics Society (IECON), International Conference on Mathematical Modelling (MATHMOD), etc.
       time: 2012 - Now
-      img: 'assets/docs/review/conferences.png'
+      img: 'assets/docs/review/conferences.webp'
       img_style: 'border: 0px;'
 
 continuing:
@@ -1785,98 +1785,98 @@ continuing:
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 20 hours. Almería, September 18 - 21, 2023.
       time: 2023
-      img: 'assets/docs/continuing/React.png'
+      img: 'assets/docs/continuing/React.webp'
 
     - title: 'Sistemas Solares Térmicos de Media Concentración'
       link: 'assets/docs/continuing/media_concentración.pdf'
       details: |
         Dr. Eduardo Zarza, Plataforma Solar de Almería, 12 hours, May 15, 17, 18 and 23, 2023
       time: 2023
-      img: 'assets/docs/continuing/media_concentración.png'
+      img: 'assets/docs/continuing/media_concentración.webp'
 
     - title: 'La transición energética - La energía solar en el sistema eléctrico español'
       link: 'assets/docs/continuing/IEEE vTools Reservation Confirmation.pdf'
       details: |
         IEEE Power & Energy Society (PES), Webinar 11, Spain Section Chapter, PE31, 3 hours, May 19, 2022.
       time: 2022
-      img: 'assets/docs/continuing/IEEE vTools Reservation Confirmation.png'
+      img: 'assets/docs/continuing/IEEE vTools Reservation Confirmation.webp'
 
     - title: 'Neural networks applied to scientific and technical problems'
       link: 'assets/docs/continuing/NN.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 50 hours. Almería, October 4 - November 5, 2021.
       time: 2021
-      img: 'assets/docs/continuing/NN.png'
+      img: 'assets/docs/continuing/NN.webp'
 
     - title: 'Design thinking and creativity techniques'
       link: 'assets/docs/continuing/courses.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 5 hours. Almería, May 24 - 25, 2021.
       time: 2021
-      img: 'assets/docs/continuing/courses.png'
+      img: 'assets/docs/continuing/courses.webp'
 
     - title: 'Introduction to applied supervised machine learning'
       link: 'assets/docs/continuing/ML.pdf'
       details: |
         Dr. Antonio Jesús Fernández (Universidad de Extremadura), Universidad of Almería, Online, course, 10 hours. Almería, May 26 - 28, 2020
       time: 2020
-      img: 'assets/docs/continuing/ML.png'
+      img: 'assets/docs/continuing/ML.webp'
 
     - title: 'Jornada sobre Transición del sector eléctrico español hacia un mercado mayoritariamente renovable en 2030'
       link: 'assets/docs/continuing/Transición.pdf'
       details: |
         Máster Unversitario en Energía Solar, Universidad of Almería, Almería, Presential, course, 5 hours, 16 de mayo de 2019.
       time: 2019
-      img: 'assets/docs/continuing/Transición.png'
+      img: 'assets/docs/continuing/Transición.webp'
 
     - title: 'Practical introduction to quantum computing'
       link: 'assets/docs/continuing/Curso computación cuántica.pdf'
       details: |
         Dr. Elías Fernández-Combarro Álvarez (Universidad de Oviedo), Universidad of Almería, Presential, course, 10 hours. Almería, October 1 - 2, 2019
       time: 2019
-      img: 'assets/docs/continuing/Curso computación cuántica.png'
+      img: 'assets/docs/continuing/Curso computación cuántica.webp'
 
     - title: 'Industry 4.0'
       link: 'assets/docs/continuing/2018.pdf'
       details: |
         Dr. Ramón Vilanova (Universidad Autónoma de Barcelona), Universidad of Almería, Presential, course, 10 hours. Almería, November 14 - 15, 2018
       time: 2018
-      img: 'assets/docs/continuing/2018.png'
+      img: 'assets/docs/continuing/2018.webp'
 
     - title: 'Advanced control techniques for process control'
       link: 'assets/docs/continuing/2018.pdf'
       details: |
         Dr. Antonio Visioli (University of Brescia), Universidad of Almería, Presential, course, 10 hours. Almería, November 25 - 26, 2018
       time: 2018
-      img: 'assets/docs/continuing/2018.png'
+      img: 'assets/docs/continuing/2018.webp'
 
     - title: 'Programming of GPU cards with CUDA'
       link: 'assets/docs/continuing/CUDA.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy, Industry and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 15 hours. Almería, October 16 - 20, 2017
       time: 2017
-      img: 'assets/docs/continuing/CUDA.png'
+      img: 'assets/docs/continuing/CUDA.webp'
 
     - title: 'Introduction to acceleration and parallelization of scientific code'
       link: 'assets/docs/continuing/Paralelización.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy, Industry and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 12 hours. Almería, October 9 - 12, 2017
       time: 2017
-      img: 'assets/docs/continuing/Paralelización.png'
+      img: 'assets/docs/continuing/Paralelización.webp'
 
     - title: 'Confort y Edificación Sostenible, una respuesta desde la Automática y las Micro-Redes Energéticas'
       link: 'assets/docs/continuing/Pita_2016.pdf'
       details: |
         Parque Científico-Tecnológico de Almería (PITA), Presential, course, 5 hours. Almería, Oct 20, 2016
       time: 2016
-      img: 'assets/docs/continuing/Pita_2016.png'
+      img: 'assets/docs/continuing/Pita_2016.webp'
 
     - title: 'Mathematica and SystemModeler'
       link: 'assets/docs/continuing/Mathematica.pdf'
       details: |
         Wolfram Research, Universidad of Almería, Presential, course, 8 hours. Almería, May 16 - 17, 2016
       time: 2016
-      img: 'assets/docs/continuing/Mathematica.png'
+      img: 'assets/docs/continuing/Mathematica.webp'
 
     # - title: 'Technical data with DIAdem and LabVIEW'
     #  link: 'assets/docs/continuing/'
@@ -1889,98 +1889,98 @@ continuing:
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 12 hours. Almería, October 2 - 10, 2012
       time: 2012
-      img: 'assets/docs/continuing/Curso Algoritmos Evolutivos.png'
+      img: 'assets/docs/continuing/Curso Algoritmos Evolutivos.webp'
 
     - title: 'Introduction to Python programming'
       link: 'assets/docs/continuing/Curso Python.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Economy and Competitiveness, Government of Spain, CIEMAT in-company training, Online, course, 12 hours. Almería, June 25 - July 6, 2012
       time: 2012
-      img: 'assets/docs/continuing/Curso Python.png'
+      img: 'assets/docs/continuing/Curso Python.webp'
 
     - title: 'Introduction to the MPI and OpenMP programming models in the Euler supercomputer'
       link: 'assets/docs/continuing/Curso MPI OpenMP.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, course, 10 hours. Almería, June 13 - 17, 2011
       time: 2011
-      img: 'assets/docs/continuing/Curso MPI OpenMP.png'
+      img: 'assets/docs/continuing/Curso MPI OpenMP.webp'
 
     - title: 'Engineering equation solver, CIESOL'
       link: 'assets/docs/continuing/EES.pdf'
       details: |
         Centro Mixto UAL-PSA.CIEMAT, conducted by Plataforma Solar de Almería (PSA), Presential, seminar, 16 hours. Almería, December 1 - 2, 2009
       time: 2009
-      img: 'assets/docs/continuing/EES.png'
+      img: 'assets/docs/continuing/EES.webp'
 
     - title: 'Efficient presentations'
       link: 'assets/docs/continuing/PE.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, CIEMAT in-company training, Online, course, 20 hours. Almería, November 23 - December 18, 2009
       time: 2009
-      img: 'assets/docs/continuing/PE.png'
+      img: 'assets/docs/continuing/PE.webp'
 
     - title: 'Educational technology: Remote virtual laboratories, interactive tools and Microsoft collaborative technologies'
       link: 'assets/docs/continuing/TE.pdf'
       details: |
         University of Almería, coducted by Prof. Dr. Manuel Berenguel Soria, Vicar (Almería), Presential, course, 25 hours. Vicar (Almería), July 13 - 16, 2009
       time: 2009
-      img: 'assets/docs/continuing/TE.png'
+      img: 'assets/docs/continuing/TE.webp'
 
     - title: 'Occupational health & safety management systems at the Plataforma Solar de Almería'
       link: 'assets/docs/continuing/Riesgos Laborales 09.pdf'
       details: |
         Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, Almería, Online, course, 9.5 hours. Almería, October 27 - 31, 2008
       time: 2008
-      img: 'assets/docs/continuing/Riesgos Laborales 09.png'
+      img: 'assets/docs/continuing/Riesgos Laborales 09.webp'
 
     - title: 'Identification of dynamic systems'
       link: 'assets/docs/continuing/ID.pdf'
       details: |
         University of Almería, conducted by Prof. Dr. Daniel E. Rivera, Arizona State University (EEUU), Almeria, Presential, course, 15 hours. Almeria, September 8 - 10, 2008
       time: 2008
-      img: 'assets/docs/continuing/ID.png'
+      img: 'assets/docs/continuing/ID.webp'
 
     - title: 'The influence of IT in the learning process: a practical point of view'
       link: 'assets/docs/continuing/IN.pdf'
       details: |
         University of Almería, coducted by Prof. Dr. Manuel Berenguel Soria, Vicar (Almería), Pressential, course, 25 hours. Vicar (Almería), July 16 - 18, 2008
       time: 2008
-      img: 'assets/docs/continuing/IN.png'
+      img: 'assets/docs/continuing/IN.webp'
 
     - title: 'Process control: application in the Matlab-Simulink environment'
       link: 'assets/docs/continuing/CP.pdf'
       details: |
         National Distance Learning University (UNED), coducted by Prof. Dr. Sebastián Dormido Bencomo, El Barco de Ávila (Ávila), Presential, course, 35 hours. El Barco de Ávila (Ávila), July 16 - 20, 2007
       time: 2007
-      img: 'assets/docs/continuing/CP.png'
+      img: 'assets/docs/continuing/CP.webp'
 
     - title: 'Modelica and OpenModelica'
       link: 'assets/docs/continuing/MO.pdf'
       details: |
         National Distance Learning University (UNED), Departamento de Informática y Automática, conducted by Prof. Dr. Peter Fritzson, Linköping University (Sweden), Madrid, Presential, course, 25 hours. Madrid, March 26 - 28, 2007
       time: 2007
-      img: 'assets/docs/continuing/MO.png'
+      img: 'assets/docs/continuing/MO.webp'
 
     - title: 'LaTeX: a scientific editing platform'
       link: 'assets/docs/continuing/LATEX.pdf'
       details: |
         University of Almería, Enseñanzas propias, Almería, Presential, course, 40 hours. Almería, March 8 - 30, 2007
       time: 2007
-      img: 'assets/docs/continuing/LATEX.png'
+      img: 'assets/docs/continuing/LATEX.webp'
 
     - title: 'Programming languages: Java and Visual Basic'
       link: 'assets/docs/continuing/LP.pdf'
       details: |
         The Andalusian Government, Employment and technological development regional Ministry, Info-Studio Academy, Almería, occupational formation course, 400 hours. Almería, January 8 - May 3, 2004
       time: 2004
-      img: 'assets/docs/continuing/LP.png'
+      img: 'assets/docs/continuing/LP.webp'
 
     - title: 'Legal and technical issues of security on the Internet. An approach to safe e-commerce'
       link: 'assets/docs/continuing/AT.pdf'
       details: |
         International university of Andalusia, University of Almería, Almería, Presential, course, 30 hours. Almería, July 24 - 28, 2000
       time: 2000
-      img: 'assets/docs/continuing/AT.png'
+      img: 'assets/docs/continuing/AT.webp'
 
 stays:
   title: Research Stays
@@ -1990,14 +1990,14 @@ stays:
       details: |
         ETH Zurich, Department of Computer Science, Supervisor: Prof Dr. François E. Cellier, 3 months, Zurich (Switzerland), Sep 3 - Dec 3, 2011
       time: 2011
-      img: 'assets/docs/stays/ETH.png'
+      img: 'assets/docs/stays/ETH.webp'
 
     - title: 'Modeling of two-phase flow evaporators for parabolic-trough solar thermal power plants'
       link: 'assets/docs/stays/UNED.pdf'
       details: |
         National Distance Learning University (UNED), Department of Computer Science and Automation, Supervisor: Prof Dr. Sebastián Dormido, 1 month, Madrid (Spain), Mar 1 - 31, 2010
       time: 2010
-      img: 'assets/docs/stays/UNED.png'
+      img: 'assets/docs/stays/UNED.webp'
 
 host:
   title: Host of Facility Access Activities
@@ -2007,7 +2007,7 @@ host:
       details: |
         Access to Plataforma Solar de Almería (PSA) facilities. Collaboration for the experimental validation of a Modelica-based dynamic parabolic trough collector model, A. Desideri, R. Dickes, S. Quoilin / University of Liege (Belgium), 3 weeks, Jun 27 - Jul 8, 2016
       time: 2016
-      img: 'assets/docs/host/periodic2-sferaii-core-of-the-report.png'
+      img: 'assets/docs/host/periodic2-sferaii-core-of-the-report.webp'
 
 prototypes:
   title: Prototypes and pilot plants
@@ -2018,14 +2018,14 @@ prototypes:
         Generation Knowledge Projects, Ministry of Science and Innovation, PID2021-126805OB-100, Work team member,
         budget: 145,200 €
       time: 2022 - 2025
-      img: 'assets/docs/projects_nat/HELIOSUN_certificate.png'
+      img: 'assets/docs/projects_nat/HELIOSUN_certificate.webp'
 
     - title: 'Solar tower power mockup for the assessment of advanced control techniques'
       link: 'http://doi.org/10.1016/j.renene.2019.12.075'
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, M. Berenguel / UAL, J. Fernández-Reche, G. García / CIEMAT
       details: 'Renewable Energy, Volume 149, pages 682-690, ISSN: 0960-1481. DOI: 10.1016/j.renene.2019.12.075, 2020.<br>**JIF**: 8.001 (2020),<br>**Q1** - Energy & fuels (16/144, 86.40% percentile)'
       time: 2020
-      img: 'assets/images/journals/renewableEnergy.gif'
+      img: 'assets/images/journals/renewableEnergy.webp'
       img_title: 'Renewable Energy'
 
 experimental:
@@ -2037,7 +2037,7 @@ experimental:
       details: |
         Experimental campaign to develop a new tracking strategy based on artificial intelligence and computer vision
       time: 2018 - Now
-      img: 'assets/docs/campaigns/CESA.jpg'
+      img: 'assets/docs/campaigns/CESA.webp'
 
     - title: NEP PolyTrough 1200 solar field
       link: 'http://doi.org/10.1016/j.applthermaleng.2018.11.093'
@@ -2045,7 +2045,7 @@ experimental:
       details: |
         Experimental campaign for the validation of small parabolic trough collector models
       time: 2019
-      img: 'assets/docs/campaigns/nep.jpg'
+      img: 'assets/docs/campaigns/nep.webp'
 
     - title: AQUASOL Plant
       link: http://doi.org/10.1016/j.enconman.2020.112705
@@ -2053,7 +2053,7 @@ experimental:
       details: |
         Experimental campaign to validate a steam generator model and the coupling of the elements of the AQUASOL plant
       time: 2018 - 2019
-      img: 'assets/docs/campaigns/aquasol.jpg'
+      img: 'assets/docs/campaigns/aquasol.webp'
 
     - title: Heat Transfer Fluid (HTF) test loop
       link: 'http://doi.org/10.1016/j.solener.2018.08.026'
@@ -2061,7 +2061,7 @@ experimental:
       details: |
         Experimental campaign for the validation of parabolic trough collector models
       time: 2016
-      img: 'assets/docs/campaigns/htf.jpg'
+      img: 'assets/docs/campaigns/htf.webp'
 
     - title: Molten Salt Test Loop for Thermal Energy Systems (MOSA)
       link: 'http://doi.org/10.1016/j.energy.2017.11.017'
@@ -2069,7 +2069,7 @@ experimental:
       details: |
         Experimental campaign for the validation of heat exchanger and molten salt thermal storage system models
       time: 2016
-      img: 'assets/docs/campaigns/mosa.jpg'
+      img: 'assets/docs/campaigns/mosa.webp'
 
 collaborations:
   title: Main International Collaborations
@@ -2078,7 +2078,7 @@ collaborations:
       details: |
         Pete Warden & Aakanksha Chowdhery. TensorFlow Mobile/Embedded Team, Google Brain, USA
       time: 2018 - Now
-      img: 'assets/docs/colaborations/google.png'
+      img: 'assets/docs/colaborations/google.webp'
       img_style: 'border: 0px;'
 
     - title: 'New design methods for heat exchangers'
@@ -2088,7 +2088,7 @@ collaborations:
         *Related publications*:
         - [A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm](http://doi.org/10.1016/j.applthermaleng.2018.04.028){:target="_blank"}
       time: 2018
-      img: 'assets/docs/colaborations/teheran.png'
+      img: 'assets/docs/colaborations/teheran.webp'
       img_style: 'border: 0px; margin-top: 5px;'
       img_position: 'align-items-top'
 
@@ -2099,7 +2099,7 @@ collaborations:
         *Related publications*:
         - [Steady-state and dynamic validation of a parabolic trough collector model using the ThermoCycle Modelica library](http://doi.org/10.1016/j.solener.2018.08.026){:target="_blank"}
       time: 2016 - 2018
-      img: 'assets/docs/colaborations/ule.png'
+      img: 'assets/docs/colaborations/ule.webp'
       img_style: 'border: 0px; margin-top: 5px;'
       img_position: 'align-items-top'
 
@@ -2117,7 +2117,7 @@ collaborations:
         - [Dynamic modeling and simulation of a double-effect absorption heat pump](http://doi.org/10.1016/j.ijrefrig.2016.07.018){:target="_blank"}
         - [Predictive control applied to a solar desalination plant connected to a greenhouse with daily variation of irrigation water demand](http://doi.org/10.3390/en9030194){:target="_blank"}
       time: 2016 - Now
-      img: 'assets/docs/colaborations/csiro.jpeg'
+      img: 'assets/docs/colaborations/csiro.webp'
       img_style: 'border: 0px; margin-top: 5px;'
       img_position: 'align-items-top'
 
@@ -2130,7 +2130,7 @@ collaborations:
         - [Object-oriented library of switching moving boundary models for two-phase flow evaporators and condensers](http://doi.org/10.3384/ecp1207671){:target="_blank"}
         - [Object-oriented modeling of switching moving boundary models for two-phase flow evaporators](http://doi.org/10.3182/20120215-3-AT-3016.00189){:target="_blank"}
       time: 2011 - 2015
-      img: 'assets/docs/colaborations/eth.png'
+      img: 'assets/docs/colaborations/eth.webp'
       img_style: 'border: 0px; margin-top: 5px;'
       img_position: 'align-items-top'
 
@@ -2146,28 +2146,28 @@ languages:
       details: |
         Escuela Oficial de Idiomas, Consejería de Educación de la Junta de Andalucía, July 2015
       time: 2015
-      img: 'assets/docs/languages/EOI2.png'
+      img: 'assets/docs/languages/EOI2.webp'
 
     - title: 'Certificate in Advanced English (CAE)'
       link: 'assets/docs/languages/CAE.pdf'
       details: |
         University of Cambridge, ESOL Examinations, Effective Operational Proficiency Level, General English, Level C1 of CEFR. Grade: C, Score: 69/100, June 2010
       time: 2010
-      img: 'assets/docs/languages/CAE.png'
+      img: 'assets/docs/languages/CAE.webp'
 
     - title: 'Advanced English I'
       link: 'assets/docs/languages/IA.pdf'
       details: |
         Andalusian Entrepreneur Network Foundation (CEA), financed by the Andalusian Government and the European Social Fund, online course, 50 hours. Almería, July 2 - 17, 2010
       time: 2010
-      img: 'assets/docs/languages/IA.png'
+      img: 'assets/docs/languages/IA.webp'
 
     - title: 'First Certificate in English (FCE)'
       link: 'assets/docs/languages/FCE.pdf'
       details: |
         University of Cambridge, ESOL Examinations, Vantage Level, General English, Level B2 of CEFR (The Common European Framework of Reference). Grade: B, Score: 75/100, June 2009
       time: 2009
-      img: 'assets/docs/languages/FCE.png'
+      img: 'assets/docs/languages/FCE.webp'
 
 entrepreneurship:
   title: Entrepreneurship
@@ -2180,7 +2180,7 @@ entrepreneurship:
         - **Participants**: **J. Bonilla**, J.A. Carballo / CIEMAT
         - **Idea**: Smart Heliostat.
       time: 2022
-      img: 'assets/docs/entrepreneurship/FORMULARIO Presentación de ideas-CIEMAT Emprende - Heliot.png'
+      img: 'assets/docs/entrepreneurship/FORMULARIO Presentación de ideas-CIEMAT Emprende - Heliot.webp'
 
 transfer:
   title: Research Studies
@@ -2192,7 +2192,7 @@ transfer:
         - **Client**: European Solar Thermal Electricity Association (ESTELA).
         - **Description**: Portugal electricity mix optimization for 2030 using the developed software tool based on artificial intelligence. Collaboration with Associação Portuguesa de Energias Renováveis (APREN) to establish the assumptions and goals considered in this study.
       time: 2021
-      img: 'assets/docs/transfer/PortugalMixStudy.png'
+      img: 'assets/docs/transfer/PortugalMixStudy.webp'
 
 committees:
   title: Membership to Scientific Committees
@@ -2203,21 +2203,21 @@ committees:
         The European Energy Research Alliance (EERA), Subprogram 2: Data Science & Artificial Intelligence<br>
         <a href="https://www.eera-set.eu/component/projects/projects.html?id=183" target="_blank">Website</a>
       time: 2021 - Now
-      img: 'assets/docs/committees/dfe_certificate.png'
+      img: 'assets/docs/committees/dfe_certificate.webp'
 
     - title: 'II Simposion Nacional de Ingeniería Hortícola (SNIH)'
       link: 'assets/docs/committees/SNIH16-organización.pdf'
       details: |
         Automatización y tecnologias de la información y comunicaciones (TICs) en la agricultura, University of Almería, February 10 - 12, 2016.
       time: 2016
-      img: 'assets/docs/committees/SNIH16-organización.png'
+      img: 'assets/docs/committees/SNIH16-organización.webp'
 
     - title: 'International Renewable Energy Congress (IREC)'
       link: 'https://irec-conference.com/committees/'
       details: |
         Institute of Electrical and Electronics Engineers (IEEE) Power & Energy Society, International program committee member
       time: 2015 - Now
-      img: 'assets/docs/committees/irec.png'
+      img: 'assets/docs/committees/irec.webp'
 
 lines:
   title: Membership to Strategic Research Lines
@@ -2227,14 +2227,14 @@ lines:
       details: |
         Strategic Research Line, Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, April 2021
       time: 2021 - 2025
-      img: 'assets/docs/research_lines/Research line Sustainable Energy Systems Analysis_final version.png'
+      img: 'assets/docs/research_lines/Research line Sustainable Energy Systems Analysis_final version.webp'
 
     - title: 'Plataforma Solar de Almería (PSA)'
       link: 'assets/docs/research_lines/PSA Description and Action Plan 2021-2025.pdf'
       details: |
         Strategic Research Line, Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain, April 2021
       time: 2021 - 2025
-      img: 'assets/docs/research_lines/PSA Description and Action Plan 2021-2025.png'
+      img: 'assets/docs/research_lines/PSA Description and Action Plan 2021-2025.webp'
 
 footer: >
   <i class="fa-regular fa-copyright"></i> 2025 - Javier Bonilla</a>
