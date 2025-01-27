@@ -194,14 +194,14 @@ publications:
   # Percentile Rank = (1 - (Rank - 1) / Total Journals) * 100
   title: Scientific Publications
   items:
-    #- title: A real-time and modular weather station software architecture based on microservices
-    #  link: 'https://doi.org/10.1016/j.envsoft.2025.XXXXXX'
-    #  authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, V. Abad-Alcaraz, M. Castilla, J.D. Álvarez / UAL, J. Fernández-Reche / CIEMAT
-    #  details: 'Environmental Modelling & Software, Volume XXX, XXXXXX, ISSN: 1364-8152. DOI: 10.1016/j.envsoft.2025.XXXXXX, 2025.<br>**JIF**: 4.8 (2023),<br>**Q1** - Computer science, interdisciplinary applications (33/170, 81.18% percentile)'
-    #  time: 2025
-    #  img: 'assets/images/journals/envsoft.webp'
-    #  plumx: '10.1016/j.envsoft.2025.XXXXXX'
-    #  img_title: 'Environmental Modelling & Software'
+    - title: A real-time and modular weather station software architecture based on microservices
+      link: 'https://doi.org/10.1016/j.envsoft.2025.106337'
+      authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, V. Abad-Alcaraz, M. Castilla, J.D. Álvarez / UAL, J. Fernández-Reche / CIEMAT
+      details: 'Environmental Modelling & Software, 106337, ISSN: 1364-8152. DOI: 10.1016/j.envsoft.2025.106337, 2025.<br>**JIF**: 4.8 (2023),<br>**Q1** - Computer science, interdisciplinary applications (33/170, 81.18% percentile)'
+      time: 2025
+      img: 'assets/images/journals/envsoft.webp'
+      plumx: 'https://doi.org/10.1016/j.envsoft.2025.106337'
+      img_title: 'Environmental Modelling & Software'
 
     - title: Reinforcement learning for heliostat aiming - Improving the performance of Solar Tower plants
       link: 'https://doi.org/10.1016/j.apenergy.2024.124574'
