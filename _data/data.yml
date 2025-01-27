@@ -564,6 +564,7 @@ conferences_international:
         29<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Sydney (Australia), Oct 10 - 13, 2023.
       time: 2023
+      plumx: '10.52825/solarpaces.v2i.811'
       img: 'assets/docs/conf_int/SolarPACES_CSP_Data.webp'
 
     - title: 'Smart Heliostat Artificial Vision Tracking System'
@@ -601,6 +602,7 @@ conferences_international:
         28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Albuquerque (USA), Sep 27 - 30, 2022.
       time: 2022
+      plumx: '10.52825/solarpaces.v1i.721'
       img: 'assets/docs/conf_int/Hel-IoT_web_Server.webp'
 
     - title: Assessment of the integration of a MED-TVC plant into a solar tower with Brayton cycle
@@ -619,6 +621,7 @@ conferences_international:
         26<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces),<br>
         Regular paper in Proceedings, Oral presentation, DOI: 10.1063/5.0085735,<br> Albuquerque (USA), Online, Sep 28 - Oct 2, 2020.
       time: 2020
+      plumx: '10.1063/5.0085735'
       img: 'assets/docs/conf_int/ipp.webp'
 
     - title: Optimización del desarrollo de la energia termosolar en españa en el contexto de la transición energética
@@ -629,6 +632,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10400.9/3340,<br>
         Lisboa (Portugal), Online, November, 3 - 5, 2020.
       time: 2020
+      plumx: '10400.9/3340'
       img: 'assets/docs/conf_int/cies2020.webp'
 
     - title: Machine learning perspectives in concentrating solar thermal technology
@@ -649,6 +653,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.18086/swc.2019.31.05.<br>
         Santiago (Chile), Nov 4 - 7, 2019.
       time: 2019
+      plumx: '10.18086/swc.2019.31.05'
       img: 'assets/docs/conf_int/dimensioning.webp'
 
     - title: Machine learning for solar trackers
@@ -659,6 +664,7 @@ conferences_international:
         Regular paper in Proceedings, Poster, DOI: 10.1063/1.5117524,
         Casablanca (Morocco), Oct 2 - 5, 2018.
       time: 2018
+      plumx: '10.1063/1.5117524'
       img: 'assets/docs/conf_int/solarTrackers.webp'
 
     - title: Development of an open source multi-platform software tool for parameter estimation studies in FMI models
@@ -669,6 +675,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation,<br>
         DOI: 10.3384/ecp17132683, Prague (Czech Republic), May 15 - 17, 2017.
       time: 2017
+      plumx: '10.3384/ecp17132683'
       img: 'assets/docs/conf_int/fmi.webp'
 
     - title: Optimal operating conditions analysis for a double-effect absorption heat pump coupled to a multi effect distillation plant
@@ -689,6 +696,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.1109/MED.2016.7535952, 
         Athens (Greece), June 21 - 24, 2016.
       time: 2016
+      plumx: '10.1109/MED.2016.7535952'
       img: 'assets/docs/conf_int/hysol.webp'
 
     - title: Operation & training tool for a gas - molten salt heat recovery demonstrator facility
@@ -699,6 +707,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.procs.2016.04.232, 
         Madrid (Spain), May 23 - 26, 2016.
       time: 2016
+      plumx: '10.1016/j.procs.2016.04.232'
       img: 'assets/docs/conf_int/trainingTool.webp'
 
     - title: Optimal operating conditions analysis of a multi-effect distillation plant
@@ -719,6 +728,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.ifacol.2015.09.166, 
         Saint-Petersburg (Rusia), June 24 - 26, 2015.
       time: 2015
+      plumx: '10.1016/j.ifacol.2015.09.166'
       img: 'assets/docs/conf_int/micnon2015.webp'
 
     - title: Control strategies in a thermal oil - molten salt heat exchanger
@@ -729,6 +739,7 @@ conferences_international:
         Regular paper in Proceedings, Poster, DOI: 10.1063/1.4949227, 
         Cape Town (South Africa), October 13 - 16, 2015.
       time: 2015
+      plumx: '10.1063/1.4949227'
       img: 'assets/docs/conf_int/controlStrategies.webp'
 
     - title: Experimental calibration of heat transfer and thermal losses in a shell-and-tube heat exchanger
@@ -739,6 +750,7 @@ conferences_international:
         Regular paper in Proceedings, Poster, DOI: 10.3384/ecp15118873, 
         Versailles (France), September 21 -23, 2015.
       time: 2015
+      plumx: '10.3384/ecp15118873'
       img: 'assets/docs/conf_int/calibration.webp'
 
     - title: A combinatorial optimization problem to control a solar reactor
@@ -749,6 +761,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.1016/j.egypro.2014.03.216, 
         Las Vegas (USA), September 17 - 20, 2013.
       time: 2013
+      plumx: '10.1016/j.egypro.2014.03.216'
       img: 'assets/docs/conf_int/combinatorial.webp'
 
     - title: Object-oriented library of switching moving boundary models for two-phase flow evaporators and condensers
@@ -759,6 +772,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.3384/ecp1207671, 
         Munich (Germany), September 3 - 5, 2012.
       time: 2012
+      plumx: '10.3384/ecp1207671'
       img: 'assets/docs/conf_int/modelica2012.webp'
 
     - title: Object-oriented modeling of switching moving boundary models for two-phase flow evaporators
@@ -769,6 +783,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.3182/20120215-3-AT-3016.00189, 
         Vienna (Austria), February 5 - 7, 2012.
       time: 2012
+      plumx: '10.3182/20120215-3-AT-3016.00189'
       img: 'assets/docs/conf_int/mathmod2012.webp'
 
     - title: Exploiting OpenMP in the initial section of modelica models
@@ -789,6 +804,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.3384/ecp09430062, 
         Como (Italy), September 20 - 22, 2009.
       time: 2009
+      plumx: '10.3384/ecp09430062'
       img: 'assets/docs/conf_int/cesa.webp'
 
     - title: Chattering in dynamic mathematical two-phase flow models
@@ -799,6 +815,7 @@ conferences_international:
         Regular paper in Proceedings, Oral presentation, DOI: 10.23919/ECC.2009.7075015, 
         Budapest (Hungary), August 23 - 26, 2009.
       time: 2009
+      plumx: '10.23919/ECC.2009.7075015'
       img: 'assets/docs/conf_int/ecc2009.webp'
 
     - title: Object oriented modelling and simulation of acurex solar thermal power plant
@@ -832,6 +849,7 @@ conferences_national:
         Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497498609.382,
         Zaragoza (Spain), September 6 - 8, 2023.
       time: 2023
+      plumx: '10.17979/spudc.9788497498609.382'
       img: 'assets/docs/conf_nat/JA_2023_1.webp'
 
     - title: Operación óptima de un sistema de refrigeración combinada
@@ -842,6 +860,7 @@ conferences_national:
         Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497498609.477,
         Zaragoza (Spain), September 6 - 8, 2023.
       time: 2023
+      plumx: '10.17979/spudc.9788497498609.477'
       img: 'assets/docs/conf_nat/JA_2023_2.webp'
 
     - title: Control de un recuperador de sales en una planta termosolar híbrida
@@ -852,6 +871,7 @@ conferences_national:
         Regular paper in Proceedings, Poster, DOI: 10.17979/spudc.9788497497169.421,
         Ferrol (Spain), September 4 - 6, 2019.
       time: 2019
+      plumx: '10.17979/spudc.9788497497169.421'
       img: 'assets/docs/conf_nat/JA_2019.webp'
 
     - title: Modelado y optimización para una gestión eficiente de recursos en desalación solar
