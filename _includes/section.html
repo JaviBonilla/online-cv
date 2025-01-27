@@ -69,15 +69,16 @@
               {% if item.link %}
                 <a href="{{ item.link }}" title="{{ item.img_title }}" target="_blank">
               {% endif %}
-                <img class="image rounded img-fluid" src="{{ item.img }}" alt="Journal image" style="{{ item.img_style }}; max-width: 100px;">
+                <img class="image rounded img-fluid" src="{{ item.img }}" alt="Journal image" style="{{item.img_style}}; max-width: 100px;">
               {% if item.link %}                
                 </a>
               {% endif %}
               {% if item.plumx %}
                 <div style="margin-top: 10px;">
-                  <center>
+                    <span class="__dimensions_badge_embed__" data-doi='{{item.plumx}}' data-style="small_rectangle" data-hide-zero-citations="true"></span>
+                </div>                  
+                <div style="margin-top: 4px;">
                     <div class='altmetric-embed' data-badge-type="2" data-hide-no-mentions="true" data-link-target="tab" data-badge-popover='right' data-doi='{{item.plumx}}'></div>
-                  </center>
                 </div>
               {% endif %}
             </div>
