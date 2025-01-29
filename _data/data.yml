@@ -55,23 +55,17 @@ sidebar:
         link: '#conf-nat-section'
       - item: Intellectual Property
         link: '#ip-section'
-      - item: Technology Transfer
-        link: '#research-contracts-section'        
       - item: '<font color="#DDDDDD"> Other contributions: </font>'
+      - item: "&emsp;Technology Transfer"
+        link: '#research-contracts-section'      
       - item: "&emsp;Scientific Software"
         link: '#software-section'
       - item: "&emsp;Contributions to Scientific Software"
         link: '#oss-section'        
-      - item: "&emsp;Prototypes and Pilot Plants"
-        link: '#prototypes-section'
       - item: "&emsp;Experimental Campaigns"
         link: '#experimental-section'
-      - item: "&emsp;Invited Presentations"
-        link: '#presentations-section'
-      - item: "&emsp;Membership to Research Groups"
-        link: '#research-groups-section'
-      - item: "&emsp;Peer-review Activities"
-        link: '#review-section'
+      - item: "&emsp;Prototypes and Pilot Plants"
+        link: '#prototypes-section'
 
       - header: '<font color="#F7DC6F">B - Other curricular merits</font>'
 
@@ -88,6 +82,14 @@ sidebar:
       - item: '<font color="#DDDDDD"> Other contributions: </font>'
       - item: "&emsp;National Research Projects"
         link: '#nat-projects-section'
+      - item: "&emsp;Invited Presentations"
+        link: '#presentations-section'
+      - item: "&emsp;Membership to Research Groups"
+        link: '#research-groups-section'
+      - item: "&emsp;Peer-review Activities"
+        link: '#review-section'
+      - item: '&emsp;Membership to Strategic Research Lines'
+        link: '#lines-section'            
 
       - header: '<font color="#F7DC6F">C - Internationalization</font>'    
 
@@ -96,7 +98,9 @@ sidebar:
       - item: Membership to Scientific Committees
         link: '#committees-section'
       - item: Research Studies
-        link: '#transfer-section'        
+        link: '#transfer-section'
+      - item: R&D international project reviewer
+        link: '#review-section'              
       - item: Research Stays
         link: '#stays-section'
       - item: Host of Facility Access Activities
@@ -109,9 +113,7 @@ sidebar:
       - header: '<font color="#F7DC6F">D - Leadership</font>'
 
       - item: Press News
-        link: '#press-section'
-      - item: Membership to Strategic Research Lines
-        link: '#lines-section'        
+        link: '#press-section'   
 
       - header: '<br>'
        
@@ -1773,7 +1775,7 @@ oss:
 review:
   title: Peer-review Activities
   items:
-    - title: 'R&D project reviewer'
+    - title: 'R&D international project reviewer'
       link: 'assets/docs/review/CONACYT_2023.pdf'
       details: |
         Fomento a la investigación científica en el marco del programa paraguayo para el desarrollo de la ciencia y tecnología (PROCIENCIA II). Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED), Consejo Nacional de Ciencia y Tecnología (CONACYT), Paraguay.
@@ -2101,25 +2103,16 @@ collaborations:
       img: 'assets/docs/colaborations/google.webp'
       img_style: 'border: 0px;'
 
-    - title: 'New design methods for heat exchangers'
+    - title: 'Object-oriented modeling and simulation of complex physical systems'
       details: |
-        Reza Zarghami, Ahad Mohammadi & Shahab Golshan. Process Design and Simulation Research Centre, School of Chemical Engineering, College of Engineering, University of Tehran, Iran.
+        François E. Cellier. Department of Computer Science, ETH Zurich, Switzerland.
 
         *Related publications*:
-        - [A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm](http://doi.org/10.1016/j.applthermaleng.2018.04.028){:target="_blank"}
-      time: 2018
-      img: 'assets/docs/colaborations/teheran.webp'
-      img_style: 'border: 0px; margin-top: 5px;'
-      img_position: 'align-items-top'
-
-    - title: 'Dynamic modeling, validation and optimization of solar thermal systems'
-      details: |
-        Sylvain Quoilin, Adriano Desideri & Rémi Dickes. Aerospace and Mechanical Engineering Department, University of Liege, Belgium.
-
-        *Related publications*:
-        - [Steady-state and dynamic validation of a parabolic trough collector model using the ThermoCycle Modelica library](http://doi.org/10.1016/j.solener.2018.08.026){:target="_blank"}
-      time: 2016 - 2018
-      img: 'assets/docs/colaborations/ule.webp'
+        - [Switching moving boundary models for two-phase flow evaporators and condensers](http://doi.org/10.1016/j.cnsns.2014.06.035){:target="_blank"}
+        - [Object-oriented library of switching moving boundary models for two-phase flow evaporators and condensers](http://doi.org/10.3384/ecp1207671){:target="_blank"}
+        - [Object-oriented modeling of switching moving boundary models for two-phase flow evaporators](http://doi.org/10.3182/20120215-3-AT-3016.00189){:target="_blank"}
+      time: 2011 - 2015
+      img: 'assets/docs/colaborations/eth.webp'
       img_style: 'border: 0px; margin-top: 5px;'
       img_position: 'align-items-top'
 
@@ -2139,18 +2132,28 @@ collaborations:
       time: 2016 - Now
       img: 'assets/docs/colaborations/csiro.webp'
       img_style: 'border: 0px; margin-top: 5px;'
-      img_position: 'align-items-top'
+      img_position: 'align-items-top'      
 
-    - title: 'Object-oriented modeling and simulation of complex physical systems'
+    - title: 'Dynamic modeling, validation and optimization of solar thermal systems'
       details: |
-        François E. Cellier. Department of Computer Science, ETH Zurich, Switzerland.
+        Sylvain Quoilin, Adriano Desideri & Rémi Dickes. Aerospace and Mechanical Engineering Department, University of Liege, Belgium.
 
         *Related publications*:
-        - [Switching moving boundary models for two-phase flow evaporators and condensers](http://doi.org/10.1016/j.cnsns.2014.06.035){:target="_blank"}
-        - [Object-oriented library of switching moving boundary models for two-phase flow evaporators and condensers](http://doi.org/10.3384/ecp1207671){:target="_blank"}
-        - [Object-oriented modeling of switching moving boundary models for two-phase flow evaporators](http://doi.org/10.3182/20120215-3-AT-3016.00189){:target="_blank"}
-      time: 2011 - 2015
-      img: 'assets/docs/colaborations/eth.webp'
+        - [Steady-state and dynamic validation of a parabolic trough collector model using the ThermoCycle Modelica library](http://doi.org/10.1016/j.solener.2018.08.026){:target="_blank"}
+      time: 2016 - 2018
+      img: 'assets/docs/colaborations/ule.webp'
+      img_style: 'border: 0px; margin-top: 5px;'
+      img_position: 'align-items-top'
+
+
+    - title: 'New design methods for heat exchangers'
+      details: |
+        Reza Zarghami, Ahad Mohammadi & Shahab Golshan. Process Design and Simulation Research Centre, School of Chemical Engineering, College of Engineering, University of Tehran, Iran.
+
+        *Related publications*:
+        - [A novel heat exchanger design method using a delayed rejection adaptive Metropolis Hasting algorithm](http://doi.org/10.1016/j.applthermaleng.2018.04.028){:target="_blank"}
+      time: 2018
+      img: 'assets/docs/colaborations/teheran.webp'
       img_style: 'border: 0px; margin-top: 5px;'
       img_position: 'align-items-top'
 
