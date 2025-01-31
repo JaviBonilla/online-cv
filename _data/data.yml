@@ -204,6 +204,7 @@ publications:
       img: 'assets/images/journals/envsoft.webp'
       plumx: 'https://doi.org/10.1016/j.envsoft.2025.106337'
       img_title: 'Environmental Modelling & Software'
+      open_access: True
 
     - title: Reinforcement learning for heliostat aiming - Improving the performance of Solar Tower plants
       link: 'https://doi.org/10.1016/j.apenergy.2024.124574'
@@ -213,6 +214,7 @@ publications:
       img: 'assets/images/journals/appliedEnergy.webp'
       plumx: '10.1016/j.apenergy.2024.124574'
       img_title: 'Applied Energy'
+      open_access: True
 
     - title: 'Development of a novel tool to simulate solar thermal cogeneration plants using small-capacity tower plants'
       link: 'https://doi.org/10.1016/j.enconman.2024.119285'
@@ -222,6 +224,7 @@ publications:
       img: 'assets/images/journals/energyConversionManagement.webp'
       plumx: '10.1016/j.enconman.2024.119285'
       img_title: 'Energy Conversion and Management'
+      open_access: True
       
     - title: 'Modern SCADA for CSP Systems Based on OPC UA, WiFi Mesh Networks and Open Source Software'
       link: 'http://doi.org/10.3390/en17246284'
@@ -231,6 +234,7 @@ publications:
       img: 'assets/images/journals/energies.webp'
       plumx: '10.3390/en17246284'
       img_title: 'Energies'
+      open_access: True
 
     - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
       link: 'https://doi.org/10.3390/a16100487'
@@ -240,6 +244,7 @@ publications:
       img: 'assets/images/journals/algorithms.webp'
       plumx: '10.3390/a16100487'
       img_title: 'Algorithms'
+      open_access: True
       # ,<br>**Q2** - Computational Mathematics (35/89, 61.80% percentile)
 
     - title: Dynamic modeling of a multi-effect vertical falling-film evaporator for water reuse in CSP plants
@@ -376,6 +381,7 @@ publications:
       img: 'assets/images/journals/riai.webp'
       plumx: '10.1016/j.riai.2016.11.003'
       img_title: 'RIAI - Revista Iberoamericana de Automatica e Informatica Industrial'
+      open_access: True
 
     - title: 'Dynamic modeling and simulation of a double-effect absorption heat pump'
       link: 'http://doi.org/10.1016/j.ijrefrig.2016.07.018'
@@ -394,6 +400,7 @@ publications:
       img: 'assets/images/journals/energies.webp'
       plumx: '10.3390/en9030194'
       img_title: 'Energies'
+      open_access: True
 
     - title: 'Switching moving boundary models for two-phase flow evaporators and condensers'
       link: 'http://doi.org/10.1016/j.cnsns.2014.06.035'
@@ -475,6 +482,7 @@ publications:
       img: 'assets/images/journals/cmes.webp'
       plumx: '10.3970/cmes.2010.067.013'
       img_title: 'Computer Modeling in Engineering & Science'
+      open_access: True
 
     - title: 'Object oriented modelling and simulation of ACUREX solar thermal power plant'
       link: 'http://doi.org/10.1080/13873954.2010.507420'
@@ -516,6 +524,7 @@ books:
       time: 2013
       img: 'assets/docs/books/bookBonilla.webp'
       img_title: 'Book'
+      open_access: True
 
 conferences_international:
   title: International Conference Proceedings
@@ -1224,6 +1233,7 @@ research_groups:
         Plataforma Solar de Almería (PSA), Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science, Innovation and Universities, Government of Spain
       time: 2024 - Now
       img: 'assets/docs/research_groups/ufp.webp'
+      img_style: 'border: 0px;'
 
     - title: Solar Thermal Applications
       link: 'https://www.psa.es/en/units/sta/personal.php'
@@ -1231,6 +1241,7 @@ research_groups:
         Plataforma Solar de Almería (PSA), Centro de Investigaciónes Energéticas, Medioambientales y Tecnológicas (CIEMAT), Ministry of Science and Innovation, Government of Spain
       time: 2007 - 2023
       img: 'assets/docs/research_groups/sta.webp'
+      img_style: 'border: 0px;'
 
     - title: Automatic control, Robotics and Mechatronic (ARM) Research Group
       link: 'https://arm.ual.es/arm-group/people/javier-bonilla-cruz/'
@@ -1238,6 +1249,7 @@ research_groups:
         Department of Computer Sciences, University of Almería
       time: 2007 - Now
       img: 'assets/docs/research_groups/arm.webp'
+      img_style: 'border: 0px;'
 
     - title: Modeling and Control Unit
       link: 'https://ciesol.com/modelado-y-control/personal-modelado-y-control/'
@@ -1245,6 +1257,7 @@ research_groups:
         Centro de Investigación en Energía Solar (CIESOL), Joint Institute UAL – PSA.CIEMAT
       time: 2007 - Now
       img: 'assets/docs/research_groups/ciesol.webp'
+      img_style: 'border: 0px;'
 
 prizes:
   title: Prizes, Acknowledgments and Fellowships
