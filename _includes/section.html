@@ -36,7 +36,7 @@
 .open_access_text {
   text-decoration: none;
   font-weight: bolder;
-  font-size: 12px;
+  font-size: 11px;
   color: #fd5603;
 }
 
@@ -86,7 +86,7 @@ a.open_access_text:hover {
                 {% if item.open_access %}
                 <div style="margin-top: 10px; vertical-align: middle;">
                   <img class="image_open" src="assets/images/open_access.webp" width="15" alt="Open Access">
-                  <a class="open_access_text" href="{{ item.link }}" target="_blank">OPEN ACCESS</a>
+                  <a class="open_access_text" href="{{ item.link }}" target="_blank">&nbsp;OPEN ACCESS</a>
                 </div>
                 {% endif %}
               {% if item.link %}
