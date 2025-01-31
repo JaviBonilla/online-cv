@@ -202,7 +202,7 @@ publications:
       details: 'Environmental Modelling & Software, 106337, ISSN: 1364-8152. DOI: 10.1016/j.envsoft.2025.106337, 2025.<br>**JIF**: 4.8 (2023),<br>**Q1** - Computer science, interdisciplinary applications (33/170, 81.18% percentile)'
       time: 2025
       img: 'assets/images/journals/envsoft.webp'
-      plumx: 'https://doi.org/10.1016/j.envsoft.2025.106337'
+      plumx: '10.1016/j.envsoft.2025.106337'
       img_title: 'Environmental Modelling & Software'
       open_access: True
 
