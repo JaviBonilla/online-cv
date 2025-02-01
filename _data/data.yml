@@ -1272,6 +1272,13 @@ prizes:
       time: 2023
       img: 'assets/docs/prizes/PROA_2023.webp'
 
+    - title: Premio al Fomento de la Investigación Aplicada a la Empresa (XI Edición)
+      link: 'https://www.youtube.com/watch?v=hF_k_67NNvA'
+      details: |
+        Galardón condecido al Grupo de Automática, Robótica y Mecatrónica en la categoría “Premios a los grupos de investigación de la Universidad de Almería que se distingan especialmente por sus actividades de investigación contratadas con empresas e instituciones” otorgado por el Consejo Social de la Universidad de Almería.
+      time: 2018
+      img: 'assets/docs/prizes/ual_consejo_social.webp'
+
     - title: Ph.D. dissertation extraordinary prize in Engineerring
       link: 'assets/docs/prizes/PhD_dissertation_extraordinary_prize_in_Engineering.pdf'
       details: |
