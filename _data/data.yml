@@ -1098,17 +1098,17 @@ int_projects:
       link: 'assets/docs/projects_int/ASTERIx-CAESar.pdf'
       details: |
         Horizon Europe Framework Programme (HORIZON), HORIZON Innovation Actions, Innovative components and/or sub-systems for CSP plants and/or concentrating solar thermal installations, HORIZON-CL5-2022-D3-03-01, proposal number 101122231, Researcher, budget: 5,498,425 €<br>
-        [HORIZON website](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl5-2022-d3-03-01){:target="_blank"}
+        [ASTERIx-CAESar website](https://asterix-caesar.eu/){:target="_blank"}
       time: 2023 - 2027
       img: 'assets/docs/projects_int/ASTERIx-CAESar.webp'
 
     - title: Expansion, improvement, renovation and remodelling of Plataforma Solar de Almería (PSA) (SolarNOVA II)
-      link: 'assets/docs/experience/SOLARNOVA.pdf'
+      link: 'assets/docs/experience/positions_CIEMAT.pdf'
       details: |
         European Regional Development Fund (ERDF) and Spanish funds, ICTS-2017-03-CIEMAT-04, Team member, budget: 11,996,375 €<br>
         [SolarNOVA website](https://www.psa.es/es/feder/solarnova.php){:target="_blank"}
       time: 2018 - 2023
-      img: 'assets/docs/experience/SOLARNOVA.webp'
+      img: 'assets/docs/experience/positions_CIEMAT.webp'
 
     - title: Solving water issues for CSP plants (SOLWARIS)
       link: 'assets/docs/projects_int/SOLWARIS_certificate.pdf'
@@ -1701,6 +1701,13 @@ research_contracts:
 software:
   title: Scientific Software
   items:
+    - title: 'Weather station software'
+      authors: <b>J. Bonilla</b>, J.A. Carballo
+      link: 'https://doi.org/10.1016/j.envsoft.2025.106337'
+      details: |
+        A real-time and modular weather station software architecture based on microservices which offers a scalable, flexible, and easily maintainable solution for weather data collection and dissemination
+      img: 'assets/docs/software/weather_station.webp'
+
     - title: 'CSP Data'
       authors: <b>J. Bonilla</b>
       link: 'https://cspdata.com'
@@ -1709,7 +1716,7 @@ software:
       img: 'assets/docs/software/cspdata.webp'
 
     - title: 'Electricity mix optimization'
-      authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla
+      authors: <b>J. Bonilla</b>, J. Blanco, E. Zarza, D.C. Alarcón-Padilla 
       link: 'http://mixspain.psa.es'
       details: |
         Spanish mix optimizations for 2030, 2040 and 2050 applying Artificial Intelligence
@@ -1717,7 +1724,7 @@ software:
 
     - title: 'Hel-IoT web server: a smart heliostat development platform'
       link: 'https://doi.org/10.52825/solarpaces.v1i.721'
-      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla / CIEMAT
+      authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, D.C. Alarcón-Padilla
       details: |
         28<sup>th</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
         Abstract, Poster, DOI: 10.52825/solarpaces.v1i.721, Albuquerque (USA), Sep 27 - 30, 2022.
@@ -1732,8 +1739,8 @@ software:
       img: 'assets/docs/software/performance.webp'
 
     - title: 'Solar tower, gas turbine and MED-TVC simulator'
-      authors: <b>J. Bonilla</b>, P. Palenzuela, B. Ortega-Delgado, J.M. Serrano, J. Fernández-Reche, D.C. Alarcón-Padilla
-      link: 'assets/docs/software/EDS_2022_poster.pdf'
+      authors: <b>J. Bonilla</b>, P. Palenzuela, B. Ortega-Delgado, J. Fernández-Reche, D.C. Alarcón-Padilla
+      link: 'https://doi.org/10.1016/j.enconman.2024.119285'
       details: |
         Web app for the integration of a thermal seawater desalination system, based on Multi-Effect Distillation technology with Thermal Vapor Compression (MED-TVC), into a high-temperature power cycle (air Brayton cycle) and high-temperature Concentrating Solar Power (CSP) technology, Central Receiver Solar (CRS) tower system.
       img: 'assets/docs/software/soltermin.webp'
