@@ -1094,37 +1094,71 @@ supervision:
 int_projects:
   title: International Research Projects
   items:
+    - title: Leading-edge cooperative advances towards the next generation of concentrated solar power (CSP) technology (COOPERANT)
+      link: 'assets/docs/projects_int/COOPERANT.pdf'
+      details: |
+        Horizon Europe Framework Programme (HORIZON)
+        Proposal number: 101172882, Researcher, budget: 2,999,500 €<br>
+        [COOPERANT website](https://idener.ai/idener-project/cooperant/){:target="_blank"}
+      time: 2024 - 2028
+      img: 'assets/docs/projects_int/COOPERANT.webp'
+      img_style: 'border: 0px;'
+
     - title: Air-based solar thermal electricity for efficient renewable energy integration & compressed air energy storage (ASTERIx-CAESar)
       link: 'assets/docs/projects_int/ASTERIx-CAESar.pdf'
       details: |
         Horizon Europe Framework Programme (HORIZON), HORIZON Innovation Actions, Innovative components and/or sub-systems for CSP plants and/or concentrating solar thermal installations, HORIZON-CL5-2022-D3-03-01, proposal number 101122231, Researcher, budget: 5,498,425 €<br>
         [ASTERIx-CAESar website](https://asterix-caesar.eu/){:target="_blank"}
       time: 2023 - 2027
-      img: 'assets/docs/projects_int/ASTERIx-CAESar.webp'
+      img: 'assets/docs/projects_int/ASTERIx-CAESar-logo.webp'
+      img_style: 'border: 0px;'
+
+    - title: Sustainable Near-net-shape Fabrication of Low Environmental impact Receiver materials (SUNFLOWER)
+      link: 'assets/docs/projects_int/SUNFLOWER.pdf'
+      details: |
+        Clean Energy Transition Partnership Joint call 2022 (CETP 2022), European Union
+        Proposal number: PCI2023-145996-2, Researcher, budget: 1,437,670 €<br>
+        [SUNFLOWER website](https://www.sunflower-project.eu/){:target="_blank"}
+      time: 2023 - 20026
+      img: 'assets/docs/projects_int/SUNFLOWER.webp'
+      img_style: 'border: 0px;'      
+
+    - title: soLar field mEasurements to Increase performAnce (LEIA)
+      link: 'assets/docs/projects_int/LEIA.pdf'
+      details: |
+        Horizon Europe Framework Programme (HORIZON), CSP ERANET Additional Call 2021
+        Proposal number: PCI2022-135015-2, Researcher, budget: 2,692,989 € <br>
+        [LEIA website](https://csp-eranet.eu/results/leia-solar-field-measurements-incrase-performance){:target="_blank"}
+      time: 2022 - 20025
+      img: 'assets/docs/projects_int/LEIA.webp'
+      img_style: 'border: 0px;'
 
     - title: Expansion, improvement, renovation and remodelling of Plataforma Solar de Almería (PSA) (SolarNOVA II)
       link: 'assets/docs/experience/positions_CIEMAT.pdf'
       details: |
-        European Regional Development Fund (ERDF) and Spanish funds, ICTS-2017-03-CIEMAT-04, Team member, budget: 11,996,375 €<br>
+        European Regional Development Fund (ERDF) and Spanish funds, ICTS-2017-03-CIEMAT-04, Researcher, budget: 11,996,375 €<br>
         [SolarNOVA website](https://www.psa.es/es/feder/solarnova.php){:target="_blank"}
       time: 2018 - 2023
-      img: 'assets/docs/experience/positions_CIEMAT.webp'
+      img: 'assets/docs/projects_int/SolarnovaII.webp'
+      img_style: 'border: 0px;'
 
     - title: Solving water issues for CSP plants (SOLWARIS)
       link: 'assets/docs/projects_int/SOLWARIS_certificate.pdf'
       details: |
-        Horizon 2020, European Commission, grant agreement no 792103, Research team member, budget: 10,812,504 €<br>
+        Horizon 2020, European Commission, grant agreement no 792103, Researcher, budget: 10,812,504 €<br>
         [SOLWARIS website](https://solwaris.eu){:target="_blank"}
       time: 2018 - 2022
-      img: 'assets/docs/projects_int/SOLWARIS_certificate.webp'
+      img: 'assets/docs/projects_int/SOLWARIS.webp'
+      img_style: 'border: 0px;'
 
     - title: Innovative configuration for a fully renewable hybrid CSP plant (HYSOL)
       link: 'assets/docs/projects_int/HYSOL_certificate.pdf'
       details: |
-        EU Seventh Framework Programme for Research (FP7-Energy), European Commission, grant agreement n° 308912, Research team member, budget: 9,275,982 €<br>
+        EU Seventh Framework Programme for Research (FP7-Energy), European Commission, grant agreement n° 308912, Researcher, budget: 9,275,982 €<br>
         [HYSOL website](https://cordis.europa.eu/project/id/308912){:target="_blank"}
       time: 2013 - 2016
-      img: 'assets/docs/projects_int/HYSOL_certificate.webp'
+      img: 'assets/docs/projects_int/HYSOL-logo.webp'
+      img_style: 'border: 0px;'
 
     - title: Solar facilities for the european research area (SFERA)
       link: 'assets/docs/projects_int/Sfera-R12-2.pdf'
@@ -1132,7 +1166,8 @@ int_projects:
         EU Seventh Framework Programme for Research (FP7-Infrastructures), European Commission, grant agreement n° 228296, Work team member, budget: 9,042,935 €<br>
         [SFERA website](https://cordis.europa.eu/project/id/228296){:target="_blank"}
       time: 2009 - 2013
-      img: 'assets/docs/projects_int/Sfera-R12-2.webp'
+      img: 'assets/docs/projects_int/SFERA.webp'
+      img_style: 'border: 0px;'
 
 nat_projects:
   title: National Research Projects
@@ -1273,9 +1308,10 @@ prizes:
       img: 'assets/docs/prizes/PROA_2023.webp'
 
     - title: Premio al Fomento de la Investigación Aplicada a la Empresa (XI Edición)
-      link: 'https://www.youtube.com/watch?v=hF_k_67NNvA'
+      link: 'assets/docs/prizes/2018_Premio_Consejo_Social.pdf'
       details: |
         Galardón condecido al Grupo de Automática, Robótica y Mecatrónica en la categoría “Premios a los grupos de investigación de la Universidad de Almería que se distingan especialmente por sus actividades de investigación contratadas con empresas e instituciones” otorgado por el Consejo Social de la Universidad de Almería.
+        <br>[Video entraga del galardón](https://www.youtube.com/watch?v=hF_k_67NNvA){:target="_blank"}
       time: 2018
       img: 'assets/docs/prizes/ual_consejo_social.webp'
 
@@ -2143,6 +2179,17 @@ collaborations:
       img_style: 'border: 0px; margin-top: 5px;'
       img_position: 'align-items-top'
 
+    - title: 'Cloud detection in images applying artificial intelligence'
+      details: |
+        Bijan Nouri, Department of Qualification, The German Aerospace Center (DLR), Germany.
+
+        *Related publications*:
+        - [Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks](https://doi.org/10.3390/a16100487){:target="_blank"}
+      time: 2025
+      img: 'assets/docs/colaborations/DLR.webp'
+      img_style: 'border: 0px; margin-top: 5px;'
+      img_position: 'align-items-top'      
+
     - title: 'Modeling, optimization and control of solar thermal systems'
       details: |
         Alberto de la Calle. Solar Energy System Group, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia.
@@ -2172,6 +2219,27 @@ collaborations:
       img_style: 'border: 0px; margin-top: 5px;'
       img_position: 'align-items-top'
 
+    - title: 'Data Discovery Web Application of Commercial CSP Plants (CSP Data)'
+      details: |
+        Johan Lilliestam, Sustainability Transition Policy Friedrich-alexander-universität Erlangen-Nürnberg, Germany.
+
+        *Related publications*:
+        - [CSP Data: A Data Discovery Web Application of Commercial CSP Plants](https://doi.org/10.52825/solarpaces.v2i.811){:target="_blank"}
+      time: 2022 - Now
+      img: 'assets/docs/colaborations/fau.webp'
+      img_style: 'border: 0px; margin-top: 5px;'
+      img_position: 'align-items-top'
+
+    - title: 'Data Discovery Web Application of Commercial CSP Plants (CSP Data)'
+      details: |
+        Richard Thonig, Research Institute For Sustainability Helmholtz Centre Potsdam, Germany.
+
+        *Related publications*:
+        - [CSP Data: A Data Discovery Web Application of Commercial CSP Plants](https://doi.org/10.52825/solarpaces.v2i.811){:target="_blank"}
+      time: 2022 - Now
+      img: 'assets/docs/colaborations/Helmholtz.webp'
+      img_style: 'border: 0px; margin-top: 5px;'
+      img_position: 'align-items-top'      
 
     - title: 'New design methods for heat exchangers'
       details: |
