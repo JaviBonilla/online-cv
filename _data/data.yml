@@ -640,7 +640,7 @@ conferences_international:
       authors: J. Blanco, <b>J. Bonilla</b>, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
       details: |
         XVII Congreso Ibérico e XIII Congreso Ibero-americano de Energia Solar (CIES),<br>
-        Regular paper in Proceedings, Oral presentation, DOI: 10400.9/3340,<br>
+        Regular paper in Proceedings, Oral presentation, DOI: 10.34637/cies2020.1.1003,<br>
         Lisboa (Portugal), Online, November, 3 - 5, 2020.
       time: 2020
       plumx: '10.34637/cies2020.1.1003'
@@ -1401,7 +1401,7 @@ outreach:
       details: |
         Foco Sur - Actualidad, Economía y Cultura de Almería, no 262, December 2019
       time: 2019
-      img: 'assets/docs/outreach/focosur.webp'
+      img: 'assets/docs/outreach/focosur_thumb.webp'
 
     # - title: 'Blog Posts about Programming, Machine Learning, Embedded Devices & Solar Energy'
     #   details: |
