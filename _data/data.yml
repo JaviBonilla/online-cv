@@ -1105,7 +1105,7 @@ int_projects:
       img_style: 'border: 0px;'
 
     - title: Air-based solar thermal electricity for efficient renewable energy integration & compressed air energy storage (ASTERIx-CAESar)
-      link: 'assets/docs/projects_int/ASTERIx-CAESar.pdf'
+      link: 'assets/docs/projects_int/ASTERIx-CAESar_certificate.pdf'
       details: |
         Horizon Europe Framework Programme (HORIZON), HORIZON Innovation Actions, Innovative components and/or sub-systems for CSP plants and/or concentrating solar thermal installations, HORIZON-CL5-2022-D3-03-01, proposal number 101122231, Researcher, budget: 5,498,425 €<br>
         [ASTERIx-CAESar website](https://asterix-caesar.eu/){:target="_blank"}
@@ -1311,7 +1311,7 @@ prizes:
       link: 'assets/docs/prizes/2018_Premio_Consejo_Social.pdf'
       details: |
         Galardón condecido al Grupo de Automática, Robótica y Mecatrónica en la categoría “Premios a los grupos de investigación de la Universidad de Almería que se distingan especialmente por sus actividades de investigación contratadas con empresas e instituciones” otorgado por el Consejo Social de la Universidad de Almería.
-        <br>[Video entraga del galardón](https://www.youtube.com/watch?v=hF_k_67NNvA){:target="_blank"}
+        <br>[Video entrega del galardón](https://www.youtube.com/watch?v=hF_k_67NNvA){:target="_blank"}
       time: 2018
       img: 'assets/docs/prizes/ual_consejo_social.webp'
 
