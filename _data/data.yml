@@ -636,14 +636,14 @@ conferences_international:
       img: 'assets/docs/conf_int/ipp.webp'
 
     - title: Optimización del desarrollo de la energia termosolar en españa en el contexto de la transición energética
-      link: 'http://doi.org/10400.9/3340'
+      link: 'https://doi.org/10.34637/cies2020.1.1003'
       authors: J. Blanco, <b>J. Bonilla</b>, E. Zarza, D.C. Alarcón-Padilla / CIEMAT
       details: |
         XVII Congreso Ibérico e XIII Congreso Ibero-americano de Energia Solar (CIES),<br>
         Regular paper in Proceedings, Oral presentation, DOI: 10400.9/3340,<br>
         Lisboa (Portugal), Online, November, 3 - 5, 2020.
       time: 2020
-      plumx: '10400.9/3340'
+      plumx: '10.34637/cies2020.1.1003'
       img: 'assets/docs/conf_int/cies2020.webp'
 
     - title: Machine learning perspectives in concentrating solar thermal technology
