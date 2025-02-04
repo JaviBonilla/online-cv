@@ -57,15 +57,9 @@ sidebar:
         link: '#ip-section'
       - item: '<font color="#DDDDDD"> Other contributions: </font>'
       - item: "&emsp;Technology Transfer"
-        link: '#research-contracts-section'      
-      - item: "&emsp;Scientific Software"
-        link: '#software-section'
-      - item: "&emsp;Contributions to Scientific Software"
-        link: '#oss-section'        
-      - item: "&emsp;Experimental Campaigns"
-        link: '#experimental-section'
-      - item: "&emsp;Prototypes and Pilot Plants"
-        link: '#prototypes-section'
+        link: '#research-contracts-section'
+      - item: "&emsp;National Research Projects"
+        link: '#nat-projects-section'        
 
       - header: '<font color="#F7DC6F">B - Other curricular merits</font>'
 
@@ -80,10 +74,16 @@ sidebar:
       - item: Outreach Activities
         link: '#outreach-section'
       - item: '<font color="#DDDDDD"> Other contributions: </font>'
-      - item: "&emsp;National Research Projects"
-        link: '#nat-projects-section'
       - item: "&emsp;Invited Presentations"
-        link: '#presentations-section'
+        link: '#presentations-section'      
+      - item: "&emsp;Scientific Software"
+        link: '#software-section'
+      - item: "&emsp;Contributions to Scientific Software"
+        link: '#oss-section'        
+      - item: "&emsp;Experimental Campaigns"
+        link: '#experimental-section'
+      - item: "&emsp;Prototypes and Pilot Plants"
+        link: '#prototypes-section'
       - item: "&emsp;Membership to Research Groups"
         link: '#research-groups-section'
       - item: "&emsp;Peer-review Activities"
@@ -93,18 +93,18 @@ sidebar:
 
       - header: '<font color="#F7DC6F">C - Internationalization</font>'    
 
-      - item: International Research Projects
-        link: '#int-projects-section'      
+      - item: Research Stays
+        link: '#stays-section'
+      - item: Host of Facility Access Activities
+        link: '#host-section'
       - item: Membership to Scientific Committees
         link: '#committees-section'
       - item: Research Studies
         link: '#transfer-section'
       - item: R&D international project reviewer
-        link: '#review-section'              
-      - item: Research Stays
-        link: '#stays-section'
-      - item: Host of Facility Access Activities
-        link: '#host-section'
+        link: '#review-section'          
+      - item: International Research Projects
+        link: '#int-projects-section'                 
       - item: Main International Collaborations
         link: '#collaborations-section'
       - item: International Doctoral Colloquia
