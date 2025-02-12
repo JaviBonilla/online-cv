@@ -578,7 +578,7 @@ conferences_international:
       plumx: '10.52825/solarpaces.v2i.811'
       img: 'assets/docs/conf_int/SolarPACES_CSP_Data.webp'
 
-    - title: 'Smart Heliostat Artificial Vision Tracking System'
+    - title: 'Smart Heliostat Tracking System based on Artificial Intelligence'
       link: 'assets/docs/conf_int/SolarPACES_Tracking.pdf'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche, J. Ballestrín, L. Valenzuela / CIEMAT
       details: |
