@@ -959,6 +959,14 @@ conferences_national:
 presentations:
   title: Invited Presentations
   items:
+    # - title: 'Optimizing the Electricity Mix with AI: Application to the Spanish Grid'
+    #   link: 'assets/docs/invited/CST4ALL.pdf'
+    #   authors: <b>J. Bonilla</b> / CIEMAT
+    #   details: |
+    #     Future Energy Mix with 100% Decarbonization Level, Online R&I Workshop, CST4ALL, Oral presentation, March 24, 2025.
+    #   time: 2025
+    #   img: 'assets/docs/invited/CST4ALL.webp'
+
     - title: 'Energy: Experience on Artificial Intelligence (AI)'
       link: 'assets/docs/invited/CIEMAT_IA_Workshop.pdf'
       authors: <b>J. Bonilla</b> / CIEMAT
@@ -1479,6 +1487,13 @@ press:
   # https://www.cuentamealgobueno.com/2024/12/mejoran-el-rendimiento-de-las-plantas-solares-con-inteligencia-artificial/
   title: Press News
   items:
+  - title: New AI perfects heliostat aim to boost solar tower power
+    link: https://www.solarpaces.org/new-ai-perfects-heliostat-aim-to-boost-solar-tower-power
+    details: SolarPACES
+    time: 2025
+    img: 'assets/docs/outreach/solarpaces.webp'
+    img_style: 'border: 0px;'
+
   - title: Investigadores de Andalucía diseñan un sistema basado en IA para "mejorar el rendimiento de plantas solares"
     link: https://www.europapress.es/esandalucia/sevilla/noticia-investigadores-andalucia-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares-20241206094459.html
     details: Europa Press
