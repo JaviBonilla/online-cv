@@ -959,13 +959,13 @@ conferences_national:
 presentations:
   title: Invited Presentations
   items:
-    # - title: 'Optimizing the Electricity Mix with AI: Application to the Spanish Grid'
-    #   link: 'assets/docs/invited/CST4ALL.pdf'
-    #   authors: <b>J. Bonilla</b> / CIEMAT
-    #   details: |
-    #     Future Energy Mix with 100% Decarbonization Level, Online R&I Workshop, CST4ALL, Oral presentation, March 24, 2025.
-    #   time: 2025
-    #   img: 'assets/docs/invited/CST4ALL.webp'
+    - title: 'Optimizing the Electricity Mix with AI: Application to the Spanish Grid'
+      link: 'assets/docs/invited/CST4ALL.pdf'
+      authors: <b>J. Bonilla</b> / CIEMAT
+      details: |
+        Future Energy Mix with 100% Decarbonization Level, Online R&I Workshop, CST4ALL, Oral presentation, March 24, 2025.
+      time: 2025
+      img: 'assets/docs/invited/CST4ALL.webp'
 
     - title: 'Energy: Experience on Artificial Intelligence (AI)'
       link: 'assets/docs/invited/CIEMAT_IA_Workshop.pdf'
