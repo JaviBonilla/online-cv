@@ -196,6 +196,16 @@ publications:
   # Percentile Rank = (1 - (Rank - 1) / Total Journals) * 100
   title: Scientific Publications
   items:
+    - title: Multimodal Deep Learning for Solar Radiation Forecasting
+      link: 'https://doi.org/10.1016/j.apenergy.2025.126061'
+      authors: V. Abad-Alcaraz, M. Castilla / UAL, J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez / UAL
+      details: 'Applied Energy, Volume 393, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2025.126061, 2025.<br>**JIF**: 10.1 (2023),<br>**Q1** - Energy & fuels (19/170, 89.41% percentile)'
+      time: 2025
+      img: 'assets/images/journals/appliedEnergy.webp'
+      plumx: '10.1016/j.apenergy.2025.126061'
+      img_title: 'Applied Energy'
+      open_access: True
+
     - title: A real-time and modular weather station software architecture based on microservices
       link: 'https://doi.org/10.1016/j.envsoft.2025.106337'
       authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, V. Abad-Alcaraz, M. Castilla, J.D. Álvarez / UAL, J. Fernández-Reche / CIEMAT
