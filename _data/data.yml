@@ -1379,6 +1379,13 @@ outreach:
   title: Outreach Activities
   items:
 
+    - title: 'Cambio Climático y Energía Solar'
+      link: 'assets/docs/outreach/CEIP_Freinet_2025.pdf'
+      details: |
+        pequeCIEMAT, CIEMAT outreach activities, 5º y 6ª primaria, 90 students, CEIP Freinet, Almería (Spain), May 27, 2025
+      time: 2025
+      img: 'assets/docs/outreach/CEIP_Freinet_2025.webp'
+
     - title: 'La ciencia del Sol: Explorando la energía termosolar y el almacenamiento de calor'
       link: 'assets/docs/outreach/2024.pdf'
       details: |
