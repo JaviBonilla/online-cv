@@ -1386,6 +1386,13 @@ outreach:
       time: 2025
       img: 'assets/docs/outreach/CEIP_Freinet_2025.webp'
 
+    - title: 'Certificate of participation in science outreach activities'
+      link: 'assets/docs/outreach/UDC_2024_2025.pdf'
+      details: |
+        Unidad de Divulgación Cientíﬁca (UDC), CIEMAT
+      time: 2024
+      img: 'assets/docs/outreach/UDC_2024_2025.webp'      
+
     - title: 'La ciencia del Sol: Explorando la energía termosolar y el almacenamiento de calor'
       link: 'assets/docs/outreach/2024.pdf'
       details: |
