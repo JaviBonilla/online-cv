@@ -1137,7 +1137,7 @@ int_projects:
         Clean Energy Transition Partnership Joint call 2022 (CETP 2022), European Union
         Proposal number: PCI2023-145996-2, Researcher, budget: 1,437,670 €<br>
         [SUNFLOWER website](https://www.sunflower-project.eu/){:target="_blank"}
-      time: 2023 - 20026
+      time: 2023 - 2026
       img: 'assets/docs/projects_int/SUNFLOWER.webp'
       img_style: 'border: 0px;'      
 
@@ -1147,7 +1147,7 @@ int_projects:
         Horizon Europe Framework Programme (HORIZON), CSP ERANET Additional Call 2021
         Proposal number: PCI2022-135015-2, Researcher, budget: 2,692,989 € <br>
         [LEIA website](https://csp-eranet.eu/results/leia-solar-field-measurements-incrase-performance){:target="_blank"}
-      time: 2022 - 20025
+      time: 2022 - 2025
       img: 'assets/docs/projects_int/LEIA.webp'
       img_style: 'border: 0px;'
 
@@ -1368,7 +1368,7 @@ prizes:
       time: 2007 - 2009
       img: 'assets/docs/prizes/phd.webp'
 
-    - title: Undergraduated scholarship
+    - title: Undergraduate scholarship
       link: 'assets/docs/prizes/scholarship.pdf'
       details: |
         University of Almería - Plataforma Solar de Almería agreement, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Spain
