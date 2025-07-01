@@ -209,7 +209,7 @@ publications:
     - title: A real-time and modular weather station software architecture based on microservices
       link: 'https://doi.org/10.1016/j.envsoft.2025.106337'
       authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, V. Abad-Alcaraz, M. Castilla, J.D. Álvarez / UAL, J. Fernández-Reche / CIEMAT
-      details: 'Environmental Modelling & Software, 106337, ISSN: 1364-8152. DOI: 10.1016/j.envsoft.2025.106337, 2025.<br>**JIF**: 4.6 (2024),<br>**Q1** - Computer science, interdisciplinary applications (50/175, 71.7% percentile)'
+      details: 'Environmental Modelling & Software, 106337, ISSN: 1364-8152. DOI: 10.1016/j.envsoft.2025.106337, 2025.<br>**JIF**: 4.6 (2024),<br>**Q2** - Computer science, interdisciplinary applications (50/175, 71.7% percentile)'
       time: 2025
       img: 'assets/images/journals/envsoft.webp'
       plumx: '10.1016/j.envsoft.2025.106337'
@@ -249,7 +249,7 @@ publications:
     - title: Cloud Detection and Tracking Based on Object Detection with Convolutional Neural Networks
       link: 'https://doi.org/10.3390/a16100487'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernández-Reche / CIEMAT, B. Nouri / DLR, A. Avila-Marin / CIEMAT, Y. Fabel / DLR, D.C. Alarcón-Padilla / CIEMAT
-      details: 'Algorithms, Volume 16, Issue 10, 487, ISSN: 1999-4893.<br> DOI: 10.3390/a16100487, 2023.<br>**JIF**: 1.8 (2023),<br>**Q2** - Computer science, theory and methods'
+      details: 'Algorithms, Volume 16, Issue 10, 487, ISSN: 1999-4893.<br> DOI: 10.3390/a16100487, 2023.<br>**JIF**: 1.8 (2023),<br>**Q2** - Computer science, theory and methods (62/144, 57.3% percentile)'
       time: 2023
       img: 'assets/images/journals/algorithms.webp'
       plumx: '10.3390/a16100487'
