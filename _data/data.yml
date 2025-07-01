@@ -199,7 +199,7 @@ publications:
     - title: Multimodal Deep Learning for Solar Radiation Forecasting
       link: 'https://doi.org/10.1016/j.apenergy.2025.126061'
       authors: V. Abad-Alcaraz, M. Castilla / UAL, J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, J.D. Álvarez / UAL
-      details: 'Applied Energy, Volume 393, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2025.126061, 2025.<br>**JIF**: 10.1 (2023),<br>**Q1** - Energy & fuels (19/170, 89.41% percentile)'
+      details: 'Applied Energy, Volume 393, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2025.126061, 2025.<br>**JIF**: 11 (2024),<br>**Q1** - Energy & fuels (20/170, 89.3% percentile)'
       time: 2025
       img: 'assets/images/journals/appliedEnergy.webp'
       plumx: '10.1016/j.apenergy.2025.126061'
@@ -209,7 +209,7 @@ publications:
     - title: A real-time and modular weather station software architecture based on microservices
       link: 'https://doi.org/10.1016/j.envsoft.2025.106337'
       authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, V. Abad-Alcaraz, M. Castilla, J.D. Álvarez / UAL, J. Fernández-Reche / CIEMAT
-      details: 'Environmental Modelling & Software, 106337, ISSN: 1364-8152. DOI: 10.1016/j.envsoft.2025.106337, 2025.<br>**JIF**: 4.8 (2023),<br>**Q1** - Computer science, interdisciplinary applications (33/170, 81.18% percentile)'
+      details: 'Environmental Modelling & Software, 106337, ISSN: 1364-8152. DOI: 10.1016/j.envsoft.2025.106337, 2025.<br>**JIF**: 4.6 (2024),<br>**Q1** - Computer science, interdisciplinary applications (50/175, 71.7% percentile)'
       time: 2025
       img: 'assets/images/journals/envsoft.webp'
       plumx: '10.1016/j.envsoft.2025.106337'
@@ -219,7 +219,7 @@ publications:
     - title: Reinforcement learning for heliostat aiming - Improving the performance of Solar Tower plants
       link: 'https://doi.org/10.1016/j.apenergy.2024.124574'
       authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, N.C. Cruz / UAL, J. Fernández-Reche / CIEMAT, J.D. Álvarez / UAL, A. Avila-Marin / CIEMAT, M. Berenguel / UAL
-      details: 'Applied Energy, Volume 377, Part 8, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2024.124574, 2025.<br>**JIF**: 10.1 (2023),<br>**Q1** - Energy & fuels (19/170, 89.41% percentile)'
+      details: 'Applied Energy, Volume 377, Part 8, ISSN: 1872-9118. DOI: 10.1016/j.apenergy.2024.124574, 2025.<br>**JIF**: 11 (2024),<br>**Q1** - Energy & fuels (20/170, 89.3% percentile)'
       time: 2025
       img: 'assets/images/journals/appliedEnergy.webp'
       plumx: '10.1016/j.apenergy.2024.124574'
@@ -229,7 +229,7 @@ publications:
     - title: 'Development of a novel tool to simulate solar thermal cogeneration plants using small-capacity tower plants'
       link: 'https://doi.org/10.1016/j.enconman.2024.119285'
       authors: <b>J. Bonilla</b>, B. Ortega-Delgado, D.C. Alarcón-Padilla , J. Fernández-Reche, P. Palenzuela / CIEMAT
-      details: 'Energy Conversion and Management, Volume 324, 119285, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2024.119285, 2025<br>**JIF**: 9.9 (2023),<br>**Q1** - Mechanics (3/170, 98.82% percentile)'
+      details: 'Energy Conversion and Management, Volume 324, 119285, ISSN: 0960-1481. DOI: 10.1016/j.enconman.2024.119285, 2025<br>**JIF**: 10.9 (2024),<br>**Q1** - Mechanics (4/171, 98.0% percentile)'
       time: 2025
       img: 'assets/images/journals/energyConversionManagement.webp'
       plumx: '10.1016/j.enconman.2024.119285'
@@ -239,7 +239,7 @@ publications:
     - title: 'Modern SCADA for CSP Systems Based on OPC UA, WiFi Mesh Networks and Open Source Software'
       link: 'http://doi.org/10.3390/en17246284'
       authors: J.A. Carballo, <b>J. Bonilla</b>, J. Fernandez-Reche, A. Avila-Marin, B. Díaz / CIEMAT
-      details: 'Energies, Volume 17, Number 24, Article number 6284, ISSN: 1996-1073. DOI: 10.3390/en17246284, 2024.<br> **JIF**: 3 (2023),<br>**Q3** - Energy & fuels (108/171, 37.43% percentile)'
+      details: 'Energies, Volume 17, Number 24, Article number 6284, ISSN: 1996-1073. DOI: 10.3390/en17246284, 2024.<br> **JIF**: 3.2 (2024),<br>**Q3** - Energy & fuels (123/182, 32.69% percentile)'
       time: 2024
       img: 'assets/images/journals/energies.webp'
       plumx: '10.3390/en17246284'
