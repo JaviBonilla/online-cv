@@ -1081,6 +1081,15 @@ phd_dissertations:
 grade_projects:
   title: Direction of Final Degree Projects
   items:
+    - title: Diseño, montaje y control de una maqueta de planta solar de receptor central inteligente
+      link: 'assets/docs/grade_projects/TFG_L_Jimenez.pdf'
+      authors: Luis Ignacio Jiménez Martínez, University of Almería (UAL)
+      details: |
+        Directors: M. Berenguel / UAL and <b>J. Bonilla</b> / CIEMAT<br>
+        <a href="assets/docs/grade_projects/TFG_L_Jimenez.pdf" target="_blank">Final degree project</a>
+      time: 2025
+      img: 'assets/docs/grade_projects/TFG_L_Jimenez.webp'
+
     - title: Desarrollo de una herramienta software para simulación y control del demostrador de una planta termosolar híbrida de energías renovables
       link: 'assets/docs/grade_projects/DPF_BONILLA CRUZ, JAVIER.pdf'
       authors: José Martín de Dios, University of Almería (UAL)
