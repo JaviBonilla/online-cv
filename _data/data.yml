@@ -539,6 +539,24 @@ books:
 conferences_international:
   title: International Conference Proceedings
   items:
+    - title: 'Integration of solar radiation nowcasting models into a real-time modular weather station architecture'
+      link: 'assets/docs/conf_int/SolarPACES_2025_Nowcasting.pdf'
+      authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, V. Abad M. Castilla, J.D. Álvarez / UAL, J. Fernández-Reche / CIEMAT
+      details: |
+        31<sup>st</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
+        Abstract, oral presentation, Almería (Spain), Sep 23 - 26, 2025.
+      time: 2025
+      img: 'assets/docs/conf_int/SolarPACES_2025_Nowcasting.webp'
+
+    - title: 'Advancing Heliostat Aiming Strategies in Solar Tower Plants'
+      link: 'assets/docs/conf_int/SolarPACES_2025_Aiming.pdf'
+      authors: J.A. Carballo, <b>J. Bonilla</b> / CIEMAT, N.C. Cruz / UGR, J. Fernández-Reche / CIEMAT, J.D. Álvarez / UAL, A. Avila-Marin / CIEMAT, M. Berenguel / UAL
+      details: |
+        31<sup>st</sup> Concentrating Solar Power and Chemical Energy Systems (SolarPaces)<br>
+        Abstract, Poster, Almería (Spain), Sep 23 - 26, 2025.
+      time: 2025
+      img: 'assets/docs/conf_int/SolarPACES_2025_Aiming.webp'      
+
     - title: 'More Efficient Heliostat Fields for Solar Tower Plants: The HELIOSUN Project'
       link: 'assets/docs/conf_int/HELIOSUN_2024.pdf'
       authors: J. Balletrín, L. Valenzuela, J. Fernández-Reche / CIEMAT, R. Pujol, G. Cardona / UIB, J.A. Carballo, <b>J. Bonilla</b>, N. Estremera, E. Carra, N. Simal, R. Monterreal / CIEMAT, A. Marzo / UGR
