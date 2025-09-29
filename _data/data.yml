@@ -1538,6 +1538,12 @@ press:
   # https://www.cuentamealgobueno.com/2024/12/mejoran-el-rendimiento-de-las-plantas-solares-con-inteligencia-artificial/
   title: Press News
   items:
+  - title: CST4ALL Newsletter No. 4
+    link: assets/docs/outreach/cst4all_newsletter.pdf
+    details: Support to the activities of the concentrated solar thermal technology area of the SET plan
+    time: 2025
+    img: 'assets/docs/outreach/cst4all_newsletter.webp'
+
   - title: New AI perfects heliostat aim to boost solar tower power
     link: https://www.solarpaces.org/new-ai-perfects-heliostat-aim-to-boost-solar-tower-power
     details: SolarPACES
