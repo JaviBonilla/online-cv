@@ -1406,6 +1406,13 @@ outreach:
   title: Outreach Activities
   items:
 
+    - title: 'Plataforma Solar de Almería: Reutiliza, desala y reduce'
+      link: 'assets/docs/outreach/2025.pdf'
+      details: |
+        Open Researchers 2024-25, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 26, 2025
+      time: 2025
+      img: 'assets/docs/outreach/2025.webp'  
+
     - title: 'Cambio Climático y Energía Solar'
       link: 'assets/docs/outreach/CEIP_Freinet_2025.pdf'
       details: |
@@ -1423,7 +1430,7 @@ outreach:
     - title: 'La ciencia del Sol: Explorando la energía termosolar y el almacenamiento de calor'
       link: 'assets/docs/outreach/2024.pdf'
       details: |
-        Open Researchers 2024-25, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 27, 2024
+        Open Researchers 2023-24, Marie Skłodowska-Curie actions, European Commission, Almería (Spain), September 27, 2024
       time: 2024
       img: 'assets/docs/outreach/2024.webp'
 
