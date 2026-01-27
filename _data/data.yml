@@ -41,7 +41,7 @@ sidebar:
       - item: Latest Developments
         link: '#latest-section'
 
-      - header: '<font color="#F7DC6F">A - Scientific-Technical Contributions</font>'
+      # - header: '<font color="#F7DC6F">A - Scientific-Technical Contributions</font>'
 
       - item: Scientific Production Overview
         link: '#overview-section'
@@ -55,13 +55,15 @@ sidebar:
         link: '#conf-nat-section'
       - item: Intellectual Property
         link: '#ip-section'
-      - item: '<font color="#DDDDDD"> Other contributions: </font>'
-      - item: "&emsp;Technology Transfer"
+      # - item: '<font color="#DDDDDD"> Other contributions: </font>'
+      # - item: "&emsp;Technology Transfer"
+      - item: "Technology Transfer"
         link: '#research-contracts-section'
-      - item: "&emsp;National Research Projects"
+      # - item: "&emsp;National Research Projects"
+      - item: "National Research Projects"
         link: '#nat-projects-section'        
 
-      - header: '<font color="#F7DC6F">B - Other curricular merits</font>'
+      # - header: '<font color="#F7DC6F">B - Other curricular merits</font>'
 
       - item: Direction of Ph.D. Students
         link: '#phd-dissertations-section'
@@ -73,25 +75,26 @@ sidebar:
         link: '#prizes-section'
       - item: Outreach Activities
         link: '#outreach-section'
-      - item: '<font color="#DDDDDD"> Other contributions: </font>'
-      - item: "&emsp;Invited Presentations"
+      #- item: '<font color="#DDDDDD"> Other contributions: </font>'
+      # - item: "&emsp;Invited Presentations"
+      - item: Invited Presentations
         link: '#presentations-section'      
-      - item: "&emsp;Scientific Software"
+      - item: "Scientific Software"
         link: '#software-section'
-      - item: "&emsp;Contributions to Scientific Software"
+      - item: "Contributions to Scientific Software"
         link: '#oss-section'        
-      - item: "&emsp;Experimental Campaigns"
+      - item: "Experimental Campaigns"
         link: '#experimental-section'
-      - item: "&emsp;Prototypes and Pilot Plants"
+      - item: "Prototypes and Pilot Plants"
         link: '#prototypes-section'
-      - item: "&emsp;Membership to Research Groups"
+      - item: "Membership to Research Groups"
         link: '#research-groups-section'
-      - item: "&emsp;Peer-review Activities"
+      - item: "Peer-review Activities"
         link: '#review-section'
-      - item: '&emsp;Membership to Strategic Research Lines'
+      - item: 'Membership to Strategic Research Lines'
         link: '#lines-section'            
 
-      - header: '<font color="#F7DC6F">C - Internationalization</font>'    
+      #- header: '<font color="#F7DC6F">C - Internationalization</font>'    
 
       - item: Research Stays
         link: '#stays-section'
@@ -99,7 +102,7 @@ sidebar:
         link: '#host-section'
       - item: Membership to Scientific Committees
         link: '#committees-section'
-      - item: Research Studies
+      - item: Scientific Reports
         link: '#transfer-section'
       - item: R&D international project reviewer
         link: '#review-section'          
@@ -110,14 +113,14 @@ sidebar:
       - item: International Doctoral Colloquia
         link: '#colloquiums-section'
 
-      - header: '<font color="#F7DC6F">D - Leadership</font>'
+      # - header: '<font color="#F7DC6F">D - Leadership</font>'
 
       - item: Press News
         link: '#press-section'   
 
-      - header: '<br>'
+      # - header: '<br>'
        
-      - header: '<font color="#F7DC6F">Education & Experience</font>'
+      # - header: '<font color="#F7DC6F">Education & Experience</font>'
       - item: Education
         link: '#education-section'
       - item: Work Experience
@@ -132,11 +135,11 @@ sidebar:
 career-profile:
   title: Research Trajectory
   summary: |
-    I'm driven by applying automation (**modeling**, **simulation**, **automatic control** and **artificial intelligence**) to **optimize** concentrating **solar thermal** processes with the aim of **reducing costs**, **improving efficiency** and **minimizing** the use of **energy** and **water**. 
+        I am a **Senior Researcher in Concentrating Solar Power (CSP) and Renewable Energy Systems**, with over **15 years of experience** in the **modeling, simulation, control, and digitalization** of large-scale energy infrastructures. My work focuses on the application of **advanced automation** and **Artificial Intelligence (AI)** to improve the **efficiency, flexibility, and sustainability** of **solar thermal power plants** and **hybrid renewable systems**.
 
-    In my Ph.D., I worked on the **dynamic modeling** of two-phase flow evaporators for direct steam generation in **parabolic trough** solar thermal power plants. In the scope of several international projects, I worked on the **modeling** and **control** of a **heat recovery system** in an innovative design for the **coupling** of a **biogas turbine** with a solar power plant. I've been also involved in the **recovery of wasted thermal energy** from a solar power plant to **produce water** in a distillation facility to reduce the fresh water consumption. I worked in several national projects, **modeling** parabolic trough collectors, **heat exchangers**, thermal **energy storage** systems, and coupling a solar tower power plant, a gas turbine and a solar distillation facility.
+        I hold a **PhD with International Mention and Extraordinary Prize in Engineering**, and my research has led to **contributions** in **CSP system modeling**, **heliostat field optimization**, **thermal energy storage**, and **AI-based control strategies**, including **deep learning**, **reinforcement learning**, and **digital twins**. I have authored **more than 30 peer-reviewed journal articles** in high-impact international journals and **co-authored two scientific books**.
 
-    Currently, I'm motivated by applying **artificial intelligence** in solar thermal power plants, since they exhibit a low degree of intelligence and autonomy in general, with new ideas like a [**software tool**](http://mixspain.psa.es){:target="_blank"} for **electricity mix optimization** based on artificial intelligence, and a **smart solar tracker** based on **machine learning** and **computer vision**.
+        Beyond academic research, I actively work on **technology transfer**, **open science**, and **data-driven energy analysis**. I founded <a href="https://cspdata.com" target="_blank" rel="noopener">**CSP Data**</a>, a free web-based platform providing comprehensive data on **commercial CSP plants worldwide**, and developed **AI-based tools** to optimize **electricity generation mixes** under **decarbonization constraints**. My research has attracted **national and international media attention**, including coverage by leading energy dissemination platforms such as <a href="https://www.solarpaces.org/new-ai-perfects-heliostat-aim-to-boost-solar-tower-power/" target="_blank" rel="noopener">**SolarPACES**</a> and <a href="https://www.europapress.es/esandalucia/sevilla/noticia-investigadores-andalucia-disenan-sistema-basado-ia-mejorar-rendimiento-plantas-solares-20241206094459.html" target="_blank" rel="noopener">**Europa Press**</a>.
     
 education:
   title: Education
@@ -2380,8 +2383,17 @@ entrepreneurship:
       img: 'assets/docs/entrepreneurship/FORMULARIO Presentación de ideas-CIEMAT Emprende - Heliot.webp'
 
 transfer:
-  title: Research Studies
+  title: Scientific Reports
+  intro: I have contributed to more than 20 deliverables and scientific reports developed within funded international and national research projects, as well as for enterprises and public organizations. Selected representative examples are listed below.
   items:
+    - title: 'Test THICAV - LEIA'
+      img: 'assets/docs/transfer/carta_apoyo_Javier_Bonilla_Cruz_firmado.webp'
+      link: 'assets/docs/transfer/carta_apoyo_Javier_Bonilla_Cruz_firmado.pdf'
+      details: |
+        - **Authors**: J.A. Carballo **J. Bonilla**, A. Ávila-Marín, E. Orts / CIEMAT
+        - **Client**: Twer ingeniería.
+        - **Description**:  Evaluación, análisis y modelado del redimiento del recepto THICAV de Tewer ingeniería, ensayos y validación con datos experimentales en la planta experimental CESA-I.
+      time: 2025
     - title: 'The potential until 2030 of concentrating solar power in Portugal using inductive projection planning'
       link: 'assets/docs/transfer/PortugalMixStudy.pdf'
       details: |
@@ -2390,6 +2402,15 @@ transfer:
         - **Description**: Portugal electricity mix optimization for 2030 using the developed software tool based on artificial intelligence. Collaboration with Associação Portuguesa de Energias Renováveis (APREN) to establish the assumptions and goals considered in this study.
       time: 2021
       img: 'assets/docs/transfer/PortugalMixStudy.webp'
+
+    - title: 'Optical model of concentrating systems offered to users'
+      link: 'assets/docs/projects_int/Sfera-R12-2.pdf'
+      details: |
+        - **Authors**: L.J. Yebra, **J. Bonilla**, L. Roca, E. Zarza / CIEMAT
+        - **Project**: SFERA: Solar Facilities for the European Research Area (228296)
+        - **Description**: Description of the optical model of concentrating systems offered to users for CIEMAT facilities in the scope of the SFERA project.
+      time: 2011
+      img: 'assets/docs/projects_int/Sfera-R12-2.webp'
 
 committees:
   title: Membership to Scientific Committees
