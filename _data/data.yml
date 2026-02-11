@@ -102,6 +102,8 @@ sidebar:
         link: '#host-section'
       - item: Membership to Scientific Committees
         link: '#committees-section'
+      - item: Membership to Technical Committees
+        link: '#technical-section'        
       - item: Scientific Reports
         link: '#transfer-section'
       - item: R&D international project reviewer
@@ -542,6 +544,24 @@ books:
 conferences_international:
   title: International Conference Proceedings
   items:
+    - title: 'Digital tools and artificial intelligence for the optimization of central receiver tower systems (ACCEPTED)'
+      link: 'assets/docs/conf_int/CIES2026_Digitalización_v2.pdf'
+      authors: <b>J. Bonilla</b> / CIEMAT,  J.Carballo, A. Ávila-Marín / CIEMAT, M. Berenguel /UAL
+      details: |
+        XX Congreso Ibérico y XVI Congreso Iberoamericano de Energía Solar
+        Abstract, oral presentation, Almería (Spain), Mar 23 - 25, 2026.
+      time: 2026
+      img: 'assets/docs/conf_int/CIES2026_Digitalización_v2.webp'
+
+    - title: 'Optimization of heliostat aiming strategies in tower power plants using reinforcement learning (ACCEPTED)'
+      link: 'assets/docs/conf_int/S2_Carballo_1.pdf'
+      authors: J.Carballo, <b>J. Bonilla</b> / CIEMAT, N.C. Cruz / UGR, J.D.Álvarez / UAL, A. Ávila-Marín / CIEMAT, M. Berenguel /UAL
+      details: |
+        XX Congreso Ibérico y XVI Congreso Iberoamericano de Energía Solar
+        Abstract, oral presentation, Almería (Spain), Mar 23 - 25, 2026.
+      time: 2026
+      img: 'assets/docs/conf_int/S2_Carballo_1.webp'
+
     - title: 'Integration of solar radiation nowcasting models into a real-time modular weather station architecture'
       link: 'assets/docs/conf_int/SolarPACES_2025_Nowcasting.pdf'
       authors: <b>J. Bonilla</b>, J.A. Carballo / CIEMAT, V. Abad M. Castilla, J.D. Álvarez / UAL, J. Fernández-Reche / CIEMAT
@@ -559,6 +579,14 @@ conferences_international:
         Abstract, Poster, Almería (Spain), Sep 23 - 26, 2025.
       time: 2025
       img: 'assets/docs/conf_int/SolarPACES_2025_Aiming.webp'      
+
+    - title: '2<sup>nd</sup> International Workshop on Solar Towers Performance Enhancement & Cost Reduction'
+      link: 'assets/docs/conf_int/Agenda_Workshop on Solar Towers Performance Enhancement  Cost Reduction.pdf'
+      authors: <b>J. Bonilla</b> / CIEMAT
+      details: |
+        Plataforma Solar de Almería, Ctra. de Senés km 4.5 , 04200, Tabernas, Almería; Spain. September 18 - 19, 2025.
+      time: 2025
+      img: 'assets/docs/conf_int/Agenda_Workshop on Solar Towers Performance Enhancement  Cost Reduction.webp'
 
     - title: 'More Efficient Heliostat Fields for Solar Tower Plants: The HELIOSUN Project'
       link: 'assets/docs/conf_int/HELIOSUN_2024.pdf'
@@ -1220,6 +1248,14 @@ int_projects:
 nat_projects:
   title: National Research Projects
   items:
+    - title: 'SOL-préndete 2: Didáctica y divulgación de la energía solar térmica de concentración con nuevas tecnologías de realidad aumentada y virtual'
+      link: 'assets/docs/projects_nat/SOLPRENDETE2_certificate.pdf'
+      details: |
+        Convocatoria de ayudas para el Fomento de la Cultura Científica, Tecnológica y de la Innovación, Ministry of Science and Innovation, FCT-24-21199, Work team member, budget: 25.000 €<br>
+        [SOL-préndete website](https://solprendete.psa.es){:target="_blank"}
+      time: 2025 - 2026
+      img: 'assets/docs/projects_nat/SOLPRENDETE_certificate.webp'
+
     - title: More efficient heliostat fields for solar tower plants (HELIOSUN)
       link: 'assets/docs/projects_nat/HELIOSUN_certificate.pdf'
       details: |
@@ -2436,6 +2472,22 @@ committees:
         Institute of Electrical and Electronics Engineers (IEEE) Power & Energy Society, International program committee member
       time: 2015 - Now
       img: 'assets/docs/committees/irec.webp'
+
+technical:
+  title: Membership to Technical Committees
+  items:
+    - title: IEC TC 117 / MT 5, IEC 62862 series - Standard focus on performance, design requirements, and testing for solar thermal power plants
+      details: |
+        Member of the Technical Committee (TC) of the International Electrotechnical Commission (IEC).
+      time: 2026 - Now
+      link: 'assets/docs/technical/IEC-TC 17_MT 5.pdf'
+      img: 'assets/docs/technical/IEC-TC 17_MT 5.webp'
+    - title: UNE/CTN 224 - Solar Thermal Power Plants
+      details: |
+        Member of the Standardization technical committee (CTN) 224, Spanish Asociation for Standardization (UNE).
+      time: 2026 - Now
+      link: 'assets/docs/technical/UNE.pdf'
+      img: 'assets/docs/technical/UNE.webp'      
 
 lines:
   title: Membership to Strategic Research Lines
