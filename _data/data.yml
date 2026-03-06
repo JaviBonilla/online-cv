@@ -1839,6 +1839,12 @@ experience:
 research_contracts:
   title: Technology Transfer
   items:
+    - title: Transfiere - 15º European Meeting on Science, Technology and Innovation
+      link: 'assets/docs/transfer/Transfiere_2026.pdf'
+      details: |
+        CIEMAT stand personnel presenting research activities in the area of digitalization and artificial intelligence applied to concentrated solar thermal energy, Málaga (Spain), February 24-26, 2026.
+      time: 2026
+      img: 'assets/docs/transfer/Transfiere_2026.webp'
     - title: Simulación para la Optimización del Mix Eléctrico Portugués en 2030
       link: 'assets/docs/contracts/Protermosolar.pdf'
       details: |
