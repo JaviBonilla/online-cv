@@ -1584,6 +1584,12 @@ press:
   # https://www.cuentamealgobueno.com/2024/12/mejoran-el-rendimiento-de-las-plantas-solares-con-inteligencia-artificial/
   title: Press News
   items:
+  - title: Transfiere 2026 - ASTERIx-CAESar
+    link: https://asterix-caesar.eu/events/transfiere-2026/
+    details:  I was at the CIEMAT booth throughout the event explaining and demonstrating the smart heliostat concept to attendees and media representatives with a fully functional heliostat and tower mock-up.
+    time: 2026
+    img: 'assets/docs/outreach/transfiere.webp'
+
   - title: CST4ALL Newsletter No. 4
     link: assets/docs/outreach/cst4all_newsletter.pdf
     details: Support to the activities of the concentrated solar thermal technology area of the SET plan
@@ -1611,7 +1617,7 @@ press:
     img: 'assets/docs/outreach/andalucia_informa.webp'
     img_style: 'border: 0px;'      
 
-  - title: Diseñan un sistema ‘inteligente’ para mejorar el rendimiento de las plantas solares
+  - title: Diseñan un sistema 'inteligente' para mejorar el rendimiento de las plantas solares
     link: https://fundaciondescubre.es/noticias/disenan-un-sistema-inteligente-para-mejorar-el-rendimiento-de-las-plantas-solares/
     details: Fundación Descubre
     time: 2024
