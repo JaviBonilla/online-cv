@@ -544,7 +544,7 @@ books:
 conferences_international:
   title: International Conference Proceedings
   items:
-    - title: 'Digital tools and artificial intelligence for the optimization of central receiver tower systems (ACCEPTED)'
+    - title: 'Digital tools and artificial intelligence for the optimization of central receiver tower systems'
       link: 'assets/docs/conf_int/CIES2026_Digitalización_v2.pdf'
       authors: <b>J. Bonilla</b> / CIEMAT,  J.Carballo, A. Ávila-Marín / CIEMAT, M. Berenguel /UAL
       details: |
@@ -553,7 +553,7 @@ conferences_international:
       time: 2026
       img: 'assets/docs/conf_int/CIES2026_Digitalización_v2.webp'
 
-    - title: 'Optimization of heliostat aiming strategies in tower power plants using reinforcement learning (ACCEPTED)'
+    - title: 'Optimization of heliostat aiming strategies in tower power plants using reinforcement learning'
       link: 'assets/docs/conf_int/S2_Carballo_1.pdf'
       authors: J.Carballo, <b>J. Bonilla</b> / CIEMAT, N.C. Cruz / UGR, J.D.Álvarez / UAL, A. Ávila-Marín / CIEMAT, M. Berenguel /UAL
       details: |
